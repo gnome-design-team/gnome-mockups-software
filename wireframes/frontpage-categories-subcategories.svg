@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="frontpage-categories-subcategories.svg"
-   inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups-software/wireframes/category studies_left_gnome_popover.png"
+   inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups-software/wireframes/frontpage-categories-subcategories.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -83,9 +83,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1762.5676"
-     inkscape:cy="1134.1492"
+     inkscape:zoom="1"
+     inkscape:cx="2577.5908"
+     inkscape:cy="1021.6802"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2022,7 +2022,7 @@
          sodipodi:role="line"
          id="tspan39319"
          x="2833.3"
-         y="-556.875">Audacity</tspan></text>
+         y="-556.875">Chess</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text39321"
@@ -2034,7 +2034,7 @@
          x="2833.3"
          id="tspan39323"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">Record and edit audio files.</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">Exciting and brand new!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none"
