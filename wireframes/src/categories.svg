@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="categories.svg"
-   inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups-software/wireframes/categories.png"
+   inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups-software/wireframes/categories-grid-overlay.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -625,8 +625,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="497.34202"
-     inkscape:cy="916.64589"
+     inkscape:cx="555.34202"
+     inkscape:cy="572.64589"
      inkscape:document-units="px"
      inkscape:current-layer="g3244"
      showgrid="false"
