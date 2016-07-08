@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-07-08 17:10+0200\n"
+"POT-Creation-Date: 2016-07-08 17:18+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,13 +10,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. (itstool) path: Work/format
-#: C/maps-2.svg:869
+#: C/maps-2.svg:901
 #: C/maps-4.svg:869
 msgid "image/svg+xml"
 msgstr ""
 
 #. (itstool) path: flowRoot/flowPara
-#: C/maps-2.svg:1272
+#: C/maps-2.svg:1371
 #: C/maps-4.svg:1272
 #, no-wrap
 msgid ""
@@ -24,7 +24,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: flowRoot/flowPara
-#: C/maps-2.svg:1284
+#: C/maps-2.svg:1383
 #: C/maps-4.svg:1284
 #, no-wrap
 msgid ""
