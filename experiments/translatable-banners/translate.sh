@@ -1,7 +1,7 @@
 #!/bin/bash
 
 for f in *; do
-  if [[ -d $f && "$f" == "C" ]]; then
+  if [[ -d $f && ! "$f" == "C" ]]; then
     echo "$f is a directory"
   fi
 done
