@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-07-08 16:55+0200\n"
+"POT-Creation-Date: 2016-07-08 16:58+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Jakub Steiner <jimmac2gmail.com>\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,7 +21,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "Maps"
-msgstr "Mapy"
+msgstr ""
 
 #. (itstool) path: flowRoot/flowPara
 #: C/maps-2.svg:1284
@@ -29,5 +29,5 @@ msgstr "Mapy"
 #, no-wrap
 msgid ""
 "Find places around the world."
-msgstr "Najdi místa ve světě. Pokud nejsi muž. Muž se ztratí i s mapou."
+msgstr ""
 
