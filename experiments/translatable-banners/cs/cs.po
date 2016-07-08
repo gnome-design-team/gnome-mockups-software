@@ -26,5 +26,5 @@ msgstr "Mapy"
 #, no-wrap
 msgid ""
 "Find places around the world."
-msgstr "Najdi místa na světě."
+msgstr "Najdi místa na světě. I když možná taky ne. Chlap se ztratí i s mapou."
 
