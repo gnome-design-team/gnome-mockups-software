@@ -21,7 +21,7 @@ msgstr ""
 #, no-wrap
 msgid ""
 "Maps"
-msgstr ""
+msgstr "Mapy"
 
 #. (itstool) path: flowRoot/flowPara
 #: C/maps-2.svg:1284
@@ -29,5 +29,5 @@ msgstr ""
 #, no-wrap
 msgid ""
 "Find places around the world."
-msgstr ""
+msgstr "Najdi místa na světě. Pokud nejsi muž. Muži jsou schopní zabloudit i s mapou."
 
