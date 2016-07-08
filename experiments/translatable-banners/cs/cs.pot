@@ -19,12 +19,12 @@ msgstr ""
 #, no-wrap
 msgid ""
 "Maps"
-msgstr ""
+msgstr "Mapy"
 
 #. (itstool) path: flowRoot/flowPara
 #: C/big-one.svg:1542
 #, no-wrap
 msgid ""
 "Find places around the world."
-msgstr ""
+msgstr "Najdi místa na světě."
 
