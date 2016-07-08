@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-07-08 13:04+0200\n"
+"POT-Creation-Date: 2016-07-08 16:55+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,21 +10,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. (itstool) path: Work/format
-#: C/big-one.svg:994
+#: C/maps-2.svg:869
+#: C/maps-4.svg:869
 msgid "image/svg+xml"
 msgstr ""
 
 #. (itstool) path: flowRoot/flowPara
-#: C/big-one.svg:1530
+#: C/maps-2.svg:1272
+#: C/maps-4.svg:1272
 #, no-wrap
 msgid ""
 "Maps"
-msgstr "מפות"
+msgstr ""
 
 #. (itstool) path: flowRoot/flowPara
-#: C/big-one.svg:1542
+#: C/maps-2.svg:1284
+#: C/maps-4.svg:1284
 #, no-wrap
 msgid ""
 "Find places around the world."
-msgstr "מצא מקומות ברחבי העולם."
+msgstr ""
 
