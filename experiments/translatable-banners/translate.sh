@@ -7,7 +7,7 @@ for f in *; do
     itstool -m $f/$f.mo -o $f/ C/*svg
     for s in $f/*svg; do
       p=`basename $s svg`png
-      echo inkscape -e $f/$p $s
+      inkscape -e $f/$p $s
     done
   fi
 done
