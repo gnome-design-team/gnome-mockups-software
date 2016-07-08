@@ -5,6 +5,6 @@ if [ $# -eq 0 ]
   echo "Usage:"
   echo "itstool -o <lang> C/*svg"
 else
-  echo "itstool -o $1 C/*svg"
+  itstool -o $1 C/*svg
 fi
 
