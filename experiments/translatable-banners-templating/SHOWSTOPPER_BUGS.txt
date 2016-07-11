@@ -1,4 +1,0 @@
-To allow for the translated text to be of varying size and overflow correctly and to rupport right to left languages, the text is using flowPara in Inkscape.
-
-https://bugzilla.gnome.org/show_bug.cgi?id=768562 <- flowPara doesn't render in RSVG
-https://bugs.launchpad.net/inkscape/+bug/1600203 <- flowPara styling doesn't render in anything other than Inkscape
