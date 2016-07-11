@@ -6,11 +6,35 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg7669"
    viewBox="0 0 580.00001 175"
    height="175"
-   width="580">
+   width="580"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="maps-4.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     id="namedview268"
+     showgrid="false"
+     inkscape:zoom="3.5696701"
+     inkscape:cx="229.6253"
+     inkscape:cy="68.612875"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7669" />
   <defs
      id="defs7671">
     <clipPath
@@ -869,7 +893,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1269,7 +1293,7 @@
            height="28.571428"
            width="275.71429"
            id="rect12995" /></flowRegion><flowPara
-         id="flowPara12997">Maps</flowPara></flowRoot>    <flowRoot
+         id="flowPara12997">%%title</flowPara></flowRoot>    <flowRoot
        transform="translate(0,887.36216)"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        id="flowRoot12999"
@@ -1281,5 +1305,5 @@
            height="41.42857"
            width="275"
            id="rect13003" /></flowRegion><flowPara
-         id="flowPara13005">Find places around the world.</flowPara></flowRoot>  </g>
+         id="flowPara13005">%%description</flowPara></flowRoot>  </g>
 </svg>
