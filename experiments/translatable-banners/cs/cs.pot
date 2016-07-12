@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-07-08 17:19+0200\n"
+"POT-Creation-Date: 2016-07-12 13:07+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,9 +10,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. (itstool) path: Work/format
+#: C/builder-4.svg:928
 #: C/maps-2.svg:901
 #: C/maps-4.svg:869
 msgid "image/svg+xml"
+msgstr ""
+
+#. (itstool) path: flowRoot/flowPara
+#: C/builder-4.svg:959
+#, no-wrap
+msgid ""
+"Builder"
+msgstr ""
+
+#. (itstool) path: flowRoot/flowPara
+#: C/builder-4.svg:971
+#, no-wrap
+msgid ""
+"One stop shop for GNOME Application development."
 msgstr ""
 
 #. (itstool) path: flowRoot/flowPara
