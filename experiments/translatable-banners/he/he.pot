@@ -25,7 +25,7 @@ msgstr ""
 #: C/builder-4.svg:978
 #, no-wrap
 msgid "One stop shop for GNOME Application development."
-msgstr ""
+msgstr "תחת קורת גג אחת עבור פיתוח יישומי GNOME."
 
 #. (itstool) path: flowRoot/flowPara
 #: C/maps-2.svg:1376 C/maps-4.svg:1312
