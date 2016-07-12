@@ -30,7 +30,7 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.8043414"
+     inkscape:zoom="1"
      inkscape:cx="241.53242"
      inkscape:cy="84.710982"
      inkscape:window-x="0"
@@ -45,6 +45,10 @@
        position="561.9779,153.51862"
        orientation="1,0"
        id="guide14367" />
+    <sodipodi:guide
+       position="465.00001,77"
+       orientation="0,1"
+       id="guide14405" />
   </sodipodi:namedview>
   <defs
      id="defs7671">
