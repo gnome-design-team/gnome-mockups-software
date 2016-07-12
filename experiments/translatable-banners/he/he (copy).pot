@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2016-07-12 13:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: Work/format
+#: C/builder-4.svg:935
+#: C/maps-2.svg:905
+#: C/maps-4.svg:908
+msgid "image/svg+xml"
+msgstr ""
+
+#. (itstool) path: flowRoot/flowPara
+#: C/builder-4.svg:966
+#, no-wrap
+msgid ""
+"Builder"
+msgstr ""
+
+#. (itstool) path: flowRoot/flowPara
+#: C/builder-4.svg:978
+#, no-wrap
+msgid ""
+"One stop shop for GNOME Application development."
+msgstr ""
+
+#. (itstool) path: flowRoot/flowPara
+#: C/maps-2.svg:1376
+#: C/maps-4.svg:1312
+#, no-wrap
+msgid ""
+"Maps"
+msgstr ""
+
+#. (itstool) path: flowRoot/flowPara
+#: C/maps-2.svg:1388
+#: C/maps-4.svg:1324
+#, no-wrap
+msgid ""
+"Find places around the world."
+msgstr ""
+
