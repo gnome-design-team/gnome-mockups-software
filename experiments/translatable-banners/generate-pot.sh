@@ -6,6 +6,6 @@ if [ $# -eq 0 ]
   echo "itstool -o <lang> C/*svg"
 else
   itstool -o $1/$1.pot C/*svg
-  msgmerge $1/$1.po $1/$1.pot
+  msgmerge $1/$1.po $1/$1.pot -o $1/$1.pot
 fi
 
