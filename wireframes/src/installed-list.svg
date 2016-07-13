@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1250"
+   height="1260"
+   viewBox="0 0 1250 1260"
+   id="svg16934"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="installed.svg"
+   inkscape:export-filename="/home/aday/checkout/gnome-mockups-software/wireframes/installed-list.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs16936">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8915-0-8-2-7-4-4-8"
+       is_visible="true" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath19747">
+      <path
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         mask="none"
+         d="m 61.497601,860.39272 858.999999,0 0,118.99991 c -276.33333,23.99997 -566.66667,-44 -858.999999,0 z"
+         id="path19749"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="440.36388"
+     inkscape:cy="648.26295"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1134"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid17860" />
+    <sodipodi:guide
+       position="1190,710"
+       orientation="1,0"
+       id="guide19309" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata16939">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,207.63784)">
+    <flowRoot
+       transform="translate(1.9642,-134.847)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       id="flowRoot16671"
+       xml:space="preserve"><flowRegion
+         id="flowRegion16673"><rect
+           y="153"
+           x="958"
+           height="184.20917"
+           width="230.0358"
+           id="rect16675"
+           style="fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara16677"
+         style="font-size:13.75px">Source is only shown when there's a conflict or the source isn't the distro. This differentiates apps with the same name and makes it clear who's responsible for the software in question.</flowPara></flowRoot>    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#a7a7a7;stroke-width:0.99999994;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       mask="none"
+       d="m 61.49763,-99.1379 859,0 0,598.9999 c -276.33333,24 -566.66667,-44 -859,0 z"
+       id="rect17901"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="sssccccss"
+       inkscape:connector-curvature="0"
+       id="path17903"
+       d="m 73.49763,-147.1379 835.00005,-1e-4 c 6.648,0 12.1899,5.3547 12,12 l 0,35 -12,0 -835.00005,1e-4 -12,0 0,-35 c 0,-6.648 5.352,-12 12,-12 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#a7aba7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter12000-4-9-2);enable-background:accumulate" />
+    <path
+       style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 875.49828,-135.13724 0,22.99018"
+       id="path17905"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g17907"
+       transform="translate(889.00318,-131.63784)"
+       style="display:inline;fill:#888a85">
+      <g
+         style="display:inline;fill:#888a85"
+         id="g17909"
+         transform="translate(-60,-518)" />
+      <g
+         id="g17911"
+         transform="translate(-60,-518)"
+         style="fill:#888a85" />
+      <g
+         id="g17913"
+         transform="translate(-60,-518)"
+         style="fill:#888a85" />
+      <g
+         id="g17915"
+         transform="translate(-60,-518)"
+         style="fill:#888a85">
+        <g
+           style="display:inline;fill:#888a85"
+           id="g17917"
+           transform="translate(19,-242)">
+          <path
+             style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+             id="path17919"
+             d="m 45,764 1,0 c 0.01037,-1.2e-4 0.02079,-4.6e-4 0.03125,0 0.254951,0.0112 0.50987,0.12858 0.6875,0.3125 L 49,766.59375 51.3125,764.3125 C 51.578125,764.082 51.759172,764.007 52,764 l 1,0 0,1 c 0,0.28647 -0.03434,0.55065 -0.25,0.75 l -2.28125,2.28125 2.25,2.25 C 52.906938,770.46942 52.999992,770.7347 53,771 l 0,1 -1,0 c -0.265301,-10e-6 -0.530586,-0.0931 -0.71875,-0.28125 L 49,769.4375 46.71875,771.71875 C 46.530586,771.90694 46.26529,772 46,772 l -1,0 0,-1 c -3e-6,-0.26529 0.09306,-0.53058 0.28125,-0.71875 l 2.28125,-2.25 L 45.28125,765.75 C 45.070508,765.55537 44.97809,765.28075 45,765 l 0,-1 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g17921"
+         transform="translate(-60,-518)"
+         style="fill:#888a85" />
+      <g
+         id="g17923"
+         transform="translate(-60,-518)"
+         style="fill:#888a85" />
+      <g
+         id="g17925"
+         transform="translate(-60,-518)"
+         style="fill:#888a85" />
+    </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="3"
+       rx="3.0000005"
+       y="-140.15393"
+       x="341.68753"
+       height="33"
+       width="297.875"
+       id="rect17927"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text17929"
+       y="-118.86609"
+       x="391.68997"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="-118.86609"
+         x="391.68997"
+         id="tspan17931"
+         sodipodi:role="line">All</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path17933"
+       d="m 441.50013,-140.16316 0,33.0182"
+       style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="sccccssss"
+       inkscape:connector-curvature="0"
+       id="path17935"
+       d="m 636.52073,-107.15396 -95.8332,0 0,-3 0,-27 0,-3 95.8332,0 c 1.6505,0 2.9793,1.338 2.9793,3 l 0,27 c 0,1.662 -1.3288,3 -2.9793,3 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text17937"
+       y="-118.86609"
+       x="590.41022"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e6e5;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="-118.86609"
+         x="590.41022"
+         id="tspan17939"
+         sodipodi:role="line">Updates</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect17941"
+       width="298"
+       height="33"
+       x="341.50003"
+       y="-140.15393"
+       rx="3.0000005"
+       ry="3"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+       x="391.68997"
+       y="-118.86609"
+       id="text17943"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan17945"
+         x="391.68997"
+         y="-118.86609">All</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 441.50003,-140.13072 0,33.0182"
+       id="path17947"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+       x="590.41022"
+       y="-118.86609"
+       id="text17949"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan17951"
+         x="590.41022"
+         y="-118.86609"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell">Updates</tspan></text>
+    <g
+       id="g17953"
+       transform="translate(-18.99997,-527.042)">
+      <g
+         id="g17955"
+         transform="matrix(0.63213999,0,0,0.63213999,260.977,567.35838)">
+        <path
+           transform="translate(3.0440626,284.36216)"
+           d="m -222.5,-44.044922 c -3.80792,0 -7.59255,1.567162 -10.28516,4.259766 -2.6926,2.692603 -4.25976,6.47724 -4.25976,10.285156 0,3.807916 1.56716,7.592553 4.25976,10.285156 1.67661,1.676604 3.79717,2.851451 6.0625,3.548828 l -6.40429,6.4042972 c -5.57007,5.5700598 -5.57007,14.7190028 0,20.2890628 5.57005,5.570071 14.719,5.570065 20.28906,0 l 14.56641,-14.5664065 c 5.57005,-5.5700619 5.57005,-14.7190005 0,-20.2890625 -2.70651,-2.706499 -6.27173,-4.101309 -9.83399,-4.179687 0.0533,-0.497974 0.15039,-0.990966 0.15039,-1.492188 0,-3.807916 -1.56716,-7.592553 -4.25976,-10.285156 -2.69261,-2.692604 -6.47724,-4.259766 -10.28516,-4.259766 z"
+           id="path17957"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           inkscape:original="M -222.5 -40 A 10.5 10.5 0 0 0 -233 -29.5 A 10.5 10.5 0 0 0 -222.5 -19 A 10.5 10.5 0 0 0 -212 -29.5 A 10.5 10.5 0 0 0 -222.5 -40 z M -208.41602 -23.992188 C -211.04889 -23.992188 -213.68177 -22.984243 -215.69922 -20.966797 L -230.26562 -6.4003906 C -234.30052 -2.3654975 -234.30052 4.1311225 -230.26562 8.1660156 C -226.23074 12.200909 -219.73411 12.200909 -215.69922 8.1660156 L -201.13281 -6.4003906 C -197.09792 -10.435284 -197.09792 -16.931904 -201.13281 -20.966797 C -203.15026 -22.984243 -205.78314 -23.992188 -208.41602 -23.992188 z "
+           inkscape:radius="4.0451694"
+           sodipodi:type="inkscape:offset" />
+        <circle
+           r="10.5"
+           cy="254.86217"
+           cx="-219.45593"
+           id="circle17959"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <rect
+           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+           ry="10.300001"
+           rx="10.300001"
+           y="326.31937"
+           x="35.878487"
+           height="41.200016"
+           width="20.600002"
+           id="rect17961"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      </g>
+    </g>
+    <flowRoot
+       transform="translate(114.28763,-423.46506)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       id="flowRoot17963"
+       xml:space="preserve"><flowRegion
+         id="flowRegion17965"><rect
+           y="425"
+           x="228"
+           height="54"
+           width="437.7124"
+           id="rect17967"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara17969">Blender provides a broad spectrum of modeling, texturing, lighting, animation and video post-processing functionality in one package. </flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot17971"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="translate(-82.71237,-425.46506)"><flowRegion
+         id="flowRegion17973"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436"
+           id="rect17975"
+           width="179.71242"
+           height="61"
+           x="228"
+           y="425" /></flowRegion><flowPara
+         id="flowPara17977">Blender (blender.org)</flowPara></flowRoot>    <image
+       y="-3.6518631"
+       x="82.000038"
+       id="image17979"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAAMdEVY dFRpdGxlAEZvbGRlcuNZL58AAAAUdEVYdEF1dGhvcgBKYWt1YiBTdGVpbmVy5vv3LwAAACF0RVh0 U291cmNlAGh0dHA6Ly9qaW1tYWMubXVzaWNoYWxsLmN6aWbjXgAAAFJ0RVh0Q29weXJpZ2h0AEND IEF0dHJpYnV0aW9uLVNoYXJlQWxpa2UgaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5z ZXMvYnktc2EvMy4wL16DWrwAAAuMSURBVGiB7Zl7bBzXdcZ/987s7uxy+VpSIkVSfIh6S5ZESVZl 2arlOIAdp65aVyri2LIDtymKAm5aFC2KJkDcokHbpCicAkaTNGkVW37AjpPYiZymceTKD1mqRZFM 9ZZIUaTJFSm+l/ucmXv7x8ySS5GS9SxQQAc4mJm7M/d83z3n3HPvXbgtt+W2/L8Wcas6PrCTsBXk SSG5C0UfAb7Tspvum23nlhB45wtYZZrWSNBoKCkvLrKVtEcGx3Jaqz9teYF/vZm2bgmBI4/xGSvE K03r1paISCUIgZ1O0XP0aMpOTryZyvDUltdI3wxb8mZ0cqkYgq6cg5G9eA60AhkgUFRK052bI6W1 Db8VsfhV6+Msvhm2blkOtO9ilxZ8q3ZeMFy8eKMQRZVTvyUG+lX/8Y6Uk7Wf3PASP7wRO7eMAED7 E7Sg+XlpsSyrXtkSEOWNoDUAuWSC3vaP0tnE2PMqwtMbv4N9PTZuKQGAw49SaQbYawVYvXBZc8So 2wBCgNYoxyZ+oiM9+XHXSdfmN9a/Qv+19n/LCQC8sw0zVs8/CskX65uqItaSexHSRKNBK8Z6Ot0L x9uS2nV3tOzhF9fS9ycSOPIkT0jNlzU0aEXo+ml4EggKZ8nd95uipNZLcK3QWpEZG6K39UDKzSb/ fu3z/K0AfcME2nfxZ6bkmZqmmqg1rw4RsBDSBGGANECaIKR3n28TEiGk1y6kZ0IUmMm/rxUoBdoF 5YJWONkUfe2HUunh+EHhsGPNS4zeKIGRxoVF5aHGDQjhA84DL7gXU+ANMMxp8IUkgKlB9UfeI5En 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 "
+       preserveAspectRatio="none"
+       height="48"
+       width="48" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17981"
+       d="m 62.00003,-17.15172 858.00005,0"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d8d8d8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot17983"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="translate(114.28763,-326.4791)"><flowRegion
+         id="flowRegion17985"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436"
+           id="rect17987"
+           width="425.7124"
+           height="71"
+           x="228"
+           y="425" /></flowRegion><flowPara
+         id="flowPara17989">Blender provides a broad spectrum of modeling, texturing, lighting, animation and video post-processing functionality in one package. </flowPara></flowRoot>    <flowRoot
+       transform="translate(-82.71237,-332.4791)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       id="flowRoot17991"
+       xml:space="preserve"><flowRegion
+         id="flowRegion17993"><rect
+           y="425"
+           x="228"
+           height="61"
+           width="179.71242"
+           id="rect17995"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara17997">Blender (distribution.org)</flowPara></flowRoot>    <image
+       width="48"
+       height="48"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAAMdEVY dFRpdGxlAEZvbGRlcuNZL58AAAAUdEVYdEF1dGhvcgBKYWt1YiBTdGVpbmVy5vv3LwAAACF0RVh0 U291cmNlAGh0dHA6Ly9qaW1tYWMubXVzaWNoYWxsLmN6aWbjXgAAAFJ0RVh0Q29weXJpZ2h0AEND IEF0dHJpYnV0aW9uLVNoYXJlQWxpa2UgaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5z ZXMvYnktc2EvMy4wL16DWrwAAAuMSURBVGiB7Zl7bBzXdcZ/987s7uxy+VpSIkVSfIh6S5ZESVZl 2arlOIAdp65aVyri2LIDtymKAm5aFC2KJkDcokHbpCicAkaTNGkVW37AjpPYiZymceTKD1mqRZFM 9ZZIUaTJFSm+l/ucmXv7x8ySS5GS9SxQQAc4mJm7M/d83z3n3HPvXbgtt+W2/L8Wcas6PrCTsBXk SSG5C0UfAb7Tspvum23nlhB45wtYZZrWSNBoKCkvLrKVtEcGx3Jaqz9teYF/vZm2bgmBI4/xGSvE K03r1paISCUIgZ1O0XP0aMpOTryZyvDUltdI3wxb8mZ0cqkYgq6cg5G9eA60AhkgUFRK052bI6W1 Db8VsfhV6+Msvhm2blkOtO9ilxZ8q3ZeMFy8eKMQRZVTvyUG+lX/8Y6Uk7Wf3PASP7wRO7eMAED7 E7Sg+XlpsSyrXtkSEOWNoDUAuWSC3vaP0tnE2PMqwtMbv4N9PTZuKQGAw49SaQbYawVYvXBZc8So 2wBCgNYoxyZ+oiM9+XHXSdfmN9a/Qv+19n/LCQC8sw0zVs8/CskX65uqItaSexHSRKNBK8Z6Ot0L x9uS2nV3tOzhF9fS9ycSOPIkT0jNlzU0aEXo+ml4EggKZ8nd95uipNZLcK3QWpEZG6K39UDKzSb/ fu3z/K0AfcME2nfxZ6bkmZqmmqg1rw4RsBDSBGGANECaIKR3n28TEiGk1y6kZ0IUmMm/rxUoBdoF 5YJWONkUfe2HUunh+EHhsGPNS4zeKIGRxoVF5aHGDQjhA84DL7gXU+ANMMxp8IUkgKlB9UfeI5En 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 "
+       id="image17999"
+       x="82.000038"
+       y="93.334106" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d8d8d8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 62.00003,77.83418 858.00005,0"
+       id="path18001"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       transform="translate(114.28763,-233.47914)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       id="flowRoot18003"
+       xml:space="preserve"><flowRegion
+         id="flowRegion18005"><rect
+           y="425"
+           x="228"
+           height="64"
+           width="431.7124"
+           id="rect18007"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara18009">Blend swap 3D object library. Blend swap is a community of passionate Blender artists who share their work under Creative Commons…</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot18011"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="translate(-82.71237,-235.47914)"><flowRegion
+         id="flowRegion18013"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436"
+           id="rect18015"
+           width="179.71242"
+           height="61"
+           x="228"
+           y="425" /></flowRegion><flowPara
+         id="flowPara18017">Blend Swap</flowPara></flowRoot>    <g
+       transform="translate(-1385.4582,-741.02794)"
+       id="g18019">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         ry="3"
+         rx="2.9999998"
+         y="747.86218"
+         x="2187.9583"
+         height="33"
+         width="89"
+         id="rect18021"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         sodipodi:linespacing="125%"
+         id="text18023"
+         y="769.0509"
+         x="2232.1814"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="769.0509"
+           x="2232.1814"
+           id="tspan18025"
+           sodipodi:role="line"
+           style="font-weight:normal;font-size:13.75px">Remove</tspan></text>
+    </g>
+    <g
+       id="g18027"
+       transform="translate(-1385.4582,-645.02797)">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect18029"
+         width="89"
+         height="33"
+         x="2187.9583"
+         y="747.86218"
+         rx="2.9999998"
+         ry="3"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="2232.1814"
+         y="769.0509"
+         id="text18031"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-weight:normal;font-size:13.75px"
+           sodipodi:role="line"
+           id="tspan18033"
+           x="2232.1814"
+           y="769.0509">Remove</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path18035"
+       d="m 62.00003,172.83418 858.00005,0"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d8d8d8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <g
+       transform="translate(-1385,-638.02796)"
+       id="g18037">
+      <g
+         id="g18039"
+         transform="translate(-0.45825195,87.999947)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           id="rect18041"
+           width="89"
+           height="33"
+           x="2187.9583"
+           y="747.86218"
+           rx="2.9999998"
+           ry="3"
+           inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="2232.1814"
+           y="769.0509"
+           id="text18043"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-weight:normal;font-size:13.75px"
+             sodipodi:role="line"
+             id="tspan18045"
+             x="2232.1814"
+             y="769.0509">Remove</tspan></text>
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot18047"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="translate(114.28763,-504.45096)"><flowRegion
+         id="flowRegion18049"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436"
+           id="rect18051"
+           width="437.7124"
+           height="54"
+           x="228"
+           y="425" /></flowRegion><flowPara
+         id="flowPara18053">Archive manager (also known as File Roller) is the default GNOME application for opening, creating and modifying archive and ...</flowPara></flowRoot>    <flowRoot
+       transform="translate(-82.71237,-504.45096)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       id="flowRoot18055"
+       xml:space="preserve"><flowRegion
+         id="flowRegion18057"><rect
+           y="425"
+           x="228"
+           height="61"
+           width="179.71242"
+           id="rect18059"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara18061">Archive Manager</flowPara></flowRoot>    <g
+       id="g18063"
+       transform="translate(-1385.4582,-822.01384)">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect18065"
+         width="89"
+         height="33"
+         x="2187.9583"
+         y="747.86218"
+         rx="2.9999998"
+         ry="3"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="2232.1814"
+         y="769.0509"
+         id="text18067"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-weight:normal;font-size:13.75px"
+           sodipodi:role="line"
+           id="tspan18069"
+           x="2232.1814"
+           y="769.0509">Remove</tspan></text>
+    </g>
+    <image
+       width="48"
+       height="48"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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 "
+       id="image18071"
+       x="82.000038"
+       y="-81.651611" />
+    <flowRoot
+       transform="translate(114.28763,-105.47908)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       id="flowRoot18073"
+       xml:space="preserve"><flowRegion
+         id="flowRegion18075"><rect
+           y="425"
+           x="228"
+           height="71"
+           width="425.7124"
+           id="rect18077"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara18079">A simple GNOME 3 application to access remote or virtual systems. Unlike some other virtual machine management software, Boxes ...</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot18081"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="translate(-84.71237,-105.47908)"><flowRegion
+         id="flowRegion18083"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436"
+           id="rect18085"
+           width="179.71242"
+           height="61"
+           x="228"
+           y="425" /></flowRegion><flowPara
+         id="flowPara18087">Boxes</flowPara></flowRoot>    <g
+       transform="translate(-1385.4582,-424.02795)"
+       id="g18089">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         ry="3"
+         rx="2.9999998"
+         y="747.86218"
+         x="2187.9583"
+         height="33"
+         width="89"
+         id="rect18091"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         sodipodi:linespacing="125%"
+         id="text18093"
+         y="769.0509"
+         x="2232.1814"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="769.0509"
+           x="2232.1814"
+           id="tspan18095"
+           sodipodi:role="line"
+           style="font-weight:normal;font-size:13.75px">Remove</tspan></text>
+    </g>
+    <image
+       width="48"
+       height="48"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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 "
+       id="image18097"
+       x="82.000038"
+       y="316.33417" />
+    <rect
+       ry="2.90625"
+       rx="2.9885516"
+       y="-95.637817"
+       x="911"
+       height="143.99994"
+       width="5"
+       id="rect18099"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.8;fill:#9b9d9e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;enable-background:new" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d8d8d8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 62.00003,381.83423 858.00005,0"
+       id="path18101"
+       inkscape:connector-curvature="0" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       y="-140.13782"
+       x="441.50015"
+       height="32.983879"
+       width="98.999878"
+       id="rect18103"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dbdbdb;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <path
+       style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 540.50013,-140.16316 0,33.0182"
+       id="path18105"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+       x="491.18997"
+       y="-118.86609"
+       id="text18107"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan18109"
+         x="491.18997"
+         y="-118.86609">Installed</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path18111"
+       d="m 540.50013,-140.16316 0,33.0182"
+       style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot18113"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#919191;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="translate(114.28763,-190.9375)"><flowRegion
+         id="flowRegion18115"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#919191"
+           id="rect18117"
+           width="179.71242"
+           height="61"
+           x="228"
+           y="425" /></flowRegion><flowPara
+         style="font-weight:normal;fill:#919191"
+         id="flowPara18119">Source: blendswap.org</flowPara></flowRoot>    <flowRoot
+       transform="translate(114.28763,-380.9375)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#919191;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       id="flowRoot18121"
+       xml:space="preserve"><flowRegion
+         id="flowRegion18123"><rect
+           y="425"
+           x="228"
+           height="61"
+           width="179.71242"
+           id="rect18125"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#919191" /></flowRegion><flowPara
+         id="flowPara18127"
+         style="font-weight:normal;fill:#919191">Source: blender.org</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot18129"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#919191;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="translate(114.28763,-286.9375)"><flowRegion
+         id="flowRegion18131"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#919191"
+           id="rect18133"
+           width="179.71242"
+           height="61"
+           x="228"
+           y="425" /></flowRegion><flowPara
+         style="font-weight:normal;fill:#919191"
+         id="flowPara18135">Source: distribution.org</flowPara></flowRoot>    <rect
+       ry="3"
+       rx="3"
+       y="25.362183"
+       x="146.00005"
+       height="19.99999"
+       width="68.999992"
+       id="rect18137"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#919191;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <flowRoot
+       transform="translate(-70.30443,-396.43994)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       id="flowRoot18139"
+       xml:space="preserve"><flowRegion
+         id="flowRegion18141"><rect
+           y="425"
+           x="228"
+           height="61"
+           width="179.71242"
+           id="rect18143"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara18145">Graphics</flowPara></flowRoot>    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#919191;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect18147"
+       width="68.999992"
+       height="19.99999"
+       x="146.00005"
+       y="117.36218"
+       rx="3"
+       ry="3" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot18149"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="translate(-70.30443,-304.43994)"><flowRegion
+         id="flowRegion18151"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+           id="rect18153"
+           width="179.71242"
+           height="61"
+           x="228"
+           y="425" /></flowRegion><flowPara
+         id="flowPara18155">Graphics</flowPara></flowRoot>    <rect
+       ry="3"
+       rx="3"
+       y="213.36224"
+       x="146.00005"
+       height="19.99999"
+       width="68.999992"
+       id="rect18157"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#919191;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <flowRoot
+       transform="translate(-70.30443,-208.43994)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       id="flowRoot18159"
+       xml:space="preserve"><flowRegion
+         id="flowRegion18161"><rect
+           y="425"
+           x="228"
+           height="61"
+           width="179.71242"
+           id="rect18163"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara18165">Graphics</flowPara></flowRoot>    <rect
+       y="267.33417"
+       x="61.997601"
+       height="31.99999"
+       width="858"
+       id="rect18167"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#dbdbdb;fill-opacity:1;fill-rule:nonzero;stroke:#215d9c;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <flowRoot
+       transform="translate(-154.71237,-150.15824)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       id="flowRoot18169"
+       xml:space="preserve"><flowRegion
+         id="flowRegion18171"><rect
+           y="425"
+           x="228"
+           height="61"
+           width="179.71242"
+           id="rect18173"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara18175">Available to All Users</flowPara></flowRoot>    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="3"
+       rx="3.0000007"
+       y="-140.13794"
+       x="835.49817"
+       height="33"
+       width="33"
+       id="rect18179"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path18923"
+       d="m 62.00003,298.83416 858.00005,0"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d8d8d8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot18925"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="translate(114.28763,-22.47915)"><flowRegion
+         id="flowRegion18927"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436"
+           id="rect18929"
+           width="425.7124"
+           height="71"
+           x="228"
+           y="425" /></flowRegion><flowPara
+         id="flowPara18931">Builder is an actively developer Integrated Developement Environment for GNOME. It combines integrated support for essential GNOME ...</flowPara></flowRoot>    <flowRoot
+       transform="translate(-84.71237,-22.47915)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       id="flowRoot18933"
+       xml:space="preserve"><flowRegion
+         id="flowRegion18935"><rect
+           y="425"
+           x="228"
+           height="61"
+           width="179.71242"
+           id="rect18937"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara18939">Builder</flowPara></flowRoot>    <g
+       id="g18941"
+       transform="translate(-1385.4582,-341.02802)">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect18943"
+         width="89"
+         height="33"
+         x="2187.9583"
+         y="747.86218"
+         rx="2.9999998"
+         ry="3"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="2232.1814"
+         y="769.0509"
+         id="text18945"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-weight:normal;font-size:13.75px"
+           sodipodi:role="line"
+           id="tspan18947"
+           x="2232.1814"
+           y="769.0509">Remove</tspan></text>
+    </g>
+    <image
+       y="399.33411"
+       x="82.000038"
+       id="image19073"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
+AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAANdEVY
+dFRpdGxlAEJ1aWxkZXJTTWS3AAAAFHRFWHRBdXRob3IASmFrdWIgU3RlaW5lcub79y8AAAAWdEVY
+dENyZWF0aW9uIFRpbWUAMjAxNC05LTTSfd2zAAAAUnRFWHRDb3B5cmlnaHQAQ0MgQXR0cmlidXRp
+b24tU2hhcmVBbGlrZSBodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1zYS8z
+LjAvXoNavAAADdVJREFUaIHtWHuQVNWZ/51zbz/u7ddMDzM909M9jMDwxjiICEgQJGQnCXGV1bDW
+ulk3GNh1o1tJ3BCrdI0bXbOr2WR11xeibNwkKrql+EASLDCRNwgjA3HAGWC6p5therp7+nHf95z9
+g27sGRgegmWlKl/VV/f0ued8/ft9j/O4hHOOP2ahnzeAi5U/Efi85U8EPm/5oycgXgojPW+Rao0L
+T3C4FnLIpq5l+wi3/se2sbb1L3niUvzHSEIudh84toE0KBo94G7+N3/TlO8IBGnoWhGp+PtW9uga
+O5XY+hHh1rOw8eL85Tx1iXCfkosm0P6KuJrVLP/mZdP+QvS5noQgmOCcQjfHwLAXolAM4Hj3G2Z/
+1wsGs4X7p3116+8BpAkhmcbGxgwA9rkS2PkrajrHPSsKpBNul4pg0ILPl4fTkQPjAva2B1BQoggG
+J+Lj7fdh3MyHEaibVZ7OAAwC0PP5fK6trS1GCAkzxn4iSdJLhw8f1j9TAusfJy6Phyha3d3U7TwG
+yS3C5fLA5ZJBqYAHftKJ/gEVTqcTc2bWYdoEQM/2Flpm/cegIAjS+vXrpVwuJ1qWRTVNo5s3byKC
+ICKdTiumab7Z09Oz9FwYLqqIHW7ML5putb+33eP1mfB5CVwuD5wuGfv2c5xIKUinc/D7/di+ux/R
+BgKP6PNWVVV5OedYsmQJE0XRYIyJP/zhSlIbdGJMqAcelyJv2SfeGI1Gg7FYLP2ZEFi7lghujT4p
+hmZ6WFpFX7KIoleAz6/A7XbAI0lwOhzw+/2orq5GwKeikE1AsX0D3d3dqc7OzppYLOYBoCqK4srn
+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
+"
+       preserveAspectRatio="none"
+       height="48"
+       width="48" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path18951"
+       d="m 62.00003,464.83416 858.00005,0"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d8d8d8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot18955"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="translate(1.9642,121.153)"><flowRegion
+         id="flowRegion18957"><rect
+           style="fill:#2e3436"
+           id="rect18959"
+           width="230.0358"
+           height="128.20917"
+           x="958"
+           y="153" /></flowRegion><flowPara
+         style="font-size:13.75px"
+         id="flowPara18961">&quot;Available to all users&quot; section is shown if the user is an admin and there are other user accounts.</flowPara></flowRoot>    <g
+       id="g19087"
+       clip-path="url(#clipPath19747)"
+       transform="translate(0,-480)">
+      <g
+         id="g19077"
+         transform="translate(-1385.4582,218.97198)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           id="rect19079"
+           width="89"
+           height="33"
+           x="2187.9583"
+           y="747.86218"
+           rx="2.9999998"
+           ry="3"
+           inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="2232.1814"
+           y="769.0509"
+           id="text19081"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-weight:normal;font-size:13.75px"
+             sodipodi:role="line"
+             id="tspan19083"
+             x="2232.1814"
+             y="769.0509">Remove</tspan></text>
+      </g>
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path19097"
+       d="m 61.497601,758.8623 c 292.333329,-39 582.166669,28 858.999999,0 l 0,-241.0001 c -276.33333,24 -566.66667,-44 -858.999999,0 z"
+       mask="none"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#a7a7a7;stroke-width:0.99999994;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot19099"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="translate(114.28763,160.52092)"><flowRegion
+         id="flowRegion19101"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436"
+           id="rect19103"
+           width="425.7124"
+           height="71"
+           x="228"
+           y="425" /></flowRegion><flowPara
+         id="flowPara19105">GNOME Calculator is an application that solves mathematical equations. Though it at first appears to be a simple calculator with ...</flowPara></flowRoot>    <flowRoot
+       transform="translate(-84.71237,160.52092)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       id="flowRoot19107"
+       xml:space="preserve"><flowRegion
+         id="flowRegion19109"><rect
+           y="425"
+           x="228"
+           height="61"
+           width="179.71242"
+           id="rect19111"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara19113">Calculator</flowPara></flowRoot>    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#dbdbdb;fill-opacity:1;fill-rule:nonzero;stroke:#215d9c;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect19127"
+       width="858"
+       height="31.99999"
+       x="61.997601"
+       y="533.33423" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot19129"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="translate(-154.71237,115.84176)"><flowRegion
+         id="flowRegion19131"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436"
+           id="rect19133"
+           width="179.71242"
+           height="61"
+           x="228"
+           y="425" /></flowRegion><flowPara
+         id="flowPara19135">System Applications</flowPara></flowRoot>    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d8d8d8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 62.00003,564.8342 858.00005,0"
+       id="path19137"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path19139"
+       d="m 62.00003,647.8342 858.00005,0"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d8d8d8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <flowRoot
+       transform="translate(114.28763,243.52082)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       id="flowRoot19141"
+       xml:space="preserve"><flowRegion
+         id="flowRegion19143"><rect
+           y="425"
+           x="228"
+           height="71"
+           width="425.7124"
+           id="rect19145"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara19147">A simple application which can scan either specific folders (local or remote) or volumes and give a graphical representation incuding ...</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot19149"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="translate(-84.71237,243.52082)"><flowRegion
+         id="flowRegion19151"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436"
+           id="rect19153"
+           width="179.71242"
+           height="61"
+           x="228"
+           y="425" /></flowRegion><flowPara
+         id="flowPara19155">Disk Usage Analyzer</flowPara></flowRoot>    <image
+       y="665.33411"
+       x="82.000038"
+       id="image19638"
+       xlink:href="data:image/png;base64,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
+"
+       preserveAspectRatio="none"
+       height="48"
+       width="48" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d8d8d8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 62.00003,730.83413 858.00005,0"
+       id="path19167"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path19204"
+       d="m 61.497601,992.8623 858.999999,0 0,-215.0001 c -276.33333,24 -566.66667,-44 -858.999999,0 z"
+       mask="none"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#a7a7a7;stroke-width:0.99999994;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="translate(114.28763,422.52092)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       id="flowRoot19206"
+       xml:space="preserve"><flowRegion
+         id="flowRegion19208"><rect
+           y="425"
+           x="228"
+           height="71"
+           width="425.7124"
+           id="rect19210"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara19212">The Hangul input method is designed for entering Korean text. Input methods are typing systems allowing users to input complex ...</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot19214"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="translate(-84.71237,422.52092)"><flowRegion
+         id="flowRegion19216"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436"
+           id="rect19218"
+           width="179.71242"
+           height="61"
+           x="228"
+           y="425" /></flowRegion><flowPara
+         id="flowPara19220">Hangul</flowPara></flowRoot>    <g
+       transform="translate(-1385.4582,103.97205)"
+       id="g19222">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         ry="3"
+         rx="2.9999998"
+         y="747.86218"
+         x="2187.9583"
+         height="33"
+         width="89"
+         id="rect19224"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         sodipodi:linespacing="125%"
+         id="text19226"
+         y="769.0509"
+         x="2232.1814"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="769.0509"
+           x="2232.1814"
+           id="tspan19228"
+           sodipodi:role="line"
+           style="font-weight:normal;font-size:13.75px">Remove</tspan></text>
+    </g>
+    <rect
+       y="795.33423"
+       x="61.997601"
+       height="31.99999"
+       width="858"
+       id="rect19232"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#dbdbdb;fill-opacity:1;fill-rule:nonzero;stroke:#215d9c;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <flowRoot
+       transform="translate(-154.71237,377.84176)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       id="flowRoot19234"
+       xml:space="preserve"><flowRegion
+         id="flowRegion19236"><rect
+           y="425"
+           x="228"
+           height="61"
+           width="179.71242"
+           id="rect19238"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara19240">Add-ons</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path19242"
+       d="m 62.00003,826.8342 858.00005,0"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d8d8d8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d8d8d8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 62.00003,909.8342 858.00005,0"
+       id="path19248"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot19250"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="translate(114.28763,505.52082)"><flowRegion
+         id="flowRegion19252"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436"
+           id="rect19254"
+           width="425.7124"
+           height="71"
+           x="228"
+           y="425" /></flowRegion><flowPara
+         id="flowPara19256">The Kana Kanji input method is designed for entering Japanese text. It uses the Kana Kanji conversion library as backend, whose algorithm ...</flowPara></flowRoot>    <flowRoot
+       transform="translate(-84.71237,505.52082)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       id="flowRoot19258"
+       xml:space="preserve"><flowRegion
+         id="flowRegion19260"><rect
+           y="425"
+           x="228"
+           height="61"
+           width="179.71242"
+           id="rect19262"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara19264">Kana Kanji</flowPara></flowRoot>    <g
+       id="g19266"
+       transform="translate(-1385.4582,186.97195)">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect19268"
+         width="89"
+         height="33"
+         x="2187.9583"
+         y="747.86218"
+         rx="2.9999998"
+         ry="3"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="2232.1814"
+         y="769.0509"
+         id="text19270"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-weight:normal;font-size:13.75px"
+           sodipodi:role="line"
+           id="tspan19272"
+           x="2232.1814"
+           y="769.0509">Remove</tspan></text>
+    </g>
+    <flowRoot
+       transform="translate(1.9642,385.153)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       id="flowRoot19311"
+       xml:space="preserve"><flowRegion
+         id="flowRegion19313"><rect
+           y="153"
+           x="958"
+           height="128.20917"
+           width="230.0358"
+           id="rect19315"
+           style="fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara19317"
+         style="font-size:13.75px">System Applications are preinstalled and can't be removed.</flowPara></flowRoot>    <g
+       style="display:inline"
+       transform="translate(782.99797,-918.63794)"
+       inkscape:label="object-select"
+       id="g19355">
+      <path
+         style="fill:none;stroke:#2e3436;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 65.00055,794.99698 2.999913,2.99886 5.999826,-5.99773"
+         id="path19357"
+         inkscape:path-effect="#path-effect8915-0-8-2-7-4-4-8"
+         inkscape:original-d="m 65.00055,794.99698 2.999913,2.99886 5.999826,-5.99773"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <rect
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none"
+         id="rect19359"
+         width="16"
+         height="16"
+         x="61.000198"
+         y="787"
+         inkscape:label="a" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="system-run"
+       id="g19419"
+       transform="matrix(2,0,0,2,7.9996414,178.33423)">
+      <rect
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none"
+         id="rect19421"
+         width="16"
+         height="16"
+         x="41.000198"
+         y="337"
+         inkscape:label="a" />
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         d="m 52.375,337.25 c -0.239942,0.43525 -0.467624,1.00577 -0.71875,1.4375 -0.09387,-0.007 -0.185709,-0.0313 -0.28125,-0.0313 -0.332255,0 -0.660088,0.0487 -0.96875,0.125 -0.305025,-0.3828 -0.630342,-0.89813 -0.9375,-1.28125 -0.284596,0.10504 -0.552268,0.22648 -0.8125,0.375 0.09593,0.48262 0.276896,1.07105 0.375,1.5625 -0.343004,0.24882 -0.626184,0.532 -0.875,0.875 -0.491453,-0.0981 -1.079882,-0.27907 -1.5625,-0.375 -0.148521,0.26023 -0.269963,0.5279 -0.375,0.8125 0.383118,0.30716 0.898446,0.63248 1.28125,0.9375 -0.07635,0.30866 -0.125,0.6365 -0.125,0.96875 0,0.0955 0.02466,0.18738 0.03125,0.28125 -0.431735,0.25113 -1.00225,0.47881 -1.4375,0.71875 0.05124,0.27476 0.128303,0.55374 0.21875,0.8125 0.491399,-0.01 1.099493,-0.0946 1.59375,-0.0937 0.187125,0.39176 0.420532,0.75381 0.71875,1.0625 -0.172042,0.46783 -0.448123,1.0086 -0.625,1.46875 0.212898,0.1757 0.449497,0.32623 0.6875,0.46875 0.369206,-0.32011 0.775422,-0.77147 1.15625,-1.09375 0.378045,0.17256 0.788621,0.26529 1.21875,0.3125 0.164542,0.47676 0.304284,1.08808 0.46875,1.5625 0.30154,-0.002 0.586801,-0.0141 0.875,-0.0625 0.08055,-0.49291 0.110368,-1.11855 0.1875,-1.625 0.410087,-0.11684 0.811342,-0.26698 1.15625,-0.5 0.424331,0.26446 0.898868,0.62889 1.3125,0.875 0.223737,-0.19067 0.43433,-0.40126 0.625,-0.625 -0.246108,-0.41363 -0.610541,-0.88817 -0.875,-1.3125 0.233016,-0.34491 0.383162,-0.74616 0.5,-1.15625 0.506449,-0.0771 1.132085,-0.10695 1.625,-0.1875 0.04835,-0.2882 0.06081,-0.57346 0.0625,-0.875 -0.474423,-0.16447 -1.085738,-0.30421 -1.5625,-0.46875 C 55.265292,341.78862 55.172555,341.37805 55,341 c 0.32228,-0.38083 0.773639,-0.78704 1.09375,-1.15625 -0.142521,-0.238 -0.293051,-0.4746 -0.46875,-0.6875 -0.460149,0.17688 -1.000924,0.45296 -1.46875,0.625 -0.308689,-0.29822 -0.670736,-0.53162 -1.0625,-0.71875 -8.87e-4,-0.49426 0.08396,-1.10235 0.09375,-1.59375 -0.258762,-0.0904 -0.537737,-0.16751 -0.8125,-0.21875 z m -1,3.40625 c 1.104569,0 2,0.89543 2,2 0,1.10457 -0.895431,2 -2,2 -1.104569,0 -2,-0.89543 -2,-2 0,-1.10457 0.895431,-2 2,-2 z"
+         id="path19423"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         d="m 64.6875,344.75 c -0.230139,0.0471 -0.443908,0.13096 -0.65625,0.21875 -0.01671,0.62433 0.08693,1.44177 -0.15625,1.65625 -0.238965,0.21077 -1.038358,0.0343 -1.65625,-0.0313 -0.131388,0.23649 -0.235259,0.48523 -0.3125,0.75 0.478093,0.39586 1.140508,0.83901 1.15625,1.15625 0.01594,0.32119 -0.626418,0.80489 -1.0625,1.25 0.103387,0.25783 0.250144,0.49354 0.40625,0.71875 0.608323,-0.12641 1.366392,-0.37354 1.625,-0.1875 0.263308,0.18942 0.265212,1.00535 0.34375,1.625 0.249548,0.075 0.512509,0.1045 0.78125,0.125 0.281352,-0.55462 0.567413,-1.3198 0.875,-1.40625 0.315752,-0.0887 0.963545,0.45813 1.5,0.78125 0.21871,-0.1516 0.412931,-0.33706 0.59375,-0.53125 -0.253838,-0.57232 -0.721084,-1.29192 -0.59375,-1.59375 0.127453,-0.30211 0.975404,-0.46963 1.5625,-0.6875 0.0044,-0.0735 0.03125,-0.14414 0.03125,-0.21875 0,-0.19137 -0.0344,-0.37899 -0.0625,-0.5625 -0.606097,-0.16082 -1.467207,-0.2413 -1.625,-0.53125 -0.156736,-0.28801 0.241786,-1.0614 0.4375,-1.65625 -0.201161,-0.17858 -0.419409,-0.33716 -0.65625,-0.46875 -0.500893,0.37513 -1.084329,0.99436 -1.40625,0.9375 -0.316887,-0.056 -0.662888,-0.81955 -1,-1.34375 -0.04019,0.007 -0.08527,-0.008 -0.125,0 z m 0.625,1.875 c 0.931981,0 1.6875,0.75552 1.6875,1.6875 0,0.93198 -0.755519,1.6875 -1.6875,1.6875 -0.931981,0 -1.6875,-0.75552 -1.6875,-1.6875 0,-0.93198 0.755519,-1.6875 1.6875,-1.6875 z"
+         transform="translate(-20,0)"
+         id="path19425" />
+    </g>
+    <image
+       y="582.33423"
+       x="82.000038"
+       id="image19735"
+       xlink:href="data:image/png;base64,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
+"
+       preserveAspectRatio="none"
+       height="48"
+       width="48" />
+    <g
+       transform="matrix(2,0,0,2,7.9996414,261.33411)"
+       id="g19738"
+       inkscape:label="system-run"
+       style="display:inline">
+      <rect
+         inkscape:label="a"
+         y="337"
+         x="41.000198"
+         height="16"
+         width="16"
+         id="rect19740"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path19742"
+         d="m 52.375,337.25 c -0.239942,0.43525 -0.467624,1.00577 -0.71875,1.4375 -0.09387,-0.007 -0.185709,-0.0313 -0.28125,-0.0313 -0.332255,0 -0.660088,0.0487 -0.96875,0.125 -0.305025,-0.3828 -0.630342,-0.89813 -0.9375,-1.28125 -0.284596,0.10504 -0.552268,0.22648 -0.8125,0.375 0.09593,0.48262 0.276896,1.07105 0.375,1.5625 -0.343004,0.24882 -0.626184,0.532 -0.875,0.875 -0.491453,-0.0981 -1.079882,-0.27907 -1.5625,-0.375 -0.148521,0.26023 -0.269963,0.5279 -0.375,0.8125 0.383118,0.30716 0.898446,0.63248 1.28125,0.9375 -0.07635,0.30866 -0.125,0.6365 -0.125,0.96875 0,0.0955 0.02466,0.18738 0.03125,0.28125 -0.431735,0.25113 -1.00225,0.47881 -1.4375,0.71875 0.05124,0.27476 0.128303,0.55374 0.21875,0.8125 0.491399,-0.01 1.099493,-0.0946 1.59375,-0.0937 0.187125,0.39176 0.420532,0.75381 0.71875,1.0625 -0.172042,0.46783 -0.448123,1.0086 -0.625,1.46875 0.212898,0.1757 0.449497,0.32623 0.6875,0.46875 0.369206,-0.32011 0.775422,-0.77147 1.15625,-1.09375 0.378045,0.17256 0.788621,0.26529 1.21875,0.3125 0.164542,0.47676 0.304284,1.08808 0.46875,1.5625 0.30154,-0.002 0.586801,-0.0141 0.875,-0.0625 0.08055,-0.49291 0.110368,-1.11855 0.1875,-1.625 0.410087,-0.11684 0.811342,-0.26698 1.15625,-0.5 0.424331,0.26446 0.898868,0.62889 1.3125,0.875 0.223737,-0.19067 0.43433,-0.40126 0.625,-0.625 -0.246108,-0.41363 -0.610541,-0.88817 -0.875,-1.3125 0.233016,-0.34491 0.383162,-0.74616 0.5,-1.15625 0.506449,-0.0771 1.132085,-0.10695 1.625,-0.1875 0.04835,-0.2882 0.06081,-0.57346 0.0625,-0.875 -0.474423,-0.16447 -1.085738,-0.30421 -1.5625,-0.46875 C 55.265292,341.78862 55.172555,341.37805 55,341 c 0.32228,-0.38083 0.773639,-0.78704 1.09375,-1.15625 -0.142521,-0.238 -0.293051,-0.4746 -0.46875,-0.6875 -0.460149,0.17688 -1.000924,0.45296 -1.46875,0.625 -0.308689,-0.29822 -0.670736,-0.53162 -1.0625,-0.71875 -8.87e-4,-0.49426 0.08396,-1.10235 0.09375,-1.59375 -0.258762,-0.0904 -0.537737,-0.16751 -0.8125,-0.21875 z m -1,3.40625 c 1.104569,0 2,0.89543 2,2 0,1.10457 -0.895431,2 -2,2 -1.104569,0 -2,-0.89543 -2,-2 0,-1.10457 0.895431,-2 2,-2 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <path
+         id="path19744"
+         transform="translate(-20,0)"
+         d="m 64.6875,344.75 c -0.230139,0.0471 -0.443908,0.13096 -0.65625,0.21875 -0.01671,0.62433 0.08693,1.44177 -0.15625,1.65625 -0.238965,0.21077 -1.038358,0.0343 -1.65625,-0.0313 -0.131388,0.23649 -0.235259,0.48523 -0.3125,0.75 0.478093,0.39586 1.140508,0.83901 1.15625,1.15625 0.01594,0.32119 -0.626418,0.80489 -1.0625,1.25 0.103387,0.25783 0.250144,0.49354 0.40625,0.71875 0.608323,-0.12641 1.366392,-0.37354 1.625,-0.1875 0.263308,0.18942 0.265212,1.00535 0.34375,1.625 0.249548,0.075 0.512509,0.1045 0.78125,0.125 0.281352,-0.55462 0.567413,-1.3198 0.875,-1.40625 0.315752,-0.0887 0.963545,0.45813 1.5,0.78125 0.21871,-0.1516 0.412931,-0.33706 0.59375,-0.53125 -0.253838,-0.57232 -0.721084,-1.29192 -0.59375,-1.59375 0.127453,-0.30211 0.975404,-0.46963 1.5625,-0.6875 0.0044,-0.0735 0.03125,-0.14414 0.03125,-0.21875 0,-0.19137 -0.0344,-0.37899 -0.0625,-0.5625 -0.606097,-0.16082 -1.467207,-0.2413 -1.625,-0.53125 -0.156736,-0.28801 0.241786,-1.0614 0.4375,-1.65625 -0.201161,-0.17858 -0.419409,-0.33716 -0.65625,-0.46875 -0.500893,0.37513 -1.084329,0.99436 -1.40625,0.9375 -0.316887,-0.056 -0.662888,-0.81955 -1,-1.34375 -0.04019,0.007 -0.08527,-0.008 -0.125,0 z m 0.625,1.875 c 0.931981,0 1.6875,0.75552 1.6875,1.6875 0,0.93198 -0.755519,1.6875 -1.6875,1.6875 -0.931981,0 -1.6875,-0.75552 -1.6875,-1.6875 0,-0.93198 0.755519,-1.6875 1.6875,-1.6875 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
