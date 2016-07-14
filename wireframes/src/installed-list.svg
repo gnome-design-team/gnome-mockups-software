@@ -16,7 +16,7 @@
    id="svg16934"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="installed.svg"
+   sodipodi:docname="installed-list.svg"
    inkscape:export-filename="/home/aday/checkout/gnome-mockups-software/wireframes/installed-list.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -28,14 +28,14 @@
        is_visible="true" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath19747">
+       id="clipPath4420">
       <path
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         mask="none"
-         d="m 61.497601,860.39272 858.999999,0 0,118.99991 c -276.33333,23.99997 -566.66667,-44 -858.999999,0 z"
-         id="path19749"
+         sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
+         id="path4422"
+         d="m 61.497601,380.39272 858.999999,0 0,118.99991 c -276.33333,23.99997 -566.66667,-44 -858.999999,0 z"
+         mask="none"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </clipPath>
   </defs>
   <sodipodi:namedview
@@ -45,18 +45,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="440.36388"
-     inkscape:cy="648.26295"
+     inkscape:zoom="1"
+     inkscape:cx="487.3523"
+     inkscape:cy="986.84159"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1134"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -79,7 +79,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -378,108 +378,92 @@
            height="61"
            x="228"
            y="425" /></flowRegion><flowPara
-         id="flowPara18017">Blend Swap</flowPara></flowRoot>    <g
-       transform="translate(-1385.4582,-741.02794)"
-       id="g18019">
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         ry="3"
-         rx="2.9999998"
-         y="747.86218"
-         x="2187.9583"
-         height="33"
-         width="89"
-         id="rect18021"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         sodipodi:linespacing="125%"
-         id="text18023"
-         y="769.0509"
-         x="2232.1814"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="769.0509"
-           x="2232.1814"
-           id="tspan18025"
-           sodipodi:role="line"
-           style="font-weight:normal;font-size:13.75px">Remove</tspan></text>
-    </g>
-    <g
-       id="g18027"
-       transform="translate(-1385.4582,-645.02797)">
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-         id="rect18029"
-         width="89"
-         height="33"
-         x="2187.9583"
-         y="747.86218"
-         rx="2.9999998"
-         ry="3"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-         x="2232.1814"
-         y="769.0509"
-         id="text18031"
-         sodipodi:linespacing="125%"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-weight:normal;font-size:13.75px"
-           sodipodi:role="line"
-           id="tspan18033"
-           x="2232.1814"
-           y="769.0509">Remove</tspan></text>
-    </g>
+         id="flowPara18017">Blend Swap</flowPara></flowRoot>    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect18021"
+       width="89"
+       height="33"
+       x="802.50006"
+       y="6.8342428"
+       rx="2.9999998"
+       ry="3"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;"
+       x="846.72321"
+       y="28.022963"
+       id="text18023"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-weight:normal;font-size:13.75px;fill:#2e3436;"
+         sodipodi:role="line"
+         id="tspan18025"
+         x="846.72321"
+         y="28.022963">Remove</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="3"
+       rx="2.9999998"
+       y="102.83421"
+       x="802.50006"
+       height="33"
+       width="89"
+       id="rect18029"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       sodipodi:linespacing="125%"
+       id="text18031"
+       y="124.02293"
+       x="846.72321"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;"
+       xml:space="preserve"><tspan
+         y="124.02293"
+         x="846.72321"
+         id="tspan18033"
+         sodipodi:role="line"
+         style="font-weight:normal;font-size:13.75px;fill:#2e3436;">Remove</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path18035"
        d="m 62.00003,172.83418 858.00005,0"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d8d8d8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <g
-       transform="translate(-1385,-638.02796)"
-       id="g18037">
-      <g
-         id="g18039"
-         transform="translate(-0.45825195,87.999947)">
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           id="rect18041"
-           width="89"
-           height="33"
-           x="2187.9583"
-           y="747.86218"
-           rx="2.9999998"
-           ry="3"
-           inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-           x="2232.1814"
-           y="769.0509"
-           id="text18043"
-           sodipodi:linespacing="125%"
-           inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90"><tspan
-             style="font-weight:normal;font-size:13.75px"
-             sodipodi:role="line"
-             id="tspan18045"
-             x="2232.1814"
-             y="769.0509">Remove</tspan></text>
-      </g>
-    </g>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect18041"
+       width="89"
+       height="33"
+       x="802.49994"
+       y="197.83417"
+       rx="2.9999998"
+       ry="3"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;"
+       x="846.72308"
+       y="219.02289"
+       id="text18043"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-weight:normal;font-size:13.75px;fill:#2e3436;"
+         sodipodi:role="line"
+         id="tspan18045"
+         x="846.72308"
+         y="219.02289">Remove</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot18047"
@@ -504,37 +488,33 @@
            width="179.71242"
            id="rect18059"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
-         id="flowPara18061">Archive Manager</flowPara></flowRoot>    <g
-       id="g18063"
-       transform="translate(-1385.4582,-822.01384)">
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-         id="rect18065"
-         width="89"
-         height="33"
-         x="2187.9583"
-         y="747.86218"
-         rx="2.9999998"
-         ry="3"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-         x="2232.1814"
-         y="769.0509"
-         id="text18067"
-         sodipodi:linespacing="125%"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-weight:normal;font-size:13.75px"
-           sodipodi:role="line"
-           id="tspan18069"
-           x="2232.1814"
-           y="769.0509">Remove</tspan></text>
-    </g>
+         id="flowPara18061">Archive Manager</flowPara></flowRoot>    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="3"
+       rx="2.9999998"
+       y="-74.151657"
+       x="802.50006"
+       height="33"
+       width="89"
+       id="rect18065"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       sodipodi:linespacing="125%"
+       id="text18067"
+       y="-52.962936"
+       x="846.72321"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;"
+       xml:space="preserve"><tspan
+         y="-52.962936"
+         x="846.72321"
+         id="tspan18069"
+         sodipodi:role="line"
+         style="font-weight:normal;font-size:13.75px;fill:#2e3436;">Remove</tspan></text>
     <image
        width="48"
        height="48"
@@ -567,37 +547,33 @@
            height="61"
            x="228"
            y="425" /></flowRegion><flowPara
-         id="flowPara18087">Boxes</flowPara></flowRoot>    <g
-       transform="translate(-1385.4582,-424.02795)"
-       id="g18089">
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         ry="3"
-         rx="2.9999998"
-         y="747.86218"
-         x="2187.9583"
-         height="33"
-         width="89"
-         id="rect18091"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         sodipodi:linespacing="125%"
-         id="text18093"
-         y="769.0509"
-         x="2232.1814"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="769.0509"
-           x="2232.1814"
-           id="tspan18095"
-           sodipodi:role="line"
-           style="font-weight:normal;font-size:13.75px">Remove</tspan></text>
-    </g>
+         id="flowPara18087">Boxes</flowPara></flowRoot>    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect18091"
+       width="89"
+       height="33"
+       x="802.50006"
+       y="323.83423"
+       rx="2.9999998"
+       ry="3"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;"
+       x="846.72321"
+       y="345.02295"
+       id="text18093"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-weight:normal;font-size:13.75px;fill:#2e3436;"
+         sodipodi:role="line"
+         id="tspan18095"
+         x="846.72321"
+         y="345.02295">Remove</tspan></text>
     <image
        width="48"
        height="48"
@@ -813,110 +789,38 @@
            width="179.71242"
            id="rect18937"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
-         id="flowPara18939">Builder</flowPara></flowRoot>    <g
-       id="g18941"
-       transform="translate(-1385.4582,-341.02802)">
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-         id="rect18943"
-         width="89"
-         height="33"
-         x="2187.9583"
-         y="747.86218"
-         rx="2.9999998"
-         ry="3"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-         x="2232.1814"
-         y="769.0509"
-         id="text18945"
-         sodipodi:linespacing="125%"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-weight:normal;font-size:13.75px"
-           sodipodi:role="line"
-           id="tspan18947"
-           x="2232.1814"
-           y="769.0509">Remove</tspan></text>
-    </g>
+         id="flowPara18939">Builder</flowPara></flowRoot>    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="3"
+       rx="2.9999998"
+       y="406.83417"
+       x="802.50006"
+       height="33"
+       width="89"
+       id="rect18943"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       sodipodi:linespacing="125%"
+       id="text18945"
+       y="428.02289"
+       x="846.72321"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;"
+       xml:space="preserve"><tspan
+         y="428.02289"
+         x="846.72321"
+         id="tspan18947"
+         sodipodi:role="line"
+         style="font-weight:normal;font-size:13.75px;fill:#2e3436;">Remove</tspan></text>
     <image
        y="399.33411"
        x="82.000038"
        id="image19073"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
-AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAANdEVY
-dFRpdGxlAEJ1aWxkZXJTTWS3AAAAFHRFWHRBdXRob3IASmFrdWIgU3RlaW5lcub79y8AAAAWdEVY
-dENyZWF0aW9uIFRpbWUAMjAxNC05LTTSfd2zAAAAUnRFWHRDb3B5cmlnaHQAQ0MgQXR0cmlidXRp
-b24tU2hhcmVBbGlrZSBodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1zYS8z
-LjAvXoNavAAADdVJREFUaIHtWHuQVNWZ/51zbz/u7ddMDzM909M9jMDwxjiICEgQJGQnCXGV1bDW
-ulk3GNh1o1tJ3BCrdI0bXbOr2WR11xeibNwkKrql+EASLDCRNwgjA3HAGWC6p5therp7+nHf95z9
-g27sGRgegmWlKl/VV/f0ued8/ft9j/O4hHOOP2ahnzeAi5U/Efi85U8EPm/5oycgXgojPW+Rao0L
-T3C4FnLIpq5l+wi3/se2sbb1L3niUvzHSEIudh84toE0KBo94G7+N3/TlO8IBGnoWhGp+PtW9uga
-O5XY+hHh1rOw8eL85Tx1iXCfkosm0P6KuJrVLP/mZdP+QvS5noQgmOCcQjfHwLAXolAM4Hj3G2Z/
-1wsGs4X7p3116+8BpAkhmcbGxgwA9rkS2PkrajrHPSsKpBNul4pg0ILPl4fTkQPjAva2B1BQoggG
-J+Lj7fdh3MyHEaibVZ7OAAwC0PP5fK6trS1GCAkzxn4iSdJLhw8f1j9TAusfJy6Phyha3d3U7TwG
-yS3C5fLA5ZJBqYAHftKJ/gEVTqcTc2bWYdoEQM/2Flpm/cegIAjS+vXrpVwuJ1qWRTVNo5s3byKC
-ICKdTiumab7Z09Oz9FwYLqqIHW7ML5putb+33eP1mfB5CVwuD5wuGfv2c5xIKUinc/D7/di+ux/R
-BgKP6PNWVVV5OedYsmQJE0XRYIyJP/zhSlIbdGJMqAcelyJv2SfeGI1Gg7FYLP2ZEFi7lghujT4p
-hmZ6WFpFX7KIoleAz6/A7XbAI0lwOhzw+/2orq5GwKeikE1AsX0D3d3dqc7OzppYLOYBoCqK4srn
-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
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAANdEVY dFRpdGxlAEJ1aWxkZXJTTWS3AAAAFHRFWHRBdXRob3IASmFrdWIgU3RlaW5lcub79y8AAAAWdEVY dENyZWF0aW9uIFRpbWUAMjAxNC05LTTSfd2zAAAAUnRFWHRDb3B5cmlnaHQAQ0MgQXR0cmlidXRp b24tU2hhcmVBbGlrZSBodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1zYS8z LjAvXoNavAAADdVJREFUaIHtWHuQVNWZ/51zbz/u7ddMDzM909M9jMDwxjiICEgQJGQnCXGV1bDW ulk3GNh1o1tJ3BCrdI0bXbOr2WR11xeibNwkKrql+EASLDCRNwgjA3HAGWC6p5therp7+nHf95z9 g27sGRgegmWlKl/VV/f0ued8/ft9j/O4hHOOP2ahnzeAi5U/Efi85U8EPm/5oycgXgojPW+Rao0L T3C4FnLIpq5l+wi3/se2sbb1L3niUvzHSEIudh84toE0KBo94G7+N3/TlO8IBGnoWhGp+PtW9uga O5XY+hHh1rOw8eL85Tx1iXCfkosm0P6KuJrVLP/mZdP+QvS5noQgmOCcQjfHwLAXolAM4Hj3G2Z/ 1wsGs4X7p3116+8BpAkhmcbGxgwA9rkS2PkrajrHPSsKpBNul4pg0ILPl4fTkQPjAva2B1BQoggG J+Lj7fdh3MyHEaibVZ7OAAwC0PP5fK6trS1GCAkzxn4iSdJLhw8f1j9TAusfJy6Phyha3d3U7TwG yS3C5fLA5ZJBqYAHftKJ/gEVTqcTc2bWYdoEQM/2Flpm/cegIAjS+vXrpVwuJ1qWRTVNo5s3byKC ICKdTiumab7Z09Oz9FwYLqqIHW7ML5putb+33eP1mfB5CVwuD5wuGfv2c5xIKUinc/D7/di+ux/R BgKP6PNWVVV5OedYsmQJE0XRYIyJP/zhSlIbdGJMqAcelyJv2SfeGI1Gg7FYLP2ZEFi7lghujT4p hmZ6WFpFX7KIoleAz6/A7XbAI0lwOhzw+/2orq5GwKeikE1AsX0D3d3dqc7OzppYLOYBoCqK4srn 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 "
        preserveAspectRatio="none"
        height="48"
        width="48" />
@@ -939,40 +843,35 @@ yvCctktq4ZN1vKxDzjMXI/8P8sSAIW/BEfwAAAAASUVORK5CYII=
            y="153" /></flowRegion><flowPara
          style="font-size:13.75px"
          id="flowPara18961">&quot;Available to all users&quot; section is shown if the user is an admin and there are other user accounts.</flowPara></flowRoot>    <g
-       id="g19087"
-       clip-path="url(#clipPath19747)"
-       transform="translate(0,-480)">
-      <g
-         id="g19077"
-         transform="translate(-1385.4582,218.97198)">
-        <rect
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           id="rect19079"
-           width="89"
-           height="33"
-           x="2187.9583"
-           y="747.86218"
-           rx="2.9999998"
-           ry="3"
-           inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-           x="2232.1814"
-           y="769.0509"
-           id="text19081"
-           sodipodi:linespacing="125%"
-           inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90"><tspan
-             style="font-weight:normal;font-size:13.75px"
-             sodipodi:role="line"
-             id="tspan19083"
-             x="2232.1814"
-             y="769.0509">Remove</tspan></text>
-      </g>
+       id="g4415"
+       clip-path="url(#clipPath4420)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         ry="3"
+         rx="2.9999998"
+         y="486.83417"
+         x="802.50006"
+         height="33"
+         width="89"
+         id="rect19079"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         sodipodi:linespacing="125%"
+         id="text19081"
+         y="508.02289"
+         x="846.72321"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;"
+         xml:space="preserve"><tspan
+           y="508.02289"
+           x="846.72321"
+           id="tspan19083"
+           sodipodi:role="line"
+           style="font-weight:normal;font-size:13.75px;fill:#2e3436;">Remove</tspan></text>
     </g>
     <path
        sodipodi:nodetypes="ccccc"
@@ -1062,52 +961,7 @@ yvCctktq4ZN1vKxDzjMXI/8P8sSAIW/BEfwAAAAASUVORK5CYII=
        y="665.33411"
        x="82.000038"
        id="image19638"
-       xlink:href="data:image/png;base64,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
-"
+       xlink:href="data:image/png;base64,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 "
        preserveAspectRatio="none"
        height="48"
        width="48" />
@@ -1147,37 +1001,33 @@ nt47mE5fyAM+oCv9tQ7/EwG1qIiZFTORrsW/AZd0s7oz8nZMAAAAAElFTkSuQmCC
            height="61"
            x="228"
            y="425" /></flowRegion><flowPara
-         id="flowPara19220">Hangul</flowPara></flowRoot>    <g
-       transform="translate(-1385.4582,103.97205)"
-       id="g19222">
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         ry="3"
-         rx="2.9999998"
-         y="747.86218"
-         x="2187.9583"
-         height="33"
-         width="89"
-         id="rect19224"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         sodipodi:linespacing="125%"
-         id="text19226"
-         y="769.0509"
-         x="2232.1814"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="769.0509"
-           x="2232.1814"
-           id="tspan19228"
-           sodipodi:role="line"
-           style="font-weight:normal;font-size:13.75px">Remove</tspan></text>
-    </g>
+         id="flowPara19220">Hangul</flowPara></flowRoot>    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect19224"
+       width="89"
+       height="33"
+       x="802.50006"
+       y="851.83423"
+       rx="2.9999998"
+       ry="3"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;"
+       x="846.72321"
+       y="873.02295"
+       id="text19226"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-weight:normal;font-size:13.75px;fill:#2e3436;"
+         sodipodi:role="line"
+         id="tspan19228"
+         x="846.72321"
+         y="873.02295">Remove</tspan></text>
     <rect
        y="795.33423"
        x="61.997601"
@@ -1231,37 +1081,33 @@ nt47mE5fyAM+oCv9tQ7/EwG1qIiZFTORrsW/AZd0s7oz8nZMAAAAAElFTkSuQmCC
            width="179.71242"
            id="rect19262"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
-         id="flowPara19264">Kana Kanji</flowPara></flowRoot>    <g
-       id="g19266"
-       transform="translate(-1385.4582,186.97195)">
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#cc0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-         id="rect19268"
-         width="89"
-         height="33"
-         x="2187.9583"
-         y="747.86218"
-         rx="2.9999998"
-         ry="3"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
-         x="2232.1814"
-         y="769.0509"
-         id="text19270"
-         sodipodi:linespacing="125%"
-         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-weight:normal;font-size:13.75px"
-           sodipodi:role="line"
-           id="tspan19272"
-           x="2232.1814"
-           y="769.0509">Remove</tspan></text>
-    </g>
+         id="flowPara19264">Kana Kanji</flowPara></flowRoot>    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="3"
+       rx="2.9999998"
+       y="934.83411"
+       x="802.50006"
+       height="33"
+       width="89"
+       id="rect19268"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       sodipodi:linespacing="125%"
+       id="text19270"
+       y="956.02283"
+       x="846.72321"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.30000019px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;"
+       xml:space="preserve"><tspan
+         y="956.02283"
+         x="846.72321"
+         id="tspan19272"
+         sodipodi:role="line"
+         style="font-weight:normal;font-size:13.75px;fill:#2e3436;">Remove</tspan></text>
     <flowRoot
        transform="translate(1.9642,385.153)"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
@@ -1326,53 +1172,7 @@ nt47mE5fyAM+oCv9tQ7/EwG1qIiZFTORrsW/AZd0s7oz8nZMAAAAAElFTkSuQmCC
        y="582.33423"
        x="82.000038"
        id="image19735"
-       xlink:href="data:image/png;base64,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
-"
+       xlink:href="data:image/png;base64,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 "
        preserveAspectRatio="none"
        height="48"
        width="48" />
