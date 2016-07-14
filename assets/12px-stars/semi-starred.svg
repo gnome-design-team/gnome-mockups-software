@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="11.961363"
-   height="11.961363"
-   viewBox="0 0 11.961362 11.961363"
+   width="12"
+   height="12"
+   viewBox="0 0 11.999999 12"
    id="svg12452"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -25,12 +25,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="-75.763244"
-     inkscape:cy="-17.670582"
+     inkscape:zoom="1"
+     inkscape:cx="-6.6030821"
+     inkscape:cy="3.9236291"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      units="px"
@@ -67,11 +67,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-35.001409,-1037.421)">
+     transform="translate(-35.001409,-1037.3824)">
     <g
        id="semi-starred"
        inkscape:label="semi-starred"
-       transform="matrix(0.74758516,0,0,0.74758516,-135.44786,292.82621)"
+       transform="matrix(0.74758516,0,0,0.74758516,-135.40366,292.82621)"
        style="display:inline">
       <g
          inkscape:label="folder-remote"
