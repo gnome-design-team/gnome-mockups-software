@@ -46,15 +46,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="487.3523"
-     inkscape:cy="986.84159"
+     inkscape:cx="500.31663"
+     inkscape:cy="882.35512"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1136"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -112,16 +112,16 @@
        sodipodi:nodetypes="sssccccss"
        inkscape:connector-curvature="0"
        id="path17903"
-       d="m 73.49763,-147.1379 835.00005,-1e-4 c 6.648,0 12.1899,5.3547 12,12 l 0,35 -12,0 -835.00005,1e-4 -12,0 0,-35 c 0,-6.648 5.352,-12 12,-12 z"
+       d="m 73.49763,-146.13784 835.00005,-10e-5 c 6.648,0 12.1899,5.3547 12,12 l 0,35 -12,0 -835.00005,1e-4 -12,0 0,-35 c 0,-6.648 5.352,-12 12,-12 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#a7aba7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter12000-4-9-2);enable-background:accumulate" />
     <path
        style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 875.49828,-135.13724 0,22.99018"
+       d="m 875.49828,-134.13718 0,22.99018"
        id="path17905"
        inkscape:connector-curvature="0" />
     <g
        id="g17907"
-       transform="translate(889.00318,-131.63784)"
+       transform="translate(889.00318,-130.63778)"
        style="display:inline;fill:#888a85">
       <g
          style="display:inline;fill:#888a85"
@@ -169,7 +169,7 @@
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="3.0000005"
-       y="-140.15393"
+       y="-139.15387"
        x="341.68753"
        height="33"
        width="297.875"
@@ -178,33 +178,33 @@
     <text
        sodipodi:linespacing="125%"
        id="text17929"
-       y="-118.86609"
+       y="-117.86603"
        x="391.68997"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="-118.86609"
+         y="-117.86603"
          x="391.68997"
          id="tspan17931"
          sodipodi:role="line">All</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path17933"
-       d="m 441.50013,-140.16316 0,33.0182"
+       d="m 441.50013,-139.1631 0,33.0182"
        style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="sccccssss"
        inkscape:connector-curvature="0"
        id="path17935"
-       d="m 636.52073,-107.15396 -95.8332,0 0,-3 0,-27 0,-3 95.8332,0 c 1.6505,0 2.9793,1.338 2.9793,3 l 0,27 c 0,1.662 -1.3288,3 -2.9793,3 z"
+       d="m 636.52073,-106.1539 -95.8332,0 0,-3 0,-27 0,-3 95.8332,0 c 1.6505,0 2.9793,1.338 2.9793,3 l 0,27 c 0,1.662 -1.3288,3 -2.9793,3 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <text
        sodipodi:linespacing="125%"
        id="text17937"
-       y="-118.86609"
+       y="-117.86603"
        x="590.41022"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#e5e6e5;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="-118.86609"
+         y="-117.86603"
          x="590.41022"
          id="tspan17939"
          sodipodi:role="line">Updates</tspan></text>
@@ -214,7 +214,7 @@
        width="298"
        height="33"
        x="341.50003"
-       y="-140.15393"
+       y="-139.15387"
        rx="3.0000005"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -224,29 +224,29 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        x="391.68997"
-       y="-118.86609"
+       y="-117.86603"
        id="text17943"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan17945"
          x="391.68997"
-         y="-118.86609">All</tspan></text>
+         y="-117.86603">All</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 441.50003,-140.13072 0,33.0182"
+       d="m 441.50003,-139.13066 0,33.0182"
        id="path17947"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        x="590.41022"
-       y="-118.86609"
+       y="-117.86603"
        id="text17949"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan17951"
          x="590.41022"
-         y="-118.86609"
+         y="-117.86603"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell">Updates</tspan></text>
     <g
        id="g17953"
@@ -600,7 +600,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-       y="-140.13782"
+       y="-139.13776"
        x="441.50015"
        height="32.983879"
        width="98.999878"
@@ -608,24 +608,24 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dbdbdb;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <path
        style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 540.50013,-140.16316 0,33.0182"
+       d="m 540.50013,-139.1631 0,33.0182"
        id="path18105"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        x="491.18997"
-       y="-118.86609"
+       y="-117.86603"
        id="text18107"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan18109"
          x="491.18997"
-         y="-118.86609">Installed</tspan></text>
+         y="-117.86603">Installed</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path18111"
-       d="m 540.50013,-140.16316 0,33.0182"
+       d="m 540.50013,-139.1631 0,33.0182"
        style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     <flowRoot
        xml:space="preserve"
@@ -729,14 +729,7 @@
            width="179.71242"
            id="rect18163"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
-         id="flowPara18165">Graphics</flowPara></flowRoot>    <rect
-       y="267.33417"
-       x="61.997601"
-       height="31.99999"
-       width="858"
-       id="rect18167"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#dbdbdb;fill-opacity:1;fill-rule:nonzero;stroke:#215d9c;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <flowRoot
+         id="flowPara18165">Graphics</flowPara></flowRoot>    <flowRoot
        transform="translate(-154.71237,-150.15824)"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        id="flowRoot18169"
@@ -754,7 +747,7 @@
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="3.0000007"
-       y="-140.13794"
+       y="-139.13788"
        x="835.49817"
        height="33"
        width="33"
@@ -1123,7 +1116,7 @@
          id="flowPara19317"
          style="font-size:13.75px">System Applications are preinstalled and can't be removed.</flowPara></flowRoot>    <g
        style="display:inline"
-       transform="translate(782.99797,-918.63794)"
+       transform="translate(782.99797,-917.63788)"
        inkscape:label="object-select"
        id="g19355">
       <path
@@ -1201,5 +1194,15 @@
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
          inkscape:connector-curvature="0" />
     </g>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d8d8d8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 62.00003,267.83416 858.00005,0"
+       id="path4377"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d8d8d8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 62.00003,298.83416 858.00005,0"
+       id="path4379"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
