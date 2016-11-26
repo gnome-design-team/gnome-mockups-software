@@ -17,9 +17,9 @@
    version="1.1"
    inkscape:version="0.92pre1 r"
    sodipodi:docname="reviews.svg"
-   inkscape:export-filename="/home/aday/checkout/gnome-mockups-software/wireframes/reviews.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups-software/wireframes/reviews.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs39265">
     <clipPath
@@ -64,9 +64,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="559.25245"
-     inkscape:cy="2410.0987"
+     inkscape:zoom="0.5"
+     inkscape:cx="578.6451"
+     inkscape:cy="2111.4046"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1848,20 +1848,7 @@
            x="1358.9368"
            id="tspan6961"
            sodipodi:role="line">Cancel</tspan></text>
-      <flowRoot
-         transform="matrix(0.26458334,0,0,0.26458334,1459.0215,-1785.4899)"
-         style="font-style:normal;font-weight:bold;font-size:151.18110657px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot6963"
-         xml:space="preserve"><flowRegion
-           id="flowRegion6965"><rect
-             style="text-align:center;text-anchor:middle;fill:#2e3436"
-             y="3102.4331"
-             x="-652.37823"
-             height="812.59827"
-             width="1266.1416"
-             id="rect6967" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.96850204px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#2e3436"
-           id="flowPara6969">You can report reviews for abusive, rude, or discriminatory behavior. Once reported, a review will be hidden until it has been checked by an administrator.</flowPara></flowRoot>    </g>
+    </g>
     <flowRoot
        transform="translate(460.75,-1518.9084)"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
@@ -3090,7 +3077,20 @@
            inkscape:transform-center-y="-0.69491065" />
       </g>
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6286"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:150%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(123.74369,-1566.4611)"><flowRegion
+         id="flowRegion6288"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:150%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+           id="rect6290"
+           width="333.0473"
+           height="98.287857"
+           x="888.1261"
+           y="1341.9458"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:150%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara6292">You can report reviews for abusive, rude, or discriminatory behavior. Once reported, a review will be hidden until it has been checked by an administrator.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
