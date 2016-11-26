@@ -65,7 +65,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="472.35859"
+     inkscape:cx="210.85859"
      inkscape:cy="2421.4265"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -2416,7 +2416,7 @@
        transform="translate(-2023.1834)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
          x="2259"
          y="-1555.8499"
          id="text5620"
@@ -2425,8 +2425,8 @@
            id="tspan5618"
            x="2259"
            y="-1555.8499"><tspan
-   style="font-weight:bold"
-   id="tspan6791">Reviews</tspan> (22)</tspan></text>
+             style="font-weight:bold"
+             id="tspan6791">Reviews</tspan></tspan></text>
       <rect
          style="opacity:1;fill:#babdb6;fill-opacity:1;stroke:#babdb6;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5630"
@@ -3092,7 +3092,29 @@
            x="888.1261"
            y="1341.9458"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:150%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara6292">You can report reviews for abusive, rude, or discriminatory behavior. Once reported, a review will be hidden until it has been checked by an administrator.</flowPara></flowRoot>  </g>
+         id="flowPara6292">You can report reviews for abusive, rude, or discriminatory behavior. Once reported, a review will be hidden until it has been checked by an administrator.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:150%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="236.11523"
+       y="-1394.046"
+       id="text7293"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan7291"
+         x="236.11523"
+         y="-1394.046">22</tspan></text>
+    <text
+       sodipodi:linespacing="150%"
+       id="text7297"
+       y="-1394.046"
+       x="268.11523"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:150%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-1394.046"
+         x="268.11523"
+         id="tspan7295"
+         sodipodi:role="line">ratings in total.</tspan></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
