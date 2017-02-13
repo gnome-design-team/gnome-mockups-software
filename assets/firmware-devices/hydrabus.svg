@@ -12,7 +12,7 @@
    id="svg7384"
    sodipodi:docname="hydrabus.svg"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.0 r"
    height="225"
    width="400">
   <metadata
@@ -57,19 +57,21 @@
      inkscape:current-layer="g14552"
      inkscape:snap-bbox-midpoints="false"
      inkscape:zoom="1"
-     inkscape:cx="89.581029"
+     inkscape:cx="-134.41897"
      inkscape:snap-grids="true"
      inkscape:pageopacity="1"
      inkscape:showpageshadow="false">
     <inkscape:grid
-       spacingx="1px"
-       spacingy="1px"
+       spacingx="1"
+       spacingy="1"
        id="grid4866"
        empspacing="2"
        enabled="true"
        type="xygrid"
        snapvisiblegridlinesonly="true"
-       visible="true" />
+       visible="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
