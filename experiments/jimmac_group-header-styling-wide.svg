@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="218.82047"
-     inkscape:cy="1011.2155"
+     inkscape:zoom="1"
+     inkscape:cx="1037.8205"
+     inkscape:cy="528.21553"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -91,12 +91,12 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#a7aba7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter12000-4-9-2);enable-background:accumulate" />
     <path
        style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1430.5055,192.8913 v 19.404"
+       d="m 1810.5055,192.8913 v 19.404"
        id="path15718"
        inkscape:connector-curvature="0" />
     <g
        id="g15738"
-       transform="translate(1445.008,194.5934)"
+       transform="translate(1825.008,194.5934)"
        style="display:inline;fill:#888a85">
       <g
          style="display:inline;fill:#888a85"
@@ -197,7 +197,7 @@
        id="rect15758"
        width="33"
        height="33"
-       x="622.50482"
+       x="243.50482"
        y="186.09338"
        rx="3.0000002"
        ry="3"
@@ -206,7 +206,7 @@
        inkscape:export-ydpi="90" />
     <g
        style="display:inline;fill:#2e3436"
-       transform="translate(631.5028,194.609)"
+       transform="translate(252.5028,194.609)"
        id="g15780">
       <g
          id="g15760"
