@@ -48,8 +48,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="897.23617"
-     inkscape:cy="1431.5178"
+     inkscape:cx="712.23617"
+     inkscape:cy="1554.5178"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2188,29 +2188,6 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;fill-opacity:1" /></flowRegion><flowPara
            style="font-size:16px;line-height:1.25;fill:#888a85;fill-opacity:1"
            id="flowPara5319">(22)</flowPara></flowRoot>    </g>
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-       ry="3"
-       rx="2.9999995"
-       y="-617.01367"
-       x="79.447266"
-       height="33.074406"
-       width="125.07441"
-       id="rect5321"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#5899dc;fill-opacity:1;fill-rule:nonzero;stroke:#1b4878;stroke-width:0.92559344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    <text
-       id="text5323"
-       y="-595.7168"
-       x="141.32202"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         style="font-size:14px;line-height:1.25;fill:#ffffff"
-         y="-595.7168"
-         x="141.32202"
-         id="tspan5325"
-         sodipodi:role="line">Install</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5345"
@@ -2392,7 +2369,7 @@
        id="rect26530"
        width="125.07441"
        height="33.074406"
-       x="1185.4473"
+       x="1223.4473"
        y="-567.01367"
        rx="2.9999995"
        ry="3"
@@ -2402,13 +2379,53 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="1247.322"
+       x="1285.322"
        y="-545.7168"
        id="text26534"><tspan
          sodipodi:role="line"
          id="tspan26532"
-         x="1247.322"
+         x="1285.322"
          y="-545.7168"
          style="font-size:14px;line-height:1.25;fill:#ffffff">Install</tspan></text>
-  </g>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 1205.5499,-549.38579 -6.8995,6.89954 v -13.79917 z"
+       id="rect26536"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="3"
+       rx="2.9999998"
+       y="-617.01367"
+       x="80.447266"
+       height="33.074406"
+       width="139.07442"
+       id="rect26539"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:#5899dc;fill-opacity:1;fill-rule:nonzero;stroke:#1b4878;stroke-width:0.92559344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate;font-variant-east_asian:normal" />
+    <text
+       id="text26543"
+       y="-595.7168"
+       x="149.32202"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;font-size:14px;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east_asian:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-size:14px;line-height:1.25;fill:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east_asian:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+         y="-595.7168"
+         x="149.32202"
+         id="tspan26541"
+         sodipodi:role="line">Detect Video Card</tspan></text>
+    <flowRoot
+       transform="translate(0,-2197.4804)"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       id="flowRoot26581"
+       xml:space="preserve"><flowRegion
+         id="flowRegion26577"><rect
+           y="1688"
+           x="1039"
+           height="116"
+           width="526"
+           id="rect26575" /></flowRegion><flowPara
+         id="flowPara26579">If the card is not detected to be compatible with the particular driver, a better suggestion is provided. However it should be possibe to allow the user to override this and force the installation of a driver in cases where the detection isn't 100% reliable.</flowPara></flowRoot>  </g>
 </svg>
