@@ -48,8 +48,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="712.23617"
-     inkscape:cy="1834.5178"
+     inkscape:cx="589.8745"
+     inkscape:cy="1976.5229"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -94,7 +94,7 @@
        id="guide15368"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="953.29213,1544.9764"
+       position="953,711"
        orientation="1,0"
        id="guide15370"
        inkscape:locked="false" />
@@ -102,6 +102,11 @@
        position="747,1528"
        orientation="0,1"
        id="guide26503"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="653.91711,2565"
+       orientation="1,0"
+       id="guide26609"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -1925,7 +1930,7 @@
    style="fill:#3465a4"
    id="flowSpan25696">http://nvidia.custhelp.com/app/answers/detail/a_id/3142</flowSpan>.</flowPara></flowRoot>    <path
        id="path26520"
-       d="m 34.504463,-49.95361 c 365.999997,-44 515.999997,35 960.999997,0 V 339.04645 H 34.504463 Z"
+       d="m 34.441963,-49.95361 c 365.999997,-44 515.999997,35 960.999997,0 V 859.04645 H 34.441963 Z"
        style="display:inline;opacity:1;fill:#f1f2f1;fill-opacity:1;stroke:#a7a7a7;stroke-width:1;stroke-opacity:1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -2151,15 +2156,13 @@
          id="flowPara5353"
          style="font-size:13.75px;line-height:220.00000477%;fill:#204a87;fill-opacity:1">11 July</flowPara><flowPara
          id="flowPara5355"
-         style="font-size:13.75px;line-height:220.00000477%;fill:#2e3436;fill-opacity:1">Graphics</flowPara><flowPara
+         style="font-size:13.75px;line-height:220.00000477%;fill:#2e3436;fill-opacity:1">Add-ons      Firmware &amp; Drivers</flowPara><flowPara
          id="flowPara5357"
          style="font-size:13.75px;line-height:220.00000477%;fill:#2e3436;fill-opacity:1">GPL-2.0</flowPara><flowPara
          id="flowPara5359"
-         style="font-size:13.75px;line-height:220.00000477%;fill:#2e3436;fill-opacity:1">217.2 MB</flowPara><flowPara
-         style="font-size:13.75px;line-height:220.00000477%;fill:#2e3436;fill-opacity:1"
-         id="flowPara5361">Home Directory</flowPara><flowPara
+         style="font-size:13.75px;line-height:220.00000477%;fill:#2e3436;fill-opacity:1">1.2 GB</flowPara><flowPara
          id="flowPara5363"
-         style="font-size:13.75px;line-height:220.00000477%;fill:#2e3436;fill-opacity:1">Blender Foundation</flowPara></flowRoot>    <flowRoot
+         style="font-size:13.75px;line-height:220.00000477%;fill:#2e3436;fill-opacity:1">Nvidia Corporation</flowPara></flowRoot>    <flowRoot
        transform="translate(-149.28659,-402.0977)"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        id="flowRoot5365"
@@ -2179,10 +2182,8 @@
          style="font-size:13.75px;line-height:220.00000477%">Category</flowPara><flowPara
          id="flowPara5377"
          style="font-size:13.75px;line-height:220.00000477%">License</flowPara><flowPara
-         id="flowPara5379"
-         style="font-size:13.75px;line-height:220.00000477%">Size</flowPara><flowPara
          style="font-size:13.75px;line-height:220.00000477%"
-         id="flowPara5381">File Access</flowPara><flowPara
+         id="flowPara5381">Size</flowPara><flowPara
          id="flowPara5383"
          style="font-size:13.75px;line-height:220.00000477%">Source</flowPara></flowRoot>    <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#204a87;fill-opacity:1;fill-rule:nonzero;stroke:#204a87;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -2225,14 +2226,16 @@
          id="flowPara26447">The 340.xx driver supports the following set of GPUs:</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot26423"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666667px;line-height:25px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
        transform="translate(0,-2394.4804)"><flowRegion
-         id="flowRegion26425"><rect
+         id="flowRegion26425"
+         style="-inkscape-font-specification:'Cantarell, Normal';font-family:Cantarell;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><rect
            id="rect26427"
            width="875"
            height="197"
            x="79"
-           y="2031" /></flowRegion><flowPara
+           y="2031"
+           style="-inkscape-font-specification:'Cantarell, Normal';font-family:Cantarell;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;" /></flowRegion><flowPara
          id="flowPara26429">GeForce 8800 GTX 	0x0191</flowPara><flowPara
          id="flowPara26431">GeForce 8800 GTS 	0x0193</flowPara><flowPara
          id="flowPara26433">GeForce 8800 Ultra 	0x0194</flowPara><flowPara
@@ -2242,15 +2245,17 @@
          id="flowPara26441">GeForce 8600 GTS 	0x0400</flowPara><flowPara
          id="flowPara26443">GeForce 8600 GT 	0x0401</flowPara></flowRoot>    <flowRoot
        transform="translate(301,-2394.4804)"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666667px;line-height:25px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
        id="flowRoot26473"
        xml:space="preserve"><flowRegion
-         id="flowRegion26455"><rect
+         id="flowRegion26455"
+         style="-inkscape-font-specification:'Cantarell, Normal';font-family:Cantarell;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><rect
            y="2031"
            x="79"
            height="197"
            width="875"
-           id="rect26453" /></flowRegion><flowPara
+           id="rect26453"
+           style="-inkscape-font-specification:'Cantarell, Normal';font-family:Cantarell;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;" /></flowRegion><flowPara
          id="flowPara26457">GeForce 8800 GTX 	0x0191</flowPara><flowPara
          id="flowPara26459">GeForce 8800 GTS 	0x0193</flowPara><flowPara
          id="flowPara26461">GeForce 8800 Ultra 	0x0194</flowPara><flowPara
@@ -2261,14 +2266,16 @@
          id="flowPara26471">GeForce 8600 GT 	0x0401</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot26495"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666667px;line-height:25px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
        transform="translate(600,-2394.4804)"><flowRegion
-         id="flowRegion26477"><rect
+         id="flowRegion26477"
+         style="-inkscape-font-specification:'Cantarell, Normal';font-family:Cantarell;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><rect
            id="rect26475"
            width="875"
            height="197"
            x="79"
-           y="2031" /></flowRegion><flowPara
+           y="2031"
+           style="-inkscape-font-specification:'Cantarell, Normal';font-family:Cantarell;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;" /></flowRegion><flowPara
          id="flowPara26479">GeForce 8800 GTX 	0x0191</flowPara><flowPara
          id="flowPara26481">GeForce 8800 GTS 	0x0193</flowPara><flowPara
          id="flowPara26483">GeForce 8800 Ultra 	0x0194</flowPara><flowPara
@@ -2432,5 +2439,93 @@
        d="m 216,-596.4804 h 801 v 45 h 28"
        id="path26607"
        inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 289.64648,94.5743 -1.73242,1 0.97852,1.6953 H 284.75 v 1.127 0.0332 1.1289 h 4.14258 l -0.97852,1.6953 1.73242,1 2.20704,-3.8242 h 0.0195 l -0.01,-0.0157 0.01,-0.0175 h -0.0195 z"
+       id="path26611"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="272.90805"
+       x="80.5"
+       height="62.000015"
+       width="873"
+       id="rect6283"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#a7a7a7;stroke-width:0.99999994;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       mask="none" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6679"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-154.31832,169.86322)"><flowRegion
+         id="flowRegion6681"><rect
+           id="rect6683"
+           width="791.36548"
+           height="60.761444"
+           x="295.9747"
+           y="135.64877"
+           style="fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara6685"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Perform computatons on the GPU. CUDA includes libraries and SDK blah blah.</flowPara></flowRoot>    <g
+       transform="translate(88.99998,266.04792)"
+       inkscape:label="#g14325"
+       id="g14233"
+       style="display:inline">
+      <g
+         transform="matrix(0.92951982,0,0,0.92914368,-156.75069,-212.9618)"
+         id="g14235"
+         style="display:inline">
+        <g
+           style="display:inline"
+           id="g14237"
+           transform="matrix(0.5089163,0,0,0.51739823,161.7932,197.56426)">
+          <g
+             id="g14239" />
+        </g>
+      </g>
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         id="rect14241"
+         width="16"
+         height="16"
+         x="17"
+         y="30.362183" />
+      <g
+         id="g14243">
+        <rect
+           transform="matrix(0.47304779,0,0,0.4807373,-6.3607039,-29.396216)"
+           rx="6"
+           y="125.3458"
+           x="50.440369"
+           height="29.154205"
+           width="29.559635"
+           id="rect14245"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e1e1e1;fill-opacity:1;stroke:#a1a1a1;stroke-width:2.09697676;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+           ry="6" />
+      </g>
+    </g>
+    <flowRoot
+       transform="translate(-154.31832,150.86372)"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot6687"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6689"><rect
+           style="fill:#2e3436"
+           y="135.64877"
+           x="295.9747"
+           height="75.761444"
+           width="235.36552"
+           id="rect6691" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara6693">CUDA 8.0</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+       x="80"
+       y="250.19614"
+       id="text5467"><tspan
+         sodipodi:role="line"
+         id="tspan5469"
+         x="80"
+         y="250.19614"
+         style="font-size:17.5px;line-height:1.25">Add-ons</tspan></text>
   </g>
 </svg>
