@@ -1,0 +1,112 @@
+@charset "utf-8";
+@import "normalize";
+@import "bootstrap";
+
+/*!
+ * Start Bootstrap - Creative Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+ 
+$primary_color: #4a86cf;
+$secondary_orange_color: #f57900;
+$secondary_green_color: #4e9a06;
+$secondary_purple_color: #692c52;
+$base_bg_color: #808080;
+$bg_color: #2e3436;
+$fg_color: #fff;
+$dark_neutral_color: #555753;
+$defaultfont: 'Source Sans Pro', 'Source Sans', sans-serif;
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: $bg_color;
+  color: $fg_color;
+}
+
+body {
+  font-family: 'Source Sans Pro', 'Source Sans', sans-serif;
+  font-size: 13pt;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header {
+  margin-top: 64px;
+  margin-bottom: 64px;
+  .temp {
+    font-size: 200%;
+    display: inline-block;
+  }
+  .feelslike {
+    font-size: 80%;
+    display: inline-block;
+    &:before { content: 'Feels like '; }
+  }
+  svg {
+    width: 16px;
+    height: 16px;
+  }
+}
+
+#wicon svg {
+  width: 100%;
+  height: auto;
+  path { fill: #fff !important; }  
+}
+
+.hourlyicon svg {
+  width: 32px;
+  height: 32px;
+  path { fill: #fff !important; }
+}
+
+.hours {
+  display: flex;
+  flex-direction: row;
+  direction: ltr;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  justify-content: space-between;
+  align-items: stretch;
+  height: 200px;
+  /* visibility: collapse; */
+}
+.hour {
+  background-color: $dark_neutral_color;
+  display: flex;
+  min-width: 90px;
+  flex-direction: column;
+  div {
+    display: flex-item;
+    text-align: center;
+  }
+}
+
+.today {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+
+  h1.place {
+    width: 100%;
+  }
+  div {
+    flex: 1;
+    min-width: 40%;
+  }
+  svg,span { display: inline-block; }
+}
+
+@media only screen and (max-width : 768px) {
+  .hours {
+    flex-direction: column;
+    height: inherit;
+  }
+  .hour {
+    flex-direction: row;
+    min-width: inherit;
+  }
+}
