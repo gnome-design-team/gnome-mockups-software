@@ -231,7 +231,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="512.10264"
-     inkscape:cy="557.16114"
+     inkscape:cy="1677.1611"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5277,7 +5277,23 @@
        id="path16301"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
-  </g>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#729fcf;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 4;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 672.7786,1284.4324 v 55 h -357 v -60"
+       id="path16312"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot16320"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="translate(645.77863,-843.6167)"><flowRegion
+         id="flowRegion16316"><rect
+           id="rect16314"
+           width="276"
+           height="101"
+           x="51"
+           y="2170" /></flowRegion><flowPara
+         id="flowPara16318">CSS background property gets appended to the stylesheet.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
