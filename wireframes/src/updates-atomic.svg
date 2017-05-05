@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="592.08091"
-     inkscape:cy="1663.4137"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="33.77736"
+     inkscape:cy="606.78992"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1756,13 +1756,15 @@
        transform="translate(-1336.4689,-4584.4272)"><flowRegion
          id="flowRegion5407-5"><rect
            id="rect5405-6"
-           width="393.00784"
-           height="60.755741"
+           width="397.00781"
+           height="81.755737"
            x="1429.7699"
            y="1613.8483"
            style="text-align:start;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
          style="fill:#2e3436"
-         id="flowPara5409-2">High level description of what's new in OS Update version 27.3.</flowPara><flowPara
+         id="flowPara4845">In this version removes GNOME Boxes from the OS image. This should instead be installed as a Flatpak.</flowPara><flowPara
          style="fill:#2e3436"
-         id="flowPara4841">Maybe there was some severere security holes patched up, maybe there was some critical bug fixes done.</flowPara></flowRoot>  </g>
+         id="flowPara4849">It adds GNOME Clocks and GNOME Maps to the core OS image.</flowPara><flowPara
+         style="fill:#2e3436"
+         id="flowPara4851">It also features security updates and bugfixes.</flowPara></flowRoot>  </g>
 </svg>
