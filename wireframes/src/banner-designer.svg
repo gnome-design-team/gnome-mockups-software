@@ -167,7 +167,7 @@
          y="-251.81842" />
     </clipPath>
     <linearGradient
-       gradientTransform="matrix(0.61427606,0,0,0.615006,-304.67523,896.2425)"
+       gradientTransform="matrix(0.614455,0,0,0.61474987,-304.86892,895.97294)"
        inkscape:collect="always"
        xlink:href="#linearGradient13573"
        id="linearGradient13579"
@@ -193,7 +193,7 @@
        xlink:href="#linearGradient13573"
        id="linearGradient45822"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.40957266,0,0,0.615006,-297.77998,736.2425)"
+       gradientTransform="matrix(0.40927447,0,0,0.61859209,-297.76969,735.32913)"
        x1="652"
        y1="384.5625"
        x2="652"
@@ -203,7 +203,7 @@
        xlink:href="#linearGradient13573"
        id="linearGradient8801"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.1979674,0,0,0.615006,145.97889,736.2425)"
+       gradientTransform="matrix(0.1984445,0,0,0.61884822,145.46243,735.22369)"
        x1="652"
        y1="384.5625"
        x2="652"
@@ -259,8 +259,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-67.57401"
-     inkscape:cy="4221.305"
+     inkscape:cx="389.57241"
+     inkscape:cy="267.86902"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -295,7 +295,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1752,18 +1752,18 @@
       </g>
     </g>
     <rect
-       y="1162.4324"
-       x="-283.22137"
-       height="278"
-       width="646"
+       y="1162.4949"
+       x="-283.15887"
+       height="277"
+       width="643.875"
        id="rect45587"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#3465a4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#3465a4;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d6d6d6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;enable-background:new"
        id="rect9659"
        width="13.036335"
        height="275.04126"
-       x="348.79904"
+       x="346.79904"
        y="1163.3911"
        rx="0"
        ry="0" />
@@ -1771,7 +1771,7 @@
        ry="3.5"
        rx="3.4764707"
        y="1166.4324"
-       x="351.79904"
+       x="349.79904"
        height="208.22969"
        width="6.9795446"
        id="rect9661"
@@ -1814,12 +1814,12 @@
            x="51"
            y="2170" /></flowRegion><flowPara
          id="flowPara13271">Short term - one way bugzilla submission. </flowPara></flowRoot>    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient13579);fill-opacity:1;fill-rule:nonzero;stroke:#555753;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient13579);fill-opacity:1;fill-rule:nonzero;stroke:#555753;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect9228"
-       width="643.76135"
-       height="150.06146"
-       x="-283.48273"
-       y="999.29443" />
+       width="643.94885"
+       height="149.99896"
+       x="-283.67023"
+       y="998.98193" />
     <g
        style="display:inline;stroke-width:1.6260004"
        id="g9230"
@@ -1979,10 +1979,10 @@
          y="-59.357769" />
     </g>
     <rect
-       y="839.29431"
+       y="838.98181"
        x="-283.64975"
-       height="150.06146"
-       width="429.23215"
+       height="150.93646"
+       width="428.91965"
        id="rect45764"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient45822);fill-opacity:1;fill-rule:nonzero;stroke:#555753;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <g
@@ -2146,10 +2146,10 @@
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient8801);fill-opacity:1;fill-rule:nonzero;stroke:#555753;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect8769"
-       width="207.46983"
-       height="150.06146"
-       x="152.80876"
-       y="839.29431" />
+       width="207.96983"
+       height="150.99896"
+       x="152.30876"
+       y="838.91931" />
     <g
        style="display:inline;stroke-width:1.68374515;enable-background:new"
        id="g45820-2"
@@ -4416,19 +4416,19 @@
          id="flowPara16370">border: 1px solid #808080;</flowPara><flowPara
          id="flowPara16734">background: #eee;</flowPara><flowPara
          id="flowPara16372">color: #000;</flowPara></flowRoot>    <rect
-       y="267.29443"
-       x="-283.48273"
+       y="266.91943"
+       x="-283.73273"
        height="150.06146"
        width="643.76135"
        id="rect16378"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect16436"
-       width="429.23215"
-       height="150.06146"
-       x="-283.64975"
-       y="107.29431" />
+       width="428.92282"
+       height="149.97307"
+       x="-283.69397"
+       y="106.98495" />
     <g
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.6260004"
        transform="matrix(0.61500601,0,0,0.61500601,-333.29244,4.8574)"
@@ -4449,12 +4449,12 @@
            style="fill:#000000;stroke-width:1.6260004"
            id="flowPara16452">Description</flowPara></flowRoot>    </g>
     <rect
-       y="107.29431"
-       x="152.80876"
-       height="150.06146"
-       width="207.46983"
+       y="106.9193"
+       x="152.36682"
+       height="150.06081"
+       width="207.97426"
        id="rect16494"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -5129,10 +5129,10 @@
          id="flowPara245487">color: #000;</flowPara></flowRoot>    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect245491"
-       width="643.76135"
-       height="150.06146"
-       x="-283.48273"
-       y="-677.70563" />
+       width="643.9801"
+       height="150.05296"
+       x="-283.70148"
+       y="-678.10339" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#c1c1c1;stroke-width:0.99999964;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect245507"
@@ -5385,7 +5385,7 @@
            y="366.09659"
            x="928.6297"
            id="tspan245619"
-           sodipodi:role="line">GNOME 3.20 Now Available</tspan></text>
+           sodipodi:role="line">GNOME 3.26 Now Available</tspan></text>
     </g>
     <g
        style="display:inline"
