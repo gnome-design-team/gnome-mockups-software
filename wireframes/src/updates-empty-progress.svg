@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="5000"
-   height="1000"
-   viewBox="0 0 5000.0001 1000"
+   height="1080"
+   viewBox="0 0 5000.0001 1080"
    id="svg14346"
    version="1.1"
    inkscape:version="0.92.1 r"
@@ -34,8 +34,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="1210.0814"
-     inkscape:cy="374.17763"
+     inkscape:cx="2853.8019"
+     inkscape:cy="600.05021"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +46,7 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-nodes="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1136"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1">
@@ -70,29 +70,35 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-52.362)">
+     transform="translate(0,27.638)">
     <rect
-       y="305.8623"
+       y="205.8623"
        x="160.5"
        height="654"
        width="859"
        id="rect9769"
        style="display:inline;opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#a7a7a7;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       mask="none" />
+       mask="none"
+       inkscape:export-filename="/home/aday/Dropbox/Public/software/cognitive-dissonance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#a7aba7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter12000-4-9-2);enable-background:accumulate"
-       d="m 172.5,258.8622 835,-10e-5 c 6.648,0 12.1899,5.3547 12,12 v 35 h -12 l -835,10e-5 h -12 v -35 c 0,-6.648 5.352,-12 12,-12 z"
+       d="m 172.5,158.8622 835,-1e-4 c 6.648,0 12.1899,5.3547 12,12 v 35 h -12 l -835,1e-4 h -12 v -35 c 0,-6.648 5.352,-12 12,-12 z"
        id="path4784"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssccccss" />
+       sodipodi:nodetypes="sssccccss"
+       inkscape:export-filename="/home/aday/Dropbox/Public/software/cognitive-dissonance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        inkscape:connector-curvature="0"
        id="path4786"
-       d="m 974.50061,272.6603 v 19.404"
+       d="m 974.50061,172.6603 v 19.404"
        style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     <g
        style="display:inline;fill:#888a85"
-       transform="translate(989.00315,274.3624)"
+       transform="translate(989.00315,174.3624)"
        id="g4788">
       <g
          transform="translate(-60,-518)"
@@ -140,7 +146,7 @@
        width="299"
        height="33"
        x="440.5"
-       y="265.8623"
+       y="165.8623"
        rx="3.0000002"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -150,30 +156,30 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        x="490.50262"
-       y="287.1499"
+       y="187.1499"
        id="text4810"><tspan
          sodipodi:role="line"
          id="tspan4812"
          x="490.50262"
-         y="287.1499">All</tspan></text>
+         y="187.1499">All</tspan></text>
     <text
        id="text4814"
-       y="287.1499"
+       y="187.1499"
        x="590.28851"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="287.1499"
+         y="187.1499"
          x="590.28851"
          id="tspan4816"
          sodipodi:role="line">Installed</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#919191;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 540.50005,265.8694 v 33.0182"
+       d="m 540.50005,165.8694 v 33.0182"
        id="path4818"
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dbdbdb;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       d="M 736.50003,298.8623 H 640.5 v -3 -27 -3 h 96.00003 c 1.662,0 3,1.338 3,3 v 27 c 0,1.662 -1.338,3 -3,3 z"
+       d="M 736.50003,198.8623 H 640.5 v -3 -27 -3 h 96.00003 c 1.662,0 3,1.338 3,3 v 27 c 0,1.662 -1.338,3 -3,3 z"
        id="path4902"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sccccssss" />
@@ -181,20 +187,20 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        x="689.7049"
-       y="287.1499"
+       y="187.1499"
        id="text4904"><tspan
          style="font-weight:normal"
          sodipodi:role="line"
          id="tspan4906"
          x="689.7049"
-         y="287.1499">Updates</tspan></text>
+         y="187.1499">Updates</tspan></text>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="3.0000002"
-       y="265.8623"
+       y="165.8623"
        x="166.50003"
        height="33"
        width="33"
@@ -202,7 +208,7 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <g
        id="g4930"
-       transform="translate(175.49788,274.378)"
+       transform="translate(175.49788,174.378)"
        style="display:inline;fill:#2e3436">
       <g
          style="display:inline;fill:#2e3436"
@@ -260,7 +266,7 @@
        xml:space="preserve"
        id="flowRoot5370"
        style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:189.99999762%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(114.76256,2084.3623)"><flowRegion
+       transform="translate(114.76256,2004.3623)"><flowRegion
          id="flowRegion5356"
          style="font-size:14.66666698px;line-height:189.99999762%"><rect
            id="rect5354"
@@ -274,16 +280,16 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#919191;fill-opacity:1;stroke:none"
        x="589.98352"
-       y="693.1499"
+       y="593.1499"
        id="text933"><tspan
          sodipodi:role="line"
          id="tspan931"
          x="589.98352"
-         y="693.1499"
+         y="593.1499"
          style="font-size:24px;fill:#919191">Software is Up To Date</tspan></text>
     <g
        style="display:inline"
-       transform="matrix(8,0,0,8,37.99841,-5777.638)"
+       transform="matrix(8,0,0,8,37.99841,-5877.638)"
        inkscape:label="object-select"
        id="g3187">
       <path
@@ -309,21 +315,21 @@
        width="859"
        height="654"
        x="2040.5"
-       y="305.8623" />
+       y="205.8623" />
     <path
        sodipodi:nodetypes="sssccccss"
        inkscape:connector-curvature="0"
        id="path3215"
-       d="m 2052.5,258.8622 835,-10e-5 c 6.648,0 12.1899,5.3547 12,12 v 35 h -12 l -835,10e-5 h -12 v -35 c 0,-6.648 5.352,-12 12,-12 z"
+       d="m 2052.5,158.8622 835,-1e-4 c 6.648,0 12.1899,5.3547 12,12 v 35 h -12 l -835,1e-4 h -12 v -35 c 0,-6.648 5.352,-12 12,-12 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#a7aba7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter12000-4-9-2);enable-background:accumulate" />
     <path
        style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 2854.5006,272.6603 v 19.404"
+       d="m 2854.5006,172.6603 v 19.404"
        id="path3217"
        inkscape:connector-curvature="0" />
     <g
        id="g3237"
-       transform="translate(2869.0031,274.3624)"
+       transform="translate(2869.0031,174.3624)"
        style="display:inline;fill:#888a85">
       <g
          style="display:inline;fill:#888a85"
@@ -371,7 +377,7 @@
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="3.0000002"
-       y="265.8623"
+       y="165.8623"
        x="2320.5"
        height="33"
        width="299"
@@ -379,11 +385,11 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <text
        id="text3243"
-       y="287.1499"
+       y="187.1499"
        x="2370.5027"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="287.1499"
+         y="187.1499"
          x="2370.5027"
          id="tspan3241"
          sodipodi:role="line">All</tspan></text>
@@ -391,30 +397,30 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        x="2470.2886"
-       y="287.1499"
+       y="187.1499"
        id="text3247"><tspan
          sodipodi:role="line"
          id="tspan3245"
          x="2470.2886"
-         y="287.1499">Installed</tspan></text>
+         y="187.1499">Installed</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path3249"
-       d="m 2420.5,265.8694 v 33.0182"
+       d="m 2420.5,165.8694 v 33.0182"
        style="display:inline;fill:none;stroke:#919191;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="sccccssss"
        inkscape:connector-curvature="0"
        id="path3251"
-       d="m 2616.5,298.8623 h -96 v -3 -27 -3 h 96 c 1.662,0 3,1.338 3,3 v 27 c 0,1.662 -1.338,3 -3,3 z"
+       d="m 2616.5,198.8623 h -96 v -3 -27 -3 h 96 c 1.662,0 3,1.338 3,3 v 27 c 0,1.662 -1.338,3 -3,3 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dbdbdb;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <text
        id="text3255"
-       y="287.1499"
+       y="187.1499"
        x="2569.7048"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="287.1499"
+         y="187.1499"
          x="2569.7048"
          id="tspan3253"
          sodipodi:role="line"
@@ -425,7 +431,7 @@
        width="33"
        height="33"
        x="2046.5"
-       y="265.8623"
+       y="165.8623"
        rx="3.0000002"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -433,12 +439,12 @@
        inkscape:export-ydpi="90" />
     <text
        id="text3283"
-       y="693.1499"
+       y="593.1499"
        x="2469.9834"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#919191;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-size:24px;fill:#919191"
-         y="693.1499"
+         y="593.1499"
          x="2469.9834"
          id="tspan3281"
          sodipodi:role="line">Downloading Updates...</tspan></text>
@@ -447,7 +453,7 @@
        style="display:inline"
        id="g3295"
        inkscape:label="process-working"
-       transform="matrix(2,0,0,2,2252,60.362)">
+       transform="matrix(2,0,0,2,2252,-39.638)">
       <rect
          width="16"
          height="16"
@@ -463,7 +469,7 @@
          transform="matrix(0.88624425,0,0,0.88624425,119.31943,189.52028)" />
     </g>
     <rect
-       y="305.8623"
+       y="205.8623"
        x="2980.5"
        height="654"
        width="859"
@@ -472,18 +478,18 @@
        mask="none" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#a7aba7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter12000-4-9-2);enable-background:accumulate"
-       d="m 2992.5,258.8622 835,-10e-5 c 6.648,0 12.1899,5.3547 12,12 v 35 h -12 l -835,10e-5 h -12 v -35 c 0,-6.648 5.352,-12 12,-12 z"
+       d="m 2992.5,158.8622 835,-1e-4 c 6.648,0 12.1899,5.3547 12,12 v 35 h -12 l -835,1e-4 h -12 v -35 c 0,-6.648 5.352,-12 12,-12 z"
        id="path3320"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccccss" />
     <path
        inkscape:connector-curvature="0"
        id="path3322"
-       d="m 3794.5006,272.6603 v 19.404"
+       d="m 3794.5006,172.6603 v 19.404"
        style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     <g
        style="display:inline;fill:#888a85"
-       transform="translate(3809.0031,274.3624)"
+       transform="translate(3809.0031,174.3624)"
        id="g3342">
       <g
          transform="translate(-60,-518)"
@@ -531,7 +537,7 @@
        width="299"
        height="33"
        x="3260.5"
-       y="265.8623"
+       y="165.8623"
        rx="3.0000002"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -541,30 +547,30 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        x="3310.5027"
-       y="287.1499"
+       y="187.1499"
        id="text3348"><tspan
          sodipodi:role="line"
          id="tspan3346"
          x="3310.5027"
-         y="287.1499">All</tspan></text>
+         y="187.1499">All</tspan></text>
     <text
        id="text3352"
-       y="287.1499"
+       y="187.1499"
        x="3410.2886"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="287.1499"
+         y="187.1499"
          x="3410.2886"
          id="tspan3350"
          sodipodi:role="line">Installed</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#919191;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 3360.5,265.8694 v 33.0182"
+       d="m 3360.5,165.8694 v 33.0182"
        id="path3354"
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dbdbdb;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       d="m 3556.5,298.8623 h -96 v -3 -27 -3 h 96 c 1.662,0 3,1.338 3,3 v 27 c 0,1.662 -1.338,3 -3,3 z"
+       d="m 3556.5,198.8623 h -96 v -3 -27 -3 h 96 c 1.662,0 3,1.338 3,3 v 27 c 0,1.662 -1.338,3 -3,3 z"
        id="path3356"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sccccssss" />
@@ -572,20 +578,20 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        x="3509.7048"
-       y="287.1499"
+       y="187.1499"
        id="text3360"><tspan
          style="font-weight:normal"
          sodipodi:role="line"
          id="tspan3358"
          x="3509.7048"
-         y="287.1499">Updates</tspan></text>
+         y="187.1499">Updates</tspan></text>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="3.0000002"
-       y="265.8623"
+       y="165.8623"
        x="2986.5"
        height="33"
        width="33"
@@ -593,7 +599,7 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <g
        id="g3384"
-       transform="translate(2995.4979,274.378)"
+       transform="translate(2995.4979,174.378)"
        style="display:inline;fill:#2e3436">
       <g
          style="display:inline;fill:#2e3436"
@@ -651,51 +657,18 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#919191;fill-opacity:1;stroke:none"
        x="3409.9834"
-       y="693.1499"
+       y="633.1499"
        id="text3388"><tspan
          sodipodi:role="line"
          id="tspan3386"
          x="3409.9834"
-         y="693.1499"
-         style="font-size:24px;fill:#919191">Updates Unavailable</tspan></text>
-    <g
-       style="display:inline"
-       transform="matrix(8,0,0,8,938,-1537.638)"
-       inkscape:label="dialog-warning"
-       id="g3404">
-      <rect
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
-         id="rect3400"
-         y="257"
-         x="301"
-         height="16"
-         width="16" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path3402"
-         transform="translate(221.0002,217)"
-         d="m 87.90625,40.09375 c -0.5255,-0.0286 -1.03823,0.28305 -1.4375,0.96875 l -6.25,11.59375 C 79.68528,53.61964 80.26697,55 81.3125,55 h 13.15625 c 0.98172,0 1.90311,-1.15939 1.21875,-2.34375 L 89.375,41.125 c -0.39872,-0.64617 -0.94325,-1.00262 -1.46875,-1.03125 z m 0.0625,3.9375 C 88.51323,44.01405 89.01724,44.51802 89,45.0625 V 49 c 0.007,0.52831 -0.47163,1 -1,1 -0.52836,0 -1.00747,-0.47169 -1,-1 v -3.9375 c -0.008,-0.4666 0.3541,-0.91253 0.8125,-1 0.0511,-0.0145 0.10345,-0.02495 0.15625,-0.03125 z M 88,51 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 z"
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new" />
-    </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3427"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:6.00000048px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(745.99266,-53.638)"><flowRegion
-         id="flowRegion3429"
-         style="text-align:center;text-anchor:middle;fill:#919191;fill-opacity:1"><rect
-           id="rect3431"
-           width="370"
-           height="203"
-           x="2479"
-           y="769"
-           style="text-align:center;text-anchor:middle;fill:#919191;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara3433"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#919191;fill-opacity:1">&lt;distro&gt; has reached is no longer supported. It is recommended that you update to a more recent version.</flowPara></flowRoot>    <circle
+         y="633.1499"
+         style="font-size:24px;fill:#919191">No Updates Available</tspan></text>
+    <circle
        id="path3435"
        style="fill:#000000;stroke:none"
        cx="120"
-       cy="568.36212"
+       cy="468.36212"
        r="1.5" />
     <rect
        mask="none"
@@ -704,21 +677,21 @@
        width="859"
        height="654"
        x="3920.5"
-       y="305.8623" />
+       y="205.8623" />
     <path
        sodipodi:nodetypes="sssccccss"
        inkscape:connector-curvature="0"
        id="path3443"
-       d="m 3932.5,258.8622 835,-10e-5 c 6.648,0 12.1899,5.3547 12,12 v 35 h -12 l -835,10e-5 h -12 v -35 c 0,-6.648 5.352,-12 12,-12 z"
+       d="m 3932.5,158.8622 835,-1e-4 c 6.648,0 12.1899,5.3547 12,12 v 35 h -12 l -835,1e-4 h -12 v -35 c 0,-6.648 5.352,-12 12,-12 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#a7aba7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter12000-4-9-2);enable-background:accumulate" />
     <path
        style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 4734.5006,272.6603 v 19.404"
+       d="m 4734.5006,172.6603 v 19.404"
        id="path3445"
        inkscape:connector-curvature="0" />
     <g
        id="g3465"
-       transform="translate(4749.0031,274.3624)"
+       transform="translate(4749.0031,174.3624)"
        style="display:inline;fill:#888a85">
       <g
          style="display:inline;fill:#888a85"
@@ -766,7 +739,7 @@
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="3.0000002"
-       y="265.8623"
+       y="165.8623"
        x="4200.5"
        height="33"
        width="299"
@@ -774,11 +747,11 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <text
        id="text3471"
-       y="287.1499"
+       y="187.1499"
        x="4250.5029"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="287.1499"
+         y="187.1499"
          x="4250.5029"
          id="tspan3469"
          sodipodi:role="line">All</tspan></text>
@@ -786,30 +759,30 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        x="4350.2886"
-       y="287.1499"
+       y="187.1499"
        id="text3475"><tspan
          sodipodi:role="line"
          id="tspan3473"
          x="4350.2886"
-         y="287.1499">Installed</tspan></text>
+         y="187.1499">Installed</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path3477"
-       d="m 4300.5,265.8694 v 33.0182"
+       d="m 4300.5,165.8694 v 33.0182"
        style="display:inline;fill:none;stroke:#919191;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="sccccssss"
        inkscape:connector-curvature="0"
        id="path3479"
-       d="m 4496.5,298.8623 h -96 v -3 -27 -3 h 96 c 1.662,0 3,1.338 3,3 v 27 c 0,1.662 -1.338,3 -3,3 z"
+       d="m 4496.5,198.8623 h -96 v -3 -27 -3 h 96 c 1.662,0 3,1.338 3,3 v 27 c 0,1.662 -1.338,3 -3,3 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dbdbdb;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <text
        id="text3483"
-       y="287.1499"
+       y="187.1499"
        x="4449.7051"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="287.1499"
+         y="187.1499"
          x="4449.7051"
          id="tspan3481"
          sodipodi:role="line"
@@ -820,7 +793,7 @@
        width="33"
        height="33"
        x="3926.5"
-       y="265.8623"
+       y="165.8623"
        rx="3.0000002"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -828,7 +801,7 @@
        inkscape:export-ydpi="90" />
     <g
        style="display:inline;fill:#2e3436"
-       transform="translate(3935.4979,274.378)"
+       transform="translate(3935.4979,174.378)"
        id="g3507">
       <g
          id="g3487"
@@ -884,17 +857,17 @@
     </g>
     <text
        id="text3511"
-       y="693.1499"
+       y="593.1499"
        x="4349.9834"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#919191;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-size:24px;fill:#919191"
-         y="693.1499"
+         y="593.1499"
          x="4349.9834"
          id="tspan3509"
          sodipodi:role="line">Failed to Check for Updates</tspan></text>
     <flowRoot
-       transform="translate(1698.4927,-53.638)"
+       transform="translate(1698.4927,-153.638)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:6.00000048px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot3525"
        xml:space="preserve"><flowRegion
@@ -908,7 +881,7 @@
            id="rect3519" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#919191;fill-opacity:1"
          id="flowPara3523">We're sorry - something went wrong.</flowPara></flowRoot>    <rect
-       y="305.8623"
+       y="205.8623"
        x="1100.5"
        height="654"
        width="859"
@@ -917,18 +890,18 @@
        mask="none" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#a7aba7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter12000-4-9-2);enable-background:accumulate"
-       d="m 1112.5,258.8622 835,-10e-5 c 6.648,0 12.1899,5.3547 12,12 v 35 h -12 l -835,10e-5 h -12 v -35 c 0,-6.648 5.352,-12 12,-12 z"
+       d="m 1112.5,158.8622 835,-1e-4 c 6.648,0 12.1899,5.3547 12,12 v 35 h -12 l -835,1e-4 h -12 v -35 c 0,-6.648 5.352,-12 12,-12 z"
        id="path3529"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccccss" />
     <path
        inkscape:connector-curvature="0"
        id="path3531"
-       d="m 1914.5006,272.6603 v 19.404"
+       d="m 1914.5006,172.6603 v 19.404"
        style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     <g
        style="display:inline;fill:#888a85"
-       transform="translate(1929.0031,274.3624)"
+       transform="translate(1929.0031,174.3624)"
        id="g3551">
       <g
          transform="translate(-60,-518)"
@@ -976,7 +949,7 @@
        width="299"
        height="33"
        x="1380.5"
-       y="265.8623"
+       y="165.8623"
        rx="3.0000002"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -986,30 +959,30 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        x="1430.5027"
-       y="287.1499"
+       y="187.1499"
        id="text3557"><tspan
          sodipodi:role="line"
          id="tspan3555"
          x="1430.5027"
-         y="287.1499">All</tspan></text>
+         y="187.1499">All</tspan></text>
     <text
        id="text3561"
-       y="287.1499"
+       y="187.1499"
        x="1530.2886"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="287.1499"
+         y="187.1499"
          x="1530.2886"
          id="tspan3559"
          sodipodi:role="line">Installed</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#919191;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1480.5,265.8694 v 33.0182"
+       d="m 1480.5,165.8694 v 33.0182"
        id="path3563"
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#dbdbdb;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       d="m 1676.5,298.8623 h -96 v -3 -27 -3 h 96 c 1.662,0 3,1.338 3,3 v 27 c 0,1.662 -1.338,3 -3,3 z"
+       d="m 1676.5,198.8623 h -96 v -3 -27 -3 h 96 c 1.662,0 3,1.338 3,3 v 27 c 0,1.662 -1.338,3 -3,3 z"
        id="path3565"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sccccssss" />
@@ -1017,20 +990,20 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        x="1629.7048"
-       y="287.1499"
+       y="187.1499"
        id="text3569"><tspan
          style="font-weight:normal"
          sodipodi:role="line"
          id="tspan3567"
          x="1629.7048"
-         y="287.1499">Updates</tspan></text>
+         y="187.1499">Updates</tspan></text>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="3.0000002"
-       y="265.8623"
+       y="165.8623"
        x="1106.5"
        height="33"
        width="33"
@@ -1040,15 +1013,15 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#919191;fill-opacity:1;stroke:none"
        x="1529.9834"
-       y="693.1499"
+       y="593.1499"
        id="text3597"><tspan
          sodipodi:role="line"
          id="tspan3595"
          x="1529.9834"
-         y="693.1499"
+         y="593.1499"
          style="font-size:24px;fill:#919191">Checking for Updates...</tspan></text>
     <g
-       transform="matrix(2,0,0,2,1312,60.362)"
+       transform="matrix(8,0,0,8,658,-1797.638)"
        inkscape:label="process-working"
        id="g3603"
        style="display:inline"
@@ -1060,28 +1033,22 @@
          x="101"
          height="16"
          width="16" />
-      <path
-         transform="matrix(0.88624425,0,0,0.88624425,119.31943,189.52028)"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:3.38507128;marker:none;enable-background:accumulate"
-         d="m -11.667264,99.897414 c 0,1.109506 0,2.219016 0,3.328526 -1.885833,-0.0501 -3.927382,1.51647 -4.367108,3.35101 -0.536452,1.80861 0.448314,4.18605 2.106528,5.0856 1.608145,0.98628 4.1594463,0.65039 5.4575274,-0.7185 h 8e-7 c 1.36889,-1.29808 1.7047751,-3.84938 0.7184968,-5.45752 0.9999894,1.60022 0.68818,4.16442 -0.6849117,5.49111 0,0 -4e-7,0 -4e-7,0 -1.304301,1.39548 -3.8809339,1.76047 -5.5386079,0.76718 0,0 -10e-7,0 -10e-7,0 -1.694488,-0.90596 -2.71915,-3.29432 -2.206285,-5.17026 -0.542943,1.86817 0.442899,4.29309 2.159661,5.25101 0,0 0,0 0,0 1.682887,1.04073 4.3225037,0.71836 5.7175106,-0.71565 -2e-7,0 7e-7,0 7e-7,0 1.4558464,-1.37317 1.8300925,-4.02492 0.7958916,-5.76384 1.0609453,1.72348 0.7336603,4.40037 -0.7303817,5.82935 0,0 -4e-7,0 -4e-7,0 -1.4071398,1.48588 -4.0961668,1.86503 -5.8756658,0.81061 0,0 0,0 0,0 -1.807249,-0.98112 -2.874665,-3.47312 -2.335422,-5.48084 -0.568944,2.00004 0.460139,4.52815 2.289382,5.56058 0,0 0,0 0,0 1.804395,1.10126 4.5556168,0.76419 6.0523258,-0.75973 -2e-7,0 7e-7,0 7e-7,0 1.5457598,-1.47487 1.934699,-4.23823 0.8399709,-6.09865 1.1214734,1.84498 0.7794971,4.63348 -0.7744586,6.16416 0,0 -4e-7,0 -4e-7,0 -1.5088424,1.57579 -4.3094764,1.96964 -6.2104864,0.8547 0,0 -10e-7,0 -10e-7,0 -1.919733,-1.05563 -3.030392,-3.65083 -2.465148,-5.79042 -0.594946,2.13192 0.477378,4.76322 2.419107,5.87016 0,0 0,0 0,0 1.925908,1.16179 4.7887382,0.81002 6.3871531,-0.80381 -3e-7,-1e-5 7e-7,-1e-5 7e-7,-1e-5 1.6356764,-1.57657 2.0393092,-4.45154 0.8840517,-6.43347 1.1820028,1.96649 0.8253329,4.8666 -0.8185394,6.49899 0,0 -5e-7,0 -5e-7,0 -1.610548,1.66571 -4.5227906,2.07425 -6.5453136,0.89877 0,0 -10e-7,0 -10e-7,0 -2.032219,-1.13013 -3.186119,-3.82852 -2.594873,-6.09999 -0.620949,2.26379 0.494617,4.99829 2.548832,6.17974 0,0 0,0 0,0 2.04742,1.22231 5.0218597,0.85586 6.7219803,-0.8479 -2e-7,0 8e-7,0 8e-7,0 1.725593,-1.67828 2.1439194,-4.66486 0.9281325,-6.7683 1.2425312,2.088 0.871166,5.09972 -0.8626225,6.83381 0,0 -6e-7,0 -6e-7,0 -1.7122534,1.75563 -4.7361035,2.17886 -6.8801345,0.94286 0,0 -10e-7,0 -10e-7,0 -2.144702,-1.20465 -3.341841,-4.00623 -2.724593,-6.40957 -0.64695,2.39566 0.511857,5.23335 2.678553,6.48931 0,0 0,0 0,0 2.168928,1.28284 5.2549728,0.90169 7.0567955,-0.89198 -3e-7,0 8e-7,0 8e-7,0 1.8155064,-1.77998 2.2485258,-4.87816 0.9722118,-7.10312 1.3030603,2.20952 0.9170054,5.33284 -0.9066971,7.16864 0,0 -5e-7,0 -5e-7,0 -1.8139564,1.84554 -4.9494155,2.28347 -7.2149615,0.98694 0,0 -10e-7,0 -10e-7,0 -2.25719,-1.27916 -3.497575,-4.18393 -2.854326,-6.71915 -0.672951,2.52754 0.5291,5.46842 2.808284,6.79889 0,0 10e-7,0 10e-7,0 2.290444,1.34337 5.4880992,0.94753 7.3916281,-0.93606 -3e-7,0 9e-7,0 9e-7,0 1.9054232,-1.88169 2.3531346,-5.09148 1.0162902,-7.43795 1.3635887,2.33103 0.9628385,5.56596 -0.9507803,7.50346 0,0 -5e-7,0 -5e-7,0 -1.9156617,1.93546 -5.1627274,2.38808 -7.5497834,1.03102 10e-7,0 -10e-7,0 -10e-7,0 -2.369672,-1.35367 -3.653296,-4.36163 -2.984044,-7.02872 -0.698954,2.65941 0.546336,5.70348 2.938003,7.10847 0,0 0,0 0,0 2.411953,1.4039 5.7212158,0.99336 7.72645,-0.98014 -3e-7,0 9e-7,0 9e-7,0 1.9953396,-1.9834 2.4577463,-5.3048 1.0603734,-7.77278 1.4241172,2.45254 1.0086717,5.79908 -0.9948634,7.83829 0,0 -6e-7,0 -6e-7,0 -2.017367,2.02537 -5.3760403,2.49268 -7.8846043,1.07509 0,0 -1e-6,0 -1e-6,0 -2.482155,-1.42817 -3.809018,-4.53933 -3.113764,-7.33828 -0.724956,2.79128 0.563573,5.93854 3.067722,7.41803 0,0 1e-6,0 1e-6,0 2.533461,1.46443 5.9543314,1.0392 8.0612709,-1.02422 -3e-7,0 9e-7,0 9e-7,0 2.0852559,-2.0851 2.5623579,-5.5181 1.1044566,-8.1076 1.4846475,2.57405 1.0545101,6.0322 -1.0389419,8.17312 0,0 -6e-7,0 -6e-7,0 -2.1190732,2.11529 -5.5893569,2.59729 -8.2194369,1.11918 0,0 -2e-6,0 -2e-6,0 -2.594643,-1.50269 -3.964751,-4.71704 -3.243495,-7.64787 -0.750958,2.92315 0.580815,6.17361 3.197454,7.72761 0,0 1e-6,0 1e-6,0 2.654977,1.52496 6.1874578,1.08504 8.3961035,-1.0683 -3e-7,0 1e-6,0 1e-6,0 2.1751727,-2.18681 2.6669667,-5.73142 1.148535,-8.44243 1.545176,2.69557 1.1003433,6.26533 -1.083025,8.50794 0,0 -7e-7,0 -7e-7,0 -2.2207785,2.20521 -5.8026698,2.70191 -8.5542588,1.16326 0,0 -10e-7,0 -10e-7,0 -2.707126,-1.5772 -4.120473,-4.89474 -3.373214,-7.95744 -0.77696,3.05503 0.598054,6.40867 3.327174,8.03718 0,0 10e-7,0 10e-7,0 2.776485,1.58549 6.4205709,1.13087 8.7309187,-1.11238 -3e-7,0 1e-6,0 1e-6,0 2.2650861,-2.28851 2.7715731,-5.94473 1.1926143,-8.77724 1.6057051,2.81707 1.1461827,6.49843 -1.1270996,8.84276 0,0 -6e-7,0 -6e-7,0 -2.3224815,2.29512 -6.0159818,2.80651 -8.8890858,1.20734 10e-7,0 -1e-6,0 -1e-6,0 -2.819614,-1.65171 -4.276206,-5.07244 -3.502947,-8.26702 -0.802961,3.1869 0.615299,6.64374 3.456907,8.34676 0,0 1e-6,0 1e-6,0 2.898,1.64602 6.6536948,1.1767 9.0657456,-1.15646 -3e-7,0 1.1e-6,0 1.1e-6,0 2.355,-2.39022 2.8761767,-6.15805 1.2366888,-9.11207 1.6662322,2.93858 1.1920167,6.73155 -1.1711789,9.17758 0,0 -6e-7,0 -6e-7,0 -2.4241836,2.38503 -6.229289,2.91112 -9.2239,1.25142 0,0 -2e-6,0 -2e-6,0 -2.932095,-1.72622 -4.431928,-5.25014 -3.632667,-8.57659 -0.828965,3.31878 0.632533,6.8788 3.586624,8.65634 0,0 1e-6,0 1e-6,0 3.01951,1.70654 6.8868138,1.22254 9.4005732,-1.20054 -3e-7,0 1.1e-6,0 1.1e-6,0 2.4449193,-2.49193 2.9807935,-6.37137 1.280776,-9.4469 1.7131368,3.06796 1.2002993,6.95973 -1.2486403,9.47903 0,0 -1.9e-6,0 -1.9e-6,0 -2.519711,2.44853 -6.4112531,2.96038 -9.4781561,1.24712 -3.016885,-1.79989 -4.518369,-5.42602 -3.657347,-8.83143 1e-6,0 0,0 0,0 0.957598,-3.37952 4.07128,-5.768143 7.583069,-5.817816 z"
-         id="path3601"
-         inkscape:connector-curvature="0" />
     </g>
     <path
-       style="opacity:0.51799999;fill:none;fill-rule:evenodd;stroke:#4a90d9;stroke-width:1.30430639px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 120,645.7098 H 4880"
+       style="opacity:0.51799999;fill:none;fill-rule:evenodd;stroke:#4a90d9;stroke-width:1.31250107px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 60,545.7098 H 4880"
        id="path3437"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path3439"
-       d="M 120,695.7098 H 4880"
-       style="opacity:0.51799999;fill:none;fill-rule:evenodd;stroke:#4a90d9;stroke-width:1.30430639px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       d="M 60,595.7098 H 4880"
+       style="opacity:0.51799999;fill:none;fill-rule:evenodd;stroke:#4a90d9;stroke-width:1.31250107px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <g
        style="color:#bebebe;display:inline;visibility:visible;fill:none;stroke:none;stroke-width:1.78124988;marker:none"
        id="g3609"
        inkscape:label="dialog-error"
-       transform="matrix(8,0,0,8,3966,-3625.638)">
+       transform="matrix(8,0,0,8,3966,-3725.638)">
       <rect
          width="16"
          height="16"
@@ -1099,22 +1066,22 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3638"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:6.00000048px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(1698.4927,-9.638)"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:40.0000006%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(1698.4927,-109.638)"><flowRegion
          id="flowRegion3634"
-         style="text-align:center;text-anchor:middle;fill:#919191;fill-opacity:1"><rect
+         style="line-height:40.0000006%;text-align:center;text-anchor:middle;fill:#919191;fill-opacity:1"><rect
            id="rect3632"
            width="345"
            height="193"
            x="2479"
            y="769"
-           style="text-align:center;text-anchor:middle;fill:#919191;fill-opacity:1" /></flowRegion><flowPara
+           style="line-height:40.0000006%;text-align:center;text-anchor:middle;fill:#919191;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3636"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:80.00000119%;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;text-anchor:middle;fill:#919191;fill-opacity:1">Failed to get AppStream metadata: Count not connect: No route to host.</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:40.0000006%;font-family:monospace;-inkscape-font-specification:monospace;text-align:center;text-anchor:middle;fill:#919191;fill-opacity:1">Failed to get AppStream metadata: Count not connect: No route to host.</flowPara></flowRoot>    <g
        style="display:inline"
        id="g4450"
        inkscape:label="media-playback-stop"
-       transform="translate(1015,-212.6377)">
+       transform="translate(1015,-312.6377)">
       <rect
          y="487"
          x="100"
@@ -1130,7 +1097,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(1955,-212.6377)"
+       transform="translate(1955,-312.6377)"
        inkscape:label="media-playback-stop"
        id="g4477"
        style="display:inline">
@@ -1148,5 +1115,101 @@
          d="m 104,491 v 8 h 8 v -8 z"
          style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';text-indent:0pt;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none" />
     </g>
-  </g>
+    <g
+       transform="matrix(2,0,0,2,1312,-39.638)"
+       inkscape:label="process-working"
+       id="g5252"
+       style="display:inline"
+       mask="none">
+      <rect
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1.78100002;marker:none;enable-background:new"
+         id="rect5248"
+         y="277"
+         x="101"
+         height="16"
+         width="16" />
+      <path
+         transform="matrix(0.88624425,0,0,0.88624425,119.31943,189.52028)"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:3.38507128;marker:none;enable-background:accumulate"
+         d="m -11.667264,99.897414 c 0,1.109506 0,2.219016 0,3.328526 -1.885833,-0.0501 -3.927382,1.51647 -4.367108,3.35101 -0.536452,1.80861 0.448314,4.18605 2.106528,5.0856 1.608145,0.98628 4.1594463,0.65039 5.4575274,-0.7185 h 8e-7 c 1.36889,-1.29808 1.7047751,-3.84938 0.7184968,-5.45752 0.9999894,1.60022 0.68818,4.16442 -0.6849117,5.49111 0,0 -4e-7,0 -4e-7,0 -1.304301,1.39548 -3.8809339,1.76047 -5.5386079,0.76718 0,0 -10e-7,0 -10e-7,0 -1.694488,-0.90596 -2.71915,-3.29432 -2.206285,-5.17026 -0.542943,1.86817 0.442899,4.29309 2.159661,5.25101 0,0 0,0 0,0 1.682887,1.04073 4.3225037,0.71836 5.7175106,-0.71565 -2e-7,0 7e-7,0 7e-7,0 1.4558464,-1.37317 1.8300925,-4.02492 0.7958916,-5.76384 1.0609453,1.72348 0.7336603,4.40037 -0.7303817,5.82935 0,0 -4e-7,0 -4e-7,0 -1.4071398,1.48588 -4.0961668,1.86503 -5.8756658,0.81061 0,0 0,0 0,0 -1.807249,-0.98112 -2.874665,-3.47312 -2.335422,-5.48084 -0.568944,2.00004 0.460139,4.52815 2.289382,5.56058 0,0 0,0 0,0 1.804395,1.10126 4.5556168,0.76419 6.0523258,-0.75973 -2e-7,0 7e-7,0 7e-7,0 1.5457598,-1.47487 1.934699,-4.23823 0.8399709,-6.09865 1.1214734,1.84498 0.7794971,4.63348 -0.7744586,6.16416 0,0 -4e-7,0 -4e-7,0 -1.5088424,1.57579 -4.3094764,1.96964 -6.2104864,0.8547 0,0 -10e-7,0 -10e-7,0 -1.919733,-1.05563 -3.030392,-3.65083 -2.465148,-5.79042 -0.594946,2.13192 0.477378,4.76322 2.419107,5.87016 0,0 0,0 0,0 1.925908,1.16179 4.7887382,0.81002 6.3871531,-0.80381 -3e-7,-1e-5 7e-7,-1e-5 7e-7,-1e-5 1.6356764,-1.57657 2.0393092,-4.45154 0.8840517,-6.43347 1.1820028,1.96649 0.8253329,4.8666 -0.8185394,6.49899 0,0 -5e-7,0 -5e-7,0 -1.610548,1.66571 -4.5227906,2.07425 -6.5453136,0.89877 0,0 -10e-7,0 -10e-7,0 -2.032219,-1.13013 -3.186119,-3.82852 -2.594873,-6.09999 -0.620949,2.26379 0.494617,4.99829 2.548832,6.17974 0,0 0,0 0,0 2.04742,1.22231 5.0218597,0.85586 6.7219803,-0.8479 -2e-7,0 8e-7,0 8e-7,0 1.725593,-1.67828 2.1439194,-4.66486 0.9281325,-6.7683 1.2425312,2.088 0.871166,5.09972 -0.8626225,6.83381 0,0 -6e-7,0 -6e-7,0 -1.7122534,1.75563 -4.7361035,2.17886 -6.8801345,0.94286 0,0 -10e-7,0 -10e-7,0 -2.144702,-1.20465 -3.341841,-4.00623 -2.724593,-6.40957 -0.64695,2.39566 0.511857,5.23335 2.678553,6.48931 0,0 0,0 0,0 2.168928,1.28284 5.2549728,0.90169 7.0567955,-0.89198 -3e-7,0 8e-7,0 8e-7,0 1.8155064,-1.77998 2.2485258,-4.87816 0.9722118,-7.10312 1.3030603,2.20952 0.9170054,5.33284 -0.9066971,7.16864 0,0 -5e-7,0 -5e-7,0 -1.8139564,1.84554 -4.9494155,2.28347 -7.2149615,0.98694 0,0 -10e-7,0 -10e-7,0 -2.25719,-1.27916 -3.497575,-4.18393 -2.854326,-6.71915 -0.672951,2.52754 0.5291,5.46842 2.808284,6.79889 0,0 10e-7,0 10e-7,0 2.290444,1.34337 5.4880992,0.94753 7.3916281,-0.93606 -3e-7,0 9e-7,0 9e-7,0 1.9054232,-1.88169 2.3531346,-5.09148 1.0162902,-7.43795 1.3635887,2.33103 0.9628385,5.56596 -0.9507803,7.50346 0,0 -5e-7,0 -5e-7,0 -1.9156617,1.93546 -5.1627274,2.38808 -7.5497834,1.03102 10e-7,0 -10e-7,0 -10e-7,0 -2.369672,-1.35367 -3.653296,-4.36163 -2.984044,-7.02872 -0.698954,2.65941 0.546336,5.70348 2.938003,7.10847 0,0 0,0 0,0 2.411953,1.4039 5.7212158,0.99336 7.72645,-0.98014 -3e-7,0 9e-7,0 9e-7,0 1.9953396,-1.9834 2.4577463,-5.3048 1.0603734,-7.77278 1.4241172,2.45254 1.0086717,5.79908 -0.9948634,7.83829 0,0 -6e-7,0 -6e-7,0 -2.017367,2.02537 -5.3760403,2.49268 -7.8846043,1.07509 0,0 -1e-6,0 -1e-6,0 -2.482155,-1.42817 -3.809018,-4.53933 -3.113764,-7.33828 -0.724956,2.79128 0.563573,5.93854 3.067722,7.41803 0,0 1e-6,0 1e-6,0 2.533461,1.46443 5.9543314,1.0392 8.0612709,-1.02422 -3e-7,0 9e-7,0 9e-7,0 2.0852559,-2.0851 2.5623579,-5.5181 1.1044566,-8.1076 1.4846475,2.57405 1.0545101,6.0322 -1.0389419,8.17312 0,0 -6e-7,0 -6e-7,0 -2.1190732,2.11529 -5.5893569,2.59729 -8.2194369,1.11918 0,0 -2e-6,0 -2e-6,0 -2.594643,-1.50269 -3.964751,-4.71704 -3.243495,-7.64787 -0.750958,2.92315 0.580815,6.17361 3.197454,7.72761 0,0 1e-6,0 1e-6,0 2.654977,1.52496 6.1874578,1.08504 8.3961035,-1.0683 -3e-7,0 1e-6,0 1e-6,0 2.1751727,-2.18681 2.6669667,-5.73142 1.148535,-8.44243 1.545176,2.69557 1.1003433,6.26533 -1.083025,8.50794 0,0 -7e-7,0 -7e-7,0 -2.2207785,2.20521 -5.8026698,2.70191 -8.5542588,1.16326 0,0 -10e-7,0 -10e-7,0 -2.707126,-1.5772 -4.120473,-4.89474 -3.373214,-7.95744 -0.77696,3.05503 0.598054,6.40867 3.327174,8.03718 0,0 10e-7,0 10e-7,0 2.776485,1.58549 6.4205709,1.13087 8.7309187,-1.11238 -3e-7,0 1e-6,0 1e-6,0 2.2650861,-2.28851 2.7715731,-5.94473 1.1926143,-8.77724 1.6057051,2.81707 1.1461827,6.49843 -1.1270996,8.84276 0,0 -6e-7,0 -6e-7,0 -2.3224815,2.29512 -6.0159818,2.80651 -8.8890858,1.20734 10e-7,0 -1e-6,0 -1e-6,0 -2.819614,-1.65171 -4.276206,-5.07244 -3.502947,-8.26702 -0.802961,3.1869 0.615299,6.64374 3.456907,8.34676 0,0 1e-6,0 1e-6,0 2.898,1.64602 6.6536948,1.1767 9.0657456,-1.15646 -3e-7,0 1.1e-6,0 1.1e-6,0 2.355,-2.39022 2.8761767,-6.15805 1.2366888,-9.11207 1.6662322,2.93858 1.1920167,6.73155 -1.1711789,9.17758 0,0 -6e-7,0 -6e-7,0 -2.4241836,2.38503 -6.229289,2.91112 -9.2239,1.25142 0,0 -2e-6,0 -2e-6,0 -2.932095,-1.72622 -4.431928,-5.25014 -3.632667,-8.57659 -0.828965,3.31878 0.632533,6.8788 3.586624,8.65634 0,0 1e-6,0 1e-6,0 3.01951,1.70654 6.8868138,1.22254 9.4005732,-1.20054 -3e-7,0 1.1e-6,0 1.1e-6,0 2.4449193,-2.49193 2.9807935,-6.37137 1.280776,-9.4469 1.7131368,3.06796 1.2002993,6.95973 -1.2486403,9.47903 0,0 -1.9e-6,0 -1.9e-6,0 -2.519711,2.44853 -6.4112531,2.96038 -9.4781561,1.24712 -3.016885,-1.79989 -4.518369,-5.42602 -3.657347,-8.83143 1e-6,0 0,0 0,0 0.957598,-3.37952 4.07128,-5.768143 7.583069,-5.817816 z"
+         id="path5250"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5396"
+       transform="translate(2820,-100)">
+      <rect
+         mask="none"
+         style="display:inline;opacity:1;fill:#ee2222;fill-opacity:1;stroke:#910f0f;stroke-width:0.97764587;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5378"
+         width="859.02234"
+         height="82.022049"
+         x="160.48883"
+         y="305.85114" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="179.15991"
+         y="332.19214"
+         id="text5382"
+         inkscape:export-filename="/home/aday/Dropbox/Public/software/no-updates-with-your-updates.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-weight:bold"
+           sodipodi:role="line"
+           id="tspan5380"
+           x="179.15991"
+           y="332.19214">Operating System Updates Unavailable</tspan></text>
+      <text
+         id="text5388"
+         y="352.19214"
+         x="179.15991"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"
+         inkscape:export-filename="/home/aday/Dropbox/Public/software/no-updates-with-your-updates.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           y="352.19214"
+           x="179.15991"
+           id="tspan5384"
+           sodipodi:role="line">&lt;distro&gt; is no longer supported. This means that it will no longer receive security updates. It is recommended that you upgrade to a </tspan><tspan
+           id="tspan5386"
+           y="369.69214"
+           x="179.15991"
+           sodipodi:role="line">more recent version.</tspan></text>
+    </g>
+    <g
+       transform="matrix(8,0,0,8,3026,-3685.638)"
+       inkscape:label="dialog-error"
+       id="g5402"
+       style="color:#bebebe;display:inline;visibility:visible;fill:none;stroke:none;stroke-width:1.78124988;marker:none">
+      <rect
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         id="rect5398"
+         y="518"
+         x="40"
+         height="16"
+         width="16" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5400"
+         d="m 48.0002,519 c -3.870549,0 -7,3.12944 -7,7 0,3.87055 3.129451,7 7,7 3.870549,0 7,-3.12945 7,-7 0,-3.87056 -3.129451,-7 -7,-7 z m -4,6 h 8 v 2 h -8 z"
+         style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+         sodipodi:nodetypes="sssssccccc" />
+    </g>
+    <flowRoot
+       transform="translate(2936.7626,2818.3623)"
+       style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:189.99999762%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot5410"
+       xml:space="preserve"><flowRegion
+         style="font-size:14.66666698px;line-height:189.99999762%;fill:#2e3436"
+         id="flowRegion5406"><rect
+           style="font-size:14.66666698px;line-height:189.99999762%;fill:#2e3436"
+           y="-1920"
+           x="45"
+           height="278.58936"
+           width="845.28131"
+           id="rect5404" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara5408">The end of life infobar can be shown both when there are updates available (such as application updates, or updates from PPAs/COPRs) and when there aren't. When there aren't updates, a more negative icon and label are used than the standard &quot;up to date&quot;, in order to avoid giving contradictory messages.</flowPara></flowRoot>  </g>
 </svg>
