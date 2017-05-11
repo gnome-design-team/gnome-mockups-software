@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1771.6153"
-     inkscape:cy="600.63762"
+     inkscape:zoom="1"
+     inkscape:cx="3212.6543"
+     inkscape:cy="597.37442"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +46,7 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-nodes="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1136"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1">
@@ -62,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1135,49 +1135,45 @@
          id="path5250"
          inkscape:connector-curvature="0" />
     </g>
-    <g
-       id="g5396"
-       transform="translate(2820,-100)">
-      <rect
-         mask="none"
-         style="display:inline;opacity:1;fill:#ee2222;fill-opacity:1;stroke:#910f0f;stroke-width:0.97764587;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect5378"
-         width="859.02234"
-         height="82.022049"
-         x="160.48883"
-         y="305.85114" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-         x="179.15991"
-         y="332.19214"
-         id="text5382"
-         inkscape:export-filename="/home/aday/Dropbox/Public/software/no-updates-with-your-updates.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-weight:bold"
-           sodipodi:role="line"
-           id="tspan5380"
-           x="179.15991"
-           y="332.19214">Operating System Updates Unavailable</tspan></text>
-      <text
-         id="text5388"
-         y="352.19214"
-         x="179.15991"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-         xml:space="preserve"
-         inkscape:export-filename="/home/aday/Dropbox/Public/software/no-updates-with-your-updates.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           y="352.19214"
-           x="179.15991"
-           id="tspan5384"
-           sodipodi:role="line">&lt;distro&gt; is no longer supported. This means that it will no longer receive security updates. It is recommended that you upgrade to a </tspan><tspan
-           id="tspan5386"
-           y="369.69214"
-           x="179.15991"
-           sodipodi:role="line">more recent version.</tspan></text>
-    </g>
+    <rect
+       y="205.85114"
+       x="2980.4888"
+       height="82.022049"
+       width="859.02234"
+       id="rect5378"
+       style="display:inline;opacity:1;fill:#4a90d9;fill-opacity:1;stroke:#1c5288;stroke-width:0.97764587;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       mask="none" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/aday/Dropbox/Public/software/no-updates-with-your-updates.png"
+       id="text5382"
+       y="232.19214"
+       x="3031.1599"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="232.19214"
+         x="3031.1599"
+         id="tspan5380"
+         sodipodi:role="line"
+         style="font-weight:bold">Operating System Updates Unavailable</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/aday/Dropbox/Public/software/no-updates-with-your-updates.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="3031.1599"
+       y="254.19214"
+       id="text5388"><tspan
+         sodipodi:role="line"
+         id="tspan5384"
+         x="3031.1599"
+         y="254.19214">&lt;distro&gt; is no longer supported. This means that it will no longer receive security updates. It is recommended that you upgrade</tspan><tspan
+         sodipodi:role="line"
+         x="3031.1599"
+         y="271.69214"
+         id="tspan5386">to a more recent version.</tspan></text>
     <g
        transform="matrix(8,0,0,8,3026,-3685.638)"
        inkscape:label="dialog-error"
@@ -1211,5 +1207,24 @@
            width="845.28131"
            id="rect5404" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
-         id="flowPara5408">The end of life infobar can be shown both when there are updates available (such as application updates, or updates from PPAs/COPRs) and when there aren't. When there aren't updates, a more negative icon and label are used than the standard &quot;up to date&quot;, in order to avoid giving contradictory messages.</flowPara></flowRoot>  </g>
+         id="flowPara5408">The end of life infobar can be shown both when there are updates available (such as application updates, or updates from PPAs/COPRs) and when there aren't. When there aren't updates, a more negative icon and label are used than the standard &quot;up to date&quot;, in order to avoid giving contradictory messages.</flowPara></flowRoot>    <g
+       style="display:inline"
+       transform="translate(2699,-36.638)"
+       inkscape:label="dialog-warning"
+       id="g33922">
+      <rect
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+         id="rect33918"
+         y="257"
+         x="301"
+         height="16"
+         width="16" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path33920"
+         transform="translate(221.0002,217)"
+         d="m 87.90625,40.09375 c -0.5255,-0.0286 -1.03823,0.28305 -1.4375,0.96875 l -6.25,11.59375 C 79.68528,53.61964 80.26697,55 81.3125,55 h 13.15625 c 0.98172,0 1.90311,-1.15939 1.21875,-2.34375 L 89.375,41.125 c -0.39872,-0.64617 -0.94325,-1.00262 -1.46875,-1.03125 z m 0.0625,3.9375 C 88.51323,44.01405 89.01724,44.51802 89,45.0625 V 49 c 0.007,0.52831 -0.47163,1 -1,1 -0.52836,0 -1.00747,-0.47169 -1,-1 v -3.9375 c -0.008,-0.4666 0.3541,-0.91253 0.8125,-1 0.0511,-0.0145 0.10345,-0.02495 0.15625,-0.03125 z M 88,51 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 z"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new" />
+    </g>
+  </g>
 </svg>
