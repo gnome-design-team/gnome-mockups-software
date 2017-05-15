@@ -15,7 +15,7 @@
    viewBox="0 0 1400 4400"
    version="1.1"
    id="svg10902"
-   inkscape:version="0.92.0 r"
+   inkscape:version="0.92+devel unknown"
    sodipodi:docname="appstream-curator.svg"
    inkscape:export-filename="/home/jimmac/SparkleShare/gnome-mockups-software/wireframes/banner-designer.png"
    inkscape:export-xdpi="96"
@@ -259,10 +259,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="527.59308"
-     inkscape:cy="3846.874"
+     inkscape:cx="539.28469"
+     inkscape:cy="3841.222"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g235192"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
@@ -283,7 +283,8 @@
      inkscape:snap-intersection-paths="true"
      showguides="true"
      inkscape:snap-global="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid12618" />
@@ -301,7 +302,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -692,17 +693,6 @@
          width="33"
          id="rect13334"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#c1c1c1;stroke-width:0.99999964;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-      <text
-         id="text13338"
-         y="-2192.7041"
-         x="198.33255"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="-2192.7041"
-           x="198.33255"
-           id="tspan13336"
-           sodipodi:role="line"
-           style="font-weight:bold">AppStream Curator</tspan></text>
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#c1c1c1;stroke-width:0.99999958;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="rect13356"
@@ -1219,6 +1209,44 @@
            id="tspan23143"
            x="547.22644"
            y="-1623.2515">Transmission</tspan></text>
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         ry="3"
+         rx="2.9999986"
+         y="-2213.978"
+         x="40.120918"
+         height="33"
+         width="305.43506"
+         id="rect8392"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#c1c1c1;stroke-width:0.99999964;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#c1c1c1;stroke-width:0.99999964;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         d="M 43.120917,-2213.978 H 194.45943 v 33 H 43.120917 c -1.661999,0 -2.999999,-1.338 -2.999999,-3 v -27 c 0,-1.662 1.338,-3 2.999999,-3 z"
+         id="rect8402"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sccssss" />
+      <text
+         id="text8396"
+         y="-2193.2515"
+         x="109.3959"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+         xml:space="preserve"><tspan
+           y="-2193.2515"
+           x="109.3959"
+           id="tspan8394"
+           sodipodi:role="line">Apps</tspan></text>
+      <text
+         xml:space="preserve"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+         x="274.03079"
+         y="-2193.2515"
+         id="text8400"><tspan
+           sodipodi:role="line"
+           id="tspan8398"
+           x="274.03079"
+           y="-2193.2515">Promotions</tspan></text>
     </g>
     <flowRoot
        xml:space="preserve"
