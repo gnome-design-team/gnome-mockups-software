@@ -259,8 +259,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="632.33672"
-     inkscape:cy="3081.4737"
+     inkscape:cx="320.26377"
+     inkscape:cy="3084.7942"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5708,7 +5708,7 @@
        transform="translate(1.5859375,82.40625)">
       <path
          style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.99329859;stroke-opacity:1;marker:none;filter:url(#filter12000-4-9-2);enable-background:accumulate"
-         d="M 62.540629,-1471.0888 H 463.55593 c 4.9856,0 8.9992,4.46 8.9992,10 v 37.0033 h -8.9992 -401.015301 -8.9995 v -37.0033 c 0,-5.54 4.0137,-10 8.9995,-10 z"
+         d="M 62.540629,-1471.4491 H 463.55593 c 4.9856,0 8.9992,4.46 8.9992,10 v 37.0033 h -8.9992 -401.015301 -8.9995 v -37.0033 c 0,-5.54 4.0137,-10 8.9995,-10 z"
          id="path9470"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="sssccccss" />
@@ -5735,7 +5735,7 @@
          width="79"
          height="33"
          x="386.5444"
-         y="-1464.0887"
+         y="-1464.3478"
          rx="2.9999998"
          ry="3"
          inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -5759,8 +5759,8 @@
          id="rect9504"
          width="79"
          height="33"
-         x="60.544659"
-         y="-1464.087"
+         x="60.594551"
+         y="-1464.4451"
          rx="2.9999986"
          ry="3"
          inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -5795,8 +5795,8 @@
          id="rect4670"
          width="391.04123"
          height="27"
-         x="69.285927"
-         y="-1376.9702"
+         x="68.692421"
+         y="-1377.5081"
          rx="1.9999998"
          ry="2" />
     </g>
