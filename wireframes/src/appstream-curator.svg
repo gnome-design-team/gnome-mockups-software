@@ -258,9 +258,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.46609745"
-     inkscape:cx="1012.2795"
-     inkscape:cy="2328.2129"
+     inkscape:zoom="1"
+     inkscape:cx="368.12071"
+     inkscape:cy="2675.9378"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -289,7 +289,7 @@
        type="xygrid"
        id="grid12618" />
     <sodipodi:guide
-       position="1010,2528.625"
+       position="1068.832,2832.5898"
        orientation="1,0"
        id="guide14096"
        inkscape:locked="false" />
@@ -4381,20 +4381,20 @@
          id="flowPara16318">CSS background property gets appended to the stylesheet.</flowPara></flowRoot>    <rect
        ry="9"
        rx="9"
-       y="-863.68652"
-       x="-254.86993"
+       y="-864.01849"
+       x="-254.72771"
        height="93.996559"
        width="999"
        id="rect16322"
        style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#c1c1c1;stroke-width:0.99999976;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        style="display:inline;fill:none;stroke:#bebebe;stroke-width:0.99999982px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 695.13029,-850.69611 v 23.0122"
+       d="m 695.27252,-851.02798 v 23.0122"
        id="path16324"
        inkscape:connector-curvature="0" />
     <g
        style="display:inline;fill:#888a85"
-       transform="translate(650.63189,-1365.1899)"
+       transform="translate(650.77412,-1365.5217)"
        id="g16330">
       <g
          transform="translate(19,-242)"
@@ -4412,15 +4412,15 @@
        id="rect16332"
        width="999.00012"
        height="639"
-       x="-254.86993"
-       y="-815.68945" />
+       x="-254.72771"
+       y="-816.02142" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#c1c1c1;stroke-width:0.99999964;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect16334"
        width="33"
        height="33"
-       x="654.13037"
-       y="-855.68994"
+       x="654.27264"
+       y="-856.02191"
        rx="2.9999983"
        ry="3"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
@@ -4429,17 +4429,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="244.18402"
-       y="-834.41602"
+       x="244.32625"
+       y="-834.74799"
        id="text16338"><tspan
          style="font-weight:bold"
          sodipodi:role="line"
          id="tspan16336"
-         x="244.18402"
-         y="-834.41602">Inkscape</tspan></text>
+         x="244.32625"
+         y="-834.74799">Inkscape</tspan></text>
     <rect
-       y="-815.68945"
-       x="-254.86993"
+       y="-816.02142"
+       x="-254.72771"
        height="639"
        width="681.00012"
        id="rect16340"
@@ -4449,13 +4449,13 @@
        id="rect16342"
        width="646"
        height="278"
-       x="-237.86993"
-       y="-472.56442" />
+       x="-237.72771"
+       y="-472.89618" />
     <rect
        ry="0"
        rx="0"
-       y="-471.23062"
-       x="394.65045"
+       y="-471.56238"
+       x="394.79263"
        height="276.10193"
        width="13.036335"
        id="rect16344"
@@ -4465,26 +4465,30 @@
        id="rect16346"
        width="6.9795446"
        height="208.22969"
-       x="397.65045"
-       y="-468.18942"
+       x="397.79263"
+       y="-468.52118"
        rx="3.4764707"
        ry="3.5" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot16374"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-       transform="translate(-273.36998,-2630.186)"><flowRegion
+       transform="translate(-273.22775,-2630.5178)"><flowRegion
          id="flowRegion16350"><rect
            id="rect16348"
            width="607"
            height="259"
            x="51"
            y="2170" /></flowRegion><flowPara
-         id="flowPara16370">border: 1px solid #808080;</flowPara><flowPara
-         id="flowPara16734">background: #eee;</flowPara><flowPara
-         id="flowPara16372">color: #000;</flowPara></flowRoot>    <rect
-       y="-635.70239"
-       x="-237.88129"
+         id="flowPara16370">#tile {</flowPara><flowPara
+         id="flowPara1810">  border: 1px solid #808080;</flowPara><flowPara
+         id="flowPara16734">  background: #eee;</flowPara><flowPara
+         id="flowPara16372">  color: #000;</flowPara><flowPara
+         id="flowPara1812">}</flowPara><flowPara
+         id="flowPara1814">#name { }</flowPara><flowPara
+         id="flowPara1816">#description { }</flowPara></flowRoot>    <rect
+       y="-636.03436"
+       x="-237.73906"
        height="150.06146"
        width="643.76135"
        id="rect16378"
@@ -4494,11 +4498,11 @@
        id="rect16436"
        width="428.92282"
        height="149.97307"
-       x="-237.84247"
-       y="-795.63684" />
+       x="-237.70024"
+       y="-795.96881" />
     <g
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.6260004"
-       transform="matrix(0.61500601,0,0,0.61500601,-287.44098,-897.76441)"
+       transform="matrix(0.61500601,0,0,0.61500601,-287.29875,-898.09628)"
        id="g16456">
       <flowRoot
          xml:space="preserve"
@@ -4516,8 +4520,8 @@
            style="fill:#000000;stroke-width:1.6260004"
            id="flowPara16452">Description</flowPara></flowRoot>    </g>
     <rect
-       y="-795.70251"
-       x="198.21832"
+       y="-796.03448"
+       x="198.36055"
        height="150.06081"
        width="207.97426"
        id="rect16494"
@@ -4528,8 +4532,8 @@
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="2.9999983"
-       y="-854.68701"
-       x="-245.82269"
+       y="-855.01898"
+       x="-245.68047"
        height="33"
        width="33"
        id="rect16552"
@@ -4540,8 +4544,8 @@
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="2.9999983"
-       y="-793.65405"
-       x="497.18051"
+       y="-793.98602"
+       x="497.32269"
        height="32.999954"
        width="187.00015"
        id="rect16554"
@@ -4549,105 +4553,21 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#919191;fill-opacity:1;stroke:none"
-       x="486.02106"
-       y="-772.27002"
+       x="486.16324"
+       y="-772.60199"
        id="text16562"><tspan
          sodipodi:role="line"
          id="tspan16560"
-         x="486.02106"
-         y="-772.27002">App ID</tspan></text>
-    <g
-       style="display:inline"
-       inkscape:label="#g10801"
-       transform="matrix(0.99850603,0,0,0.99810197,459.83012,-734.42501)"
-       id="g16570">
-      <use
-         transform="matrix(1.0014962,0,0,1.0019016,19.880069,-0.08722936)"
-         style="display:inline"
-         x="0"
-         y="0"
-         xlink:href="#g16576"
-         id="use16564"
-         width="1"
-         height="1" />
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-         id="rect16566"
-         width="16.023939"
-         height="16.030426"
-         x="36.905502"
-         y="30.332689" />
-      <use
-         style="display:inline"
-         x="0"
-         y="0"
-         xlink:href="#g5708"
-         id="use16568"
-         transform="matrix(0.99799921,0,0,0.99999996,0.1059371,1.727819e-5)"
-         width="1000"
-         height="1052.3622" />
-    </g>
-    <g
-       style="display:inline"
-       inkscape:label="#g14325"
-       id="g16580"
-       transform="translate(479.68046,-770.51221)">
-      <g
-         transform="translate(0,-3.9660404e-6)"
-         style="display:inline"
-         id="g16576">
-        <rect
-           ry="6"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fcfcfc;fill-opacity:1;fill-rule:nonzero;stroke:#a1a1a1;stroke-width:2.09697652;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           id="rect16572"
-           width="29.559635"
-           height="29.154205"
-           x="50.440369"
-           y="125.3458"
-           rx="6"
-           transform="matrix(0.47304779,0,0,0.4807373,-6.3607039,-29.396216)" />
-        <path
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00000012;marker:none;enable-background:accumulate"
-           d="m 18,34.737187 v -1 c 0,-1.333912 1.044053,-2.375 2.34375,-2.375 h 8.3125 c 1.299697,0 2.3125,1.041088 2.3125,2.375 v 1 c 0,-1.333912 -1.012803,-2.375 -2.3125,-2.375 h -8.3125 c -1.299697,0 -2.34375,1.041088 -2.34375,2.375 z"
-           id="path16574"
-           inkscape:connector-curvature="0" />
-      </g>
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-         id="rect16578"
-         width="16"
-         height="16"
-         x="17"
-         y="30.362183" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="521.91394"
-       y="-728.27002"
-       id="text16584"><tspan
-         sodipodi:role="line"
-         id="tspan16582"
-         x="521.91394"
-         y="-728.27002">Editor's Pick</tspan></text>
-    <text
-       id="text16588"
-       y="-692.27002"
-       x="521.91394"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="-692.27002"
-         x="521.91394"
-         id="tspan16586"
-         sodipodi:role="line">Category Feature</tspan></text>
+         x="486.16324"
+         y="-772.60199">App ID</tspan></text>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        ry="3"
        rx="2.9999983"
-       y="-855.68994"
-       x="614.13037"
+       y="-856.02191"
+       x="614.27264"
        height="33"
        width="33"
        id="rect16590"
@@ -4656,7 +4576,7 @@
        style="display:inline"
        id="g16598"
        inkscape:label="edit-find"
-       transform="translate(482.62985,-1493.1894)">
+       transform="translate(482.77208,-1493.5212)">
       <circle
          transform="matrix(1.2871768,0,0,1.2857143,-249.29926,155.57143)"
          id="circle16592"
@@ -4682,7 +4602,7 @@
        inkscape:label="go-previous"
        id="g16604"
        style="display:inline"
-       transform="translate(-338.37018,-1592.1894)">
+       transform="translate(-338.22795,-1592.5212)">
       <path
          sodipodi:nodetypes="ccscsccsscscc"
          inkscape:connector-curvature="0"
@@ -4700,36 +4620,36 @@
     </g>
     <text
        id="text16608"
-       y="-652.27002"
-       x="439.02106"
+       y="-175.12543"
+       x="1154.6476"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#919191;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="-652.27002"
-         x="439.02106"
+         y="-175.12543"
+         x="1154.6476"
          id="tspan16606"
          sodipodi:role="line">Image Assets</tspan></text>
     <path
        sodipodi:nodetypes="sssccss"
        inkscape:connector-curvature="0"
        id="path16610"
-       d="m 444.13002,-205.68941 h 283.03293 c 2.216,0 4,-3.7682 4,-8.4488 v -424.5512 H 440.13002 v 424.5512 c 0,4.6806 1.784,8.4488 4,8.4488 z"
+       d="m 1159.7566,271.45528 h 283.033 c 2.216,0 4,-3.7682 4,-8.4488 v -424.5512 h -291.033 v 424.5512 c 0,4.6806 1.784,8.4488 4,8.4488 z"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#c2c5bf;stroke-width:1;stroke-opacity:1;enable-background:new" />
     <path
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
        id="path16612"
-       d="m 440.62342,-229.18941 h 290.87762 v 36.0572 c 0,1.7783 -1.1522,2.9428 -3.0285,2.9428 H 443.56302 c -1.7399,0 -2.9838,-1.4866 -2.9838,-2.8593 z"
+       d="m 1156.25,247.95528 h 290.8776 v 36.0572 c 0,1.7783 -1.1522,2.9428 -3.0285,2.9428 h -284.9095 c -1.7399,0 -2.9838,-1.4866 -2.9838,-2.8593 z"
        style="color:#bebebe;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cbcbcb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99329853;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <path
        sodipodi:nodetypes="ssssccs"
        inkscape:connector-curvature="0"
        id="path16614"
-       d="m 448.63002,-223.68941 c -1.385,0 -2.5,1.115 -2.5,2.5 v 24 c 0,1.385 1.115,2.5 2.5,2.5 h 26.5152 v -29 z"
+       d="m 1164.2566,253.45528 c -1.385,0 -2.5,1.115 -2.5,2.5 v 24 c 0,1.385 1.115,2.5 2.5,2.5 h 26.5152 v -29 z"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.99999964;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <g
        inkscape:label="actions"
        id="g16618"
-       transform="translate(392.62992,-943.18941)"
+       transform="translate(1108.2565,-466.04472)"
        style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate">
       <path
          style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
@@ -4741,25 +4661,25 @@
        sodipodi:nodetypes="ssssccs"
        inkscape:connector-curvature="0"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.51499999;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.99999964;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 503.61614,-223.68941 c 1.385,0 2.5,1.115 2.5,2.5 v 24 c 0,1.385 -1.115,2.5 -2.5,2.5 h -28.38258 v -29 z"
+       d="m 1219.2427,253.45528 c 1.385,0 2.5,1.115 2.5,2.5 v 24 c 0,1.385 -1.115,2.5 -2.5,2.5 h -28.3825 v -29 z"
        id="path16620" />
     <rect
        style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.50899999;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
        id="rect16622"
        width="9.9996014"
        height="2.0002136"
-       x="485.63043"
-       y="-210.18968"
+       x="1201.257"
+       y="266.95502"
        inkscape:label="a" />
     <path
        inkscape:connector-curvature="0"
-       inkscape:original-d="m 475.13005,-222.75601 v 27.0666"
+       inkscape:original-d="m 1190.7567,254.38868 v 27.0666"
        inkscape:path-effect="#path-effect16626"
        id="path16624"
-       d="m 475.13005,-222.75601 v 27.0666"
+       d="m 1190.7567,254.38868 v 27.0666"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#a7a7a7;stroke-width:0.99999982px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new" />
     <g
-       transform="translate(45.851425,233.37819)"
+       transform="translate(761.47803,710.52288)"
        style="opacity:0.51499999"
        id="g16642">
       <rect
@@ -4802,7 +4722,7 @@
          width="16" />
     </g>
     <g
-       transform="matrix(0.61500601,0,0,0.61500601,-450.00418,-914.71818)"
+       transform="matrix(0.61500601,0,0,0.61500601,-449.86195,-915.05005)"
        id="g45774-9"
        style="display:inline;stroke-width:1.6260004">
       <text
@@ -4819,7 +4739,7 @@
     </g>
     <g
        id="g16829"
-       transform="matrix(0.61500601,0,0,0.61500601,-67.440975,-897.76441)"
+       transform="matrix(0.61500601,0,0,0.61500601,-67.298748,-898.09628)"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.6260004">
       <flowRoot
          transform="translate(-122.1875,6)"
@@ -4839,7 +4759,7 @@
     <g
        style="display:inline;stroke-width:1.6260004"
        id="g16835"
-       transform="matrix(0.61500601,0,0,0.61500601,-230.00418,-914.71818)">
+       transform="matrix(0.61500601,0,0,0.61500601,-229.86195,-915.05005)">
       <text
          id="text16833"
          y="366.09659"
@@ -4854,7 +4774,7 @@
     </g>
     <g
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.6260004"
-       transform="matrix(0.61500601,0,0,0.61500601,-185.44098,-755.76441)"
+       transform="matrix(0.61500601,0,0,0.61500601,-185.29875,-756.09628)"
        id="g16845">
       <flowRoot
          xml:space="preserve"
@@ -4872,7 +4792,7 @@
            style="fill:#000000;stroke-width:1.6260004"
            id="flowPara16841">Description</flowPara></flowRoot>    </g>
     <g
-       transform="matrix(0.61500601,0,0,0.61500601,-348.00418,-772.71818)"
+       transform="matrix(0.61500601,0,0,0.61500601,-347.86195,-773.05005)"
        id="g16851"
        style="display:inline;stroke-width:1.6260004">
       <text
@@ -4920,7 +4840,7 @@
     <g
        inkscape:label="open-menu"
        id="g7352"
-       transform="translate(642.67424,-1123.1625)"
+       transform="translate(642.81647,-1123.4943)"
        style="display:inline">
       <rect
          style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none"
