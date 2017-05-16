@@ -259,8 +259,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="594.49192"
-     inkscape:cy="3462.6867"
+     inkscape:cx="632.33672"
+     inkscape:cy="3081.4737"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5693,7 +5693,7 @@
            x="1114"
            y="119" /></flowRegion><flowPara
          id="flowPara13666">No blank state. The grid is populated by apps available in Software.</flowPara></flowRoot>    <flowRoot
-       transform="translate(-325.2214,-1585.9778)"
+       transform="translate(-325.2214,-1506.1809)"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:25px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        id="flowRoot5808"
        xml:space="preserve"><flowRegion
@@ -5703,90 +5703,104 @@
            height="256"
            width="270"
            id="rect5802" /></flowRegion><flowPara
-         id="flowPara5806">Could possibly be a full metadata editor in the future? So far, just point to the appdata.xml</flowPara></flowRoot>    <path
-       sodipodi:nodetypes="sssccccss"
-       inkscape:connector-curvature="0"
-       id="path9470"
-       d="M 62.540629,-1471.0888 H 463.55593 c 4.9856,0 8.9992,4.46 8.9992,10 v 37.0033 h -8.9992 -401.015301 -8.9995 v -37.0033 c 0,-5.54 4.0137,-10 8.9995,-10 z"
-       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.99329859;stroke-opacity:1;marker:none;filter:url(#filter12000-4-9-2);enable-background:accumulate" />
-    <rect
-       y="-1424.0887"
-       x="53.544659"
-       height="267"
-       width="419"
-       id="rect9472"
-       style="display:inline;fill:#eaeaea;fill-opacity:1;stroke:#919191;stroke-width:0.9999997;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="262.79883"
-       y="-1442.799"
-       id="text9482"><tspan
-         sodipodi:role="line"
-         id="tspan9484"
+         id="flowPara5806">Could possibly be a full metadata editor in the future? So far, just point to the appdata.xml</flowPara></flowRoot>    <g
+       id="g5916"
+       transform="translate(1.5859375,82.40625)">
+      <path
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.99329859;stroke-opacity:1;marker:none;filter:url(#filter12000-4-9-2);enable-background:accumulate"
+         d="M 62.540629,-1471.0888 H 463.55593 c 4.9856,0 8.9992,4.46 8.9992,10 v 37.0033 h -8.9992 -401.015301 -8.9995 v -37.0033 c 0,-5.54 4.0137,-10 8.9995,-10 z"
+         id="path9470"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssccccss" />
+      <rect
+         style="display:inline;fill:#eaeaea;fill-opacity:1;stroke:#919191;stroke-width:0.9999997;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect9472"
+         width="419"
+         height="87.75"
+         x="53.544659"
+         y="-1424.0887" />
+      <text
+         id="text9482"
+         y="-1442.799"
          x="262.79883"
-         y="-1442.799">Add Application</tspan></text>
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-       ry="3"
-       rx="2.9999998"
-       y="-1464.0887"
-       x="386.5444"
-       height="33"
-       width="79"
-       id="rect9488"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5288;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    <text
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-       id="text9490"
-       y="-1442.8312"
-       x="426.0408"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="-1442.8312"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="-1442.799"
+           x="262.79883"
+           id="tspan9484"
+           sodipodi:role="line">Add Application</tspan></text>
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5288;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect9488"
+         width="79"
+         height="33"
+         x="386.5444"
+         y="-1464.0887"
+         rx="2.9999998"
+         ry="3"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
          x="426.0408"
-         id="tspan9492"
-         sodipodi:role="line">Add</tspan></text>
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-       ry="3"
-       rx="2.9999986"
-       y="-1464.087"
-       x="60.544659"
-       height="33"
-       width="79"
-       id="rect9504"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.9999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    <text
-       id="text9506"
-       y="-1442.7501"
-       x="100.34888"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="-1442.7501"
+         y="-1442.8312"
+         id="text9490"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan9492"
+           x="426.0408"
+           y="-1442.8312">Add</tspan></text>
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.9999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect9504"
+         width="79"
+         height="33"
+         x="60.544659"
+         y="-1464.087"
+         rx="2.9999986"
+         ry="3"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
          x="100.34888"
-         id="tspan9508"
-         sodipodi:role="line">Cancel</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot25442-1"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-       transform="translate(-977.08161,-2325.3915)"><flowRegion
-         id="flowRegion25444-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
-           id="rect25446-2"
-           width="381.30859"
-           height="35.710938"
-           x="1046"
-           y="920"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara25448-0">Appdatat XML URL:</flowPara></flowRoot>  </g>
+         y="-1442.7501"
+         id="text9506"><tspan
+           sodipodi:role="line"
+           id="tspan9508"
+           x="100.34888"
+           y="-1442.7501">Cancel</tspan></text>
+      <flowRoot
+         transform="translate(-977.08161,-2325.3915)"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:25px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+         id="flowRoot25442-1"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="flowRegion25444-4"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="920"
+             x="1046"
+             height="35.710938"
+             width="381.30859"
+             id="rect25446-2" /></flowRegion><flowPara
+           id="flowPara25448-0">Appdatat XML URL:</flowPara></flowRoot>      <rect
+         mask="none"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#a7a7a7;stroke-width:0.99999994;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4670"
+         width="391.04123"
+         height="27"
+         x="69.285927"
+         y="-1376.9702"
+         rx="1.9999998"
+         ry="2" />
+    </g>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
