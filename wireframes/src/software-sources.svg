@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1340"
+   height="799.99994"
+   viewBox="0 0 354.54166 211.66666"
+   version="1.1"
+   id="svg6265"
+   inkscape:version="0.92+devel unknown"
+   sodipodi:docname="software-sources.svg"
+   inkscape:export-filename="/home/aday/checkout/gnome-mockups-software/wireframes/software-sources.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs6259" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="635.27149"
+     inkscape:cy="291.31112"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-nodes="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata6262">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(155.34821,26.547654)">
+    <rect
+       y="9.0388041"
+       x="-128.75732"
+       height="154.7813"
+       width="153.19374"
+       id="rect6031"
+       style="display:inline;opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#a7a7a7;stroke-width:0.26458332;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       mask="none" />
+    <rect
+       mask="none"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7a7a7;stroke-width:0.26458332;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6033"
+       width="132.02708"
+       height="53.181248"
+       x="-118.17426"
+       y="79.682556" />
+    <path
+       sodipodi:nodetypes="sssccccss"
+       inkscape:connector-curvature="0"
+       id="path6035"
+       d="m -125.58258,-2.073621 146.843743,-2.64e-5 c 1.75895,0 3.175,1.41604993 3.175,3.1749999 v 9.2604165 h -3.175 l -146.843743,2.7e-5 h -3.175 V 1.101379 c 0,-1.75895001 1.41605,-3.175 3.175,-3.175 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#a7aba7;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter12000-4-9-2);enable-background:accumulate" />
+    <path
+       style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:0.26458332px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 12.530072,1.5771263 V 6.7111012"
+       id="path6037"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g6057"
+       transform="matrix(0.26458333,0,0,0.26458333,16.367192,2.0274735)"
+       style="display:inline;fill:#888a85">
+      <g
+         style="display:inline;fill:#888a85"
+         id="g6039"
+         transform="translate(-60,-518)" />
+      <g
+         id="g6041"
+         transform="translate(-60,-518)"
+         style="fill:#888a85" />
+      <g
+         id="g6043"
+         transform="translate(-60,-518)"
+         style="fill:#888a85" />
+      <g
+         id="g6049"
+         transform="translate(-60,-518)"
+         style="fill:#888a85">
+        <g
+           style="display:inline;fill:#888a85"
+           id="g6047"
+           transform="translate(19,-242)">
+          <path
+             style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+             id="path6045"
+             d="m 45,764 h 1 c 0.01037,-1.2e-4 0.02079,-4.6e-4 0.03125,0 0.254951,0.0112 0.50987,0.12858 0.6875,0.3125 L 49,766.59375 51.3125,764.3125 C 51.578125,764.082 51.759172,764.007 52,764 h 1 v 1 c 0,0.28647 -0.03434,0.55065 -0.25,0.75 l -2.28125,2.28125 2.25,2.25 C 52.906938,770.46942 52.999992,770.7347 53,771 v 1 h -1 c -0.265301,-10e-6 -0.530586,-0.0931 -0.71875,-0.28125 L 49,769.4375 46.71875,771.71875 C 46.530586,771.90694 46.26529,772 46,772 h -1 v -1 c -3e-6,-0.26529 0.09306,-0.53058 0.28125,-0.71875 l 2.28125,-2.25 L 45.28125,765.75 C 45.070508,765.55537 44.97809,765.28075 45,765 Z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g6051"
+         transform="translate(-60,-518)"
+         style="fill:#888a85" />
+      <g
+         id="g6053"
+         transform="translate(-60,-518)"
+         style="fill:#888a85" />
+      <g
+         id="g6055"
+         transform="translate(-60,-518)"
+         style="fill:#888a85" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416665px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-52.168591"
+       y="5.455431"
+       id="text6061"><tspan
+         sodipodi:role="line"
+         id="tspan6059"
+         x="-52.168591"
+         y="5.455431"
+         style="font-weight:bold;line-height:60.00000238%;stroke-width:0.26458332">Software Sources</tspan></text>
+    <path
+       style="fill:none;stroke:#dbdbdb;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -118.04199,97.409685 c 14.08163,0 131.762502,0 131.762502,0"
+       id="path6063"
+       inkscape:connector-curvature="0" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="0.79374999"
+       rx="0.79375011"
+       y="84.180473"
+       x="-17.897169"
+       height="8.7312498"
+       width="26.19375"
+       id="rect6065"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       id="text6069"
+       y="89.812943"
+       x="-4.8676682"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;stroke-width:0.26458332"
+         y="89.812943"
+         x="-4.8676682"
+         id="tspan6067"
+         sodipodi:role="line">Remove...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-110.57136"
+       y="89.812943"
+       id="text6073"><tspan
+         sodipodi:role="line"
+         id="tspan6071"
+         x="-110.57136"
+         y="89.812943"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;stroke-width:0.26458332">Repository 1</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect6075"
+       width="26.19375"
+       height="8.7312498"
+       x="-17.897169"
+       y="101.90755"
+       rx="0.79375011"
+       ry="0.79374999"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-4.8676682"
+       y="107.54002"
+       id="text6079"><tspan
+         sodipodi:role="line"
+         id="tspan6077"
+         x="-4.8676682"
+         y="107.54002"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;stroke-width:0.26458332">Remove...</tspan></text>
+    <text
+       id="text6083"
+       y="107.54002"
+       x="-110.57136"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;stroke-width:0.26458332"
+         y="107.54002"
+         x="-110.57136"
+         id="tspan6081"
+         sodipodi:role="line">Repository 1</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path6085"
+       d="m -118.04199,115.13679 c 14.08163,0 131.762502,0 131.762502,0"
+       style="fill:none;stroke:#dbdbdb;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="0.79374999"
+       rx="0.79375011"
+       y="119.63464"
+       x="-17.897169"
+       height="8.7312498"
+       width="26.19375"
+       id="rect6087"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       id="text6091"
+       y="125.26711"
+       x="-4.8676682"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;stroke-width:0.26458332"
+         y="125.26711"
+         x="-4.8676682"
+         id="tspan6089"
+         sodipodi:role="line">Remove...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-110.57136"
+       y="125.26711"
+       id="text6095"><tspan
+         sodipodi:role="line"
+         id="tspan6093"
+         x="-110.57136"
+         y="125.26711"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;stroke-width:0.26458332">Repository 1</tspan></text>
+    <text
+       id="text6101"
+       y="68.117111"
+       x="-118.25893"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#919191;stroke-width:0.26458332"
+         y="68.117111"
+         x="-118.25893"
+         id="tspan6097"
+         sodipodi:role="line">Sources that have been manually added and which supplement the software </tspan><tspan
+         id="tspan6099"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#919191;stroke-width:0.26458332"
+         y="85.617111"
+         x="-118.25893"
+         sodipodi:role="line">provided by &lt;distro&gt;.</tspan></text>
+    <rect
+       y="21.209766"
+       x="-118.17426"
+       height="24.606249"
+       width="132.02708"
+       id="rect6103"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7a7a7;stroke-width:0.26458332;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       mask="none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-110.57136"
+       y="29.752527"
+       id="text6107"><tspan
+         sodipodi:role="line"
+         id="tspan6105"
+         x="-110.57136"
+         y="29.752527"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;stroke-width:0.26458332">Proprietary Software Sources</tspan></text>
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-157.99404,-218.63502)"
+       style="display:inline;opacity:1"
+       id="g6117">
+      <rect
+         style="fill:#5ea3eb;fill-opacity:1;stroke:#1a71cc;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6109"
+         width="98"
+         height="25"
+         x="530.5"
+         y="940.5"
+         rx="2"
+         ry="2" />
+      <rect
+         style="display:inline;fill:#eeeeec;fill-opacity:1;stroke:#1a71cc;stroke-width:1.1226666;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6111"
+         width="47.877346"
+         height="24.877306"
+         x="580.56134"
+         y="940.56134"
+         rx="1.8917382"
+         ry="1.8917382" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="538.21143"
+         y="968.82684"
+         id="text6115"
+         transform="scale(1.0113976,0.98873084)"><tspan
+           sodipodi:role="line"
+           id="tspan6113"
+           x="538.21143"
+           y="968.82684"
+           style="font-size:13.14817047px;line-height:1.25">ON</tspan></text>
+    </g>
+    <text
+       id="text6125"
+       y="35.57336"
+       x="-110.57136"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#919191;stroke-width:0.26458332"
+         y="35.57336"
+         x="-110.57136"
+         id="tspan6119"
+         sodipodi:role="line">Typically has restrictions on use and access to </tspan><tspan
+         id="tspan6123"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#919191;stroke-width:0.26458332"
+         y="53.07336"
+         x="-110.57136"
+         sodipodi:role="line">source code. <tspan
+   id="tspan6121"
+   style="fill:#4a90d9;stroke-width:0.26458332">Find out more</tspan>.</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path6127"
+       d="m -88.937794,40.788852 h 22.754167"
+       style="fill:none;stroke:#4a90d9;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-118.25893"
+       y="60.708775"
+       id="text6131"><tspan
+         sodipodi:role="line"
+         id="tspan6129"
+         x="-118.25893"
+         y="60.708775"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;stroke-width:0.26458332">Supplemental Software Sources</tspan></text>
+    <rect
+       style="display:inline;fill:#eaeaea;fill-opacity:1;stroke:#919191;stroke-width:0.26458329;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       id="rect6133"
+       width="113.50625"
+       height="83.872917"
+       x="53.804913"
+       y="42.111851"
+       rx="2.3812499"
+       ry="2.3812501" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.76249981px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="111.4169"
+       y="54.888329"
+       id="text6137"><tspan
+         id="tspan6135"
+         sodipodi:role="line"
+         x="111.4169"
+         y="54.888329"
+         style="stroke-width:0.26458332">Remove Repository 1?</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 53.672621,114.60763 H 167.44345"
+       id="path6139"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 111.03206,114.47534 V 126.117"
+       id="path6141"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text6145"
+       y="121.563"
+       x="82.335602"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416689px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="121.563"
+         x="82.335602"
+         id="tspan6143"
+         sodipodi:role="line"
+         style="stroke-width:0.26458332">Cancel</tspan></text>
+    <flowRoot
+       style="font-style:normal;font-weight:bold;font-size:40.00000381px;line-height:60.00000238%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot6153"
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,61.080954,44.096197)"><flowRegion
+         id="flowRegion6149"
+         style="line-height:60.00000238%"><rect
+           style="line-height:60%;text-align:center;text-anchor:middle;fill:#2e3436;"
+           y="52.999973"
+           x="22.413088"
+           height="214.99997"
+           width="334.99997"
+           id="rect6147" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#2e3436"
+         id="flowPara6151">Software that has been installed from Repository 1 will be uninstalled. This includes:</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,62.181409,61.558696)"
+       xml:space="preserve"
+       id="flowRoot6167"
+       style="font-style:normal;font-weight:bold;font-size:40.00000381px;line-height:60.00000238%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion6157"
+         style="line-height:60.00000238%"><rect
+           id="rect6155"
+           width="205.99997"
+           height="236.99997"
+           x="22.413088"
+           y="52.999973"
+           style="line-height:60%;text-align:start;text-anchor:start;fill:#2e3436;" /></flowRegion><flowPara
+         id="flowPara6159"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#2e3436">App 1</flowPara><flowPara
+         id="flowPara6161"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#2e3436">App 2</flowPara><flowPara
+         id="flowPara6163"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#2e3436">App 3</flowPara><flowPara
+         id="flowPara6165"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#2e3436">App4</flowPara></flowRoot>    <path
+       style="display:inline;fill:#ee2222;fill-opacity:1;stroke:#910f0f;stroke-width:0.26458332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m 110.42575,114.60765 h 54.50416 2.38125 v 8.99584 c 0,1.31921 -1.06204,2.38125 -2.38125,2.38125 h -54.50416 z"
+       id="path6169"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsscc" />
+    <text
+       id="text6173"
+       y="121.563"
+       x="139.0054"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416689px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="121.563"
+         x="139.0054"
+         id="tspan6171"
+         sodipodi:role="line"
+         style="stroke-width:0.26458332">Remove</tspan></text>
+  </g>
+</svg>
