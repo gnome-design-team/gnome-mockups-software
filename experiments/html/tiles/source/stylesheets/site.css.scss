@@ -1,0 +1,86 @@
+@charset "utf-8";
+@import "normalize";
+@import "bootstrap";
+@grid-columns: 9;
+ 
+/*!
+ * Start Bootstrap - Creative Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+ 
+$primary_color: #4a86cf;
+$secondary_orange_color: #f57900;
+$secondary_green_color: #4e9a06;
+$secondary_purple_color: #692c52;
+$base_bg_color: #808080;
+$bg_color: #fff;
+$fg_color: #000;
+$dark_neutral_color: #555753;
+$defaultfont: 'Source Sans Pro', 'Source Sans', sans-serif;
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: $bg_color;
+  color: $fg_color;
+}
+
+body {
+  font-family: 'Source Sans Pro', 'Source Sans', sans-serif;
+  font-size: 13pt;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.tiles {
+  display: flex;
+  align-items: stretch;
+  max-width: 1170px;
+  margin: 4px auto;
+  padding: 15px;
+  min-height: 200px;
+}
+
+.tile {
+  background-color: #fff;
+  box-shadow: 0 1px 1px rgba(0,0,0,.1);
+  border: 1px solid #bbb;
+  border-radius: 3px;
+  padding: 0;
+  margin: 2px;
+  flex: 1;
+  display: flex;
+  background-color: pink;
+  flex-direction: row;
+  align-items: flex-end;
+}
+
+.label {
+  display: flex;
+  height: 50%;
+  flex-direction: column;
+  align-items: stretch;
+  text-align: left;
+  color: black;
+  background-color: white;
+  margin: 0;
+  padding: 8px;
+  border-radius: 0;
+  white-space: normal;
+  width: 100%;
+  .title {
+    font-weight: bold;
+    font-size: 16px;
+    flex: 1;
+    
+  }
+  .description {
+    flex: 2;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: 8px;
+
+  }
+}

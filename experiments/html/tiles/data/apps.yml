@@ -1,0 +1,23 @@
+- name: Builder
+  description: IDE for GNOME
+  icon: builder.png
+      
+- name: Documents
+  description: Manage your local and online documents
+  icon: documents.png
+  
+- name: Gedit
+  description: text editor
+  icon: gedit.png
+
+- name: Photos
+  description: Access, organize and share your photos
+  icon: photos.png
+
+- name: Polari
+  description: IRC chat client
+  icon: polari.png
+  
+- name: Peek
+  description: Short screencapture software that outputs GIF images
+  icon: peek.png

@@ -1,0 +1,33 @@
+---
+title: Tile Styling Improvements
+description: Test
+---
+%section
+  .container
+    %h2 1X Tiles
+    %p Used for regular app listings
+
+  .tiles
+    - data.apps.each do |i|
+      .tile{data_icon: i.icon}
+        .label
+          .title #{i.name}
+          .description #{i.description}
+
+
+  .container
+    %h2 3X Tiles
+    %p Used for featured apps and addons and fonts.
+
+  .tiles
+    - for i in 0..2
+      .tile{data_icon: data.apps[i].icon}
+        .label
+          .title #{data.apps[i].name}
+          .description #{data.apps[i].description}
+
+:javascript
+$( document ).ready(function() {
+    console.log( "ready!" );
+});
+
