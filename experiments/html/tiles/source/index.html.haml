@@ -15,19 +15,24 @@ description: Test
           .description #{i.description}
 
 
+  
   .container
-    %h2 3X Tiles
+    %h2 2X Tiles
     %p Used for featured apps and addons and fonts.
-
+    
   .tiles
     - for i in 0..2
       .tile{data_icon: data.apps[i].icon}
         .label
           .title #{data.apps[i].name}
           .description #{data.apps[i].description}
-
+          
 :javascript
 $( document ).ready(function() {
-    console.log( "ready!" );
+  $('.tile').each(function () {
+    var img;
+    img = 'url(img/icons/' + $(this).attr('data_icon') + ')';
+    $(this).css({'background-image': img});
+  });
 });
 

@@ -47,12 +47,18 @@ activate :relative_assets
 set :relative_links, true
 
 activate :deploy do |deploy|
-  deploy.deploy_method = :git
-  # Optional Settings
-  # deploy.remote   = 'custom-remote' # remote name or git url, default: origin
-  deploy.branch   = 'gh-pages' # default: gh-pages
-  # deploy.strategy = :submodule      # commit strategy: can be :force_push or :submodule, default: :force_push
-  # deploy.commit_message = 'custom-message'      # commit message (can be empty), default: Automated commit at `timestamp` by middleman-deploy `version`
+  deploy.deploy_method = :rsync
+  # host and path *must* be set
+  deploy.host = "io.pinknet.cz"
+  deploy.path = "/data/www/virtual/musichall/skupiny/jimmac/stuff/software-tiles"
+  # user is optional (no default)
+  deploy.user = "jimmac"
+  # port is optional (default is 22)
+  #deploy.port  = 5309
+  # clean is optional (default is false)
+  #deploy.clean = true
+  # flags is optional (default is -avze)
+  #deploy.flags = "-rltgoDvzO --no-p --del -e"
 end
 
 #activate :redcarpet
@@ -63,6 +69,6 @@ activate :google_analytics do |ga|
   ga.tracking_id = '' # Replace with your property ID.
 end
 
-activate :asset_hash
+#activate :asset_hash
 
 #redirect "press/index.html", to: "press/2016-06-21-flatpak-released.html"

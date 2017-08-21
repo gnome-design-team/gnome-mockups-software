@@ -37,24 +37,40 @@ body {
 .tiles {
   display: flex;
   align-items: stretch;
+  justify-content: flex-start;
   max-width: 1170px;
   margin: 4px auto;
   padding: 15px;
   min-height: 200px;
+  flex-wrap: wrap;
 }
 
 .tile {
   background-color: #fff;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 130%;
   box-shadow: 0 1px 1px rgba(0,0,0,.1);
-  border: 1px solid #bbb;
+  border-color: #bbb;
+  border-width: 1px;
+  border-style: solid;
   border-radius: 3px;
   padding: 0;
   margin: 2px;
   flex: 1;
   display: flex;
-  background-color: pink;
   flex-direction: row;
   align-items: flex-end;
+  min-width: 180px;
+  min-height: 200px;
+  transition: background-size 200ms;
+  transition-timing-function: ease-in-out;
+  &:hover {
+    background-size: 150%;
+    border-color: $primary_color;
+    cursor: pointer;
+    border-width: 2px; margin: 1px;
+  }
 }
 
 .label {
@@ -62,14 +78,18 @@ body {
   height: 50%;
   flex-direction: column;
   align-items: stretch;
+  justify-content: flex-start;
   text-align: left;
   color: black;
-  background-color: white;
+  background-color: rgba(255,255,255,0.9);
   margin: 0;
-  padding: 8px;
+  padding: 14px;
   border-radius: 0;
   white-space: normal;
   width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-clamp: 2;
   .title {
     font-weight: bold;
     font-size: 16px;
@@ -77,10 +97,12 @@ body {
     
   }
   .description {
+
     flex: 2;
     font-weight: normal;
     font-size: 14px;
     margin-top: 8px;
-
+    max-height: 5ex;
+    overflow: hidden;
   }
 }
