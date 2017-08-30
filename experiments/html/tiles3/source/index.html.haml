@@ -1,0 +1,58 @@
+---
+title: Tile Styling Improvements
+description: Test
+---
+%section
+  .container
+    %h2 1X Tiles
+    %p Used for regular app listings
+
+  .tiles
+    - data.apps.each do |i|
+      .tilecontainer
+        %img{'src': "/img/icons/" + i.icon, 'data-adaptive-background': true}
+        .tile
+          .label
+            .title #{i.name}
+            .description #{i.description}
+
+
+  
+  .container
+    %h2 2X Tiles
+    %p Used for featured apps and addons and fonts.
+    
+  .tiles
+    - for i in 0..2
+      .tilecontainer
+        %img{'src': "/img/icons/" + data.apps[i].icon, 'data-adaptive-background': true}
+        .tile
+          .label
+            .title #{data.apps[i].name}
+            .description #{data.apps[i].description}
+   
+:javascript
+
+
+$( document ).ready(function() {
+  $.adaptiveBackground.run({
+    normalizeTextColor:   true,
+    normalizedTextColors:  {
+      light:      "#fff",
+      dark:       "#000"
+    },
+    transparent: 1
+  });
+  
+  $('.tilecontainer').on('ab-color-found', function (ev, payload) {
+    //console.log(payload);
+    var fg = $(this).css('color');
+    //console.log(fg);
+    $(this).find('.label').css({
+      'border-top-color': payload.color,
+      'background-color': jQuery.Color(payload.color).alpha(0.9),
+      'color': fg
+    });
+  });  
+});
+

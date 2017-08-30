@@ -1,0 +1,132 @@
+@charset "utf-8";
+@import "normalize";
+@import "bootstrap";
+@grid-columns: 9;
+ 
+/*!
+ * Start Bootstrap - Creative Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+ 
+$primary_color: #4a86cf;
+$secondary_orange_color: #f57900;
+$secondary_green_color: #4e9a06;
+$secondary_purple_color: #692c52;
+$base_bg_color: #808080;
+$bg_color: #fff;
+$fg_color: #000;
+$dark_neutral_color: #555753;
+$defaultfont: 'Source Sans Pro', 'Source Sans', sans-serif;
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: $bg_color;
+  color: $fg_color;
+}
+
+body {
+  font-family: 'Source Sans Pro', 'Source Sans', sans-serif;
+  font-size: 13pt;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.tiles {
+  display: flex;
+  align-items: stretch;
+  justify-content: flex-start;
+  max-width: 1170px;
+  margin: 4px auto;
+  padding: 15px;
+  min-height: 200px;
+  flex-wrap: wrap;
+}
+
+.tilecontainer {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 1px 1px rgba(0,0,0,.1);
+  border-color: #bbb;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  padding: 0;
+  margin: 2px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  min-width: 180px;
+  min-height: 210px;
+  img {
+    position: absolute;
+    top: 50%; left: 50%;
+    margin-left: -128px;
+    margin-top: -128px;
+    opacity: 0.4;
+    width: 256px;
+    height: 256px;
+    transition: all 200ms;
+    transition-timing-function: ease-in-out;
+
+  }
+  
+  &:hover {
+    border-width: 2px;
+    border-color: $primary_color;
+    margin: 1px;
+    cursor: pointer;
+    img {
+      margin-left: -48px;
+      margin-top: -96px;
+      width: 96px;
+      height: 96px;
+      opacity: 1;
+    }
+  }
+}
+.tile {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+}
+
+.label {
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  height: 50%;
+  width: 100%;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  text-align: left;
+  color: black;
+  background-color: rgba(255,255,255,0.9);
+  margin: 0;
+  padding: 14px;
+  border-radius: 0;
+  white-space: normal;
+  width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-style: solid;
+  border-width: 4px 0 0 0;
+  line-clamp: 2;
+  .title {
+    font-weight: bold;
+    font-size: 16px;
+    flex: 1;
+    
+  }
+  .description {
+    flex: 2;
+    font-weight: normal;
+    font-size: 14px;
+    margin-top: 8px;
+    max-height: 6ex;
+    overflow: hidden;
+  }
+}

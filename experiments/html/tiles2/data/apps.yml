@@ -1,0 +1,48 @@
+- name: Builder
+  description: IDE for GNOME
+  icon: builder.png
+      
+- name: Documents
+  description: Manage your local and online documents
+  icon: documents.png
+  
+- name: Peek
+  description: Short screencapture software that outputs GIF images
+  icon: peek.png
+  
+- name: Gedit
+  description: text editor
+  icon: gedit.png
+
+- name: Photos
+  description: Access, organize and share your photos
+  icon: photos.png
+
+- name: Polari
+  description: IRC chat client
+  icon: polari.png
+
+- name: GNU Image Manipulation Program
+  description: Create images and edit photographs
+  icon: gimp.png
+      
+- name: Music
+  description: Play and organize your music collection
+  icon: music.png
+  
+- name: Inkscape
+  description: Create and edit Scalable Vector Graphics images
+  icon: inkscape.png
+
+- name: Blender
+  description: Open Source 3D creation
+  icon: blender.png
+  
+- name: Boxes
+  description: Simple remote and virtual machines
+  icon: boxes.png
+
+- name: Transmission
+  description: Download and share files over BitTorrent
+  icon: transmission.png
+

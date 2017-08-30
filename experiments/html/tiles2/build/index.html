@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Tile Styling Improvements
+    </title>
+    <meta content='text/html; charset=UTF8' http-equiv='content-type'>
+    <meta content='Test' name='description'>
+    <meta content='fleet,commander,fleetcommander' name='keywords'>
+    <meta content='width=device-width,initial-scale=1' name='viewport'>
+    <link href='img/favicon.png' rel='icon' type='image/png'>
+    <link href='/favicon.ico' rel='shortcut icon' type='image/x-icon'>
+    <link href='img/favicon57.png' rel='apple-touch-icon' sizes='57x57'>
+    <link href='img/favicon152.png' rel='apple-touch-icon' sizes='152x152'>
+    <link href="stylesheets/fonts.css" rel="stylesheet" />
+    <link href="stylesheets/site.css" rel="stylesheet" />
+    <link href="stylesheets/animate.css" rel="stylesheet" />
+    <script src="javascripts/jquery.js"></script>
+    <script src="javascripts/jquery.color.js"></script>
+    <script src="javascripts/jquery.adaptive-backgrounds.js"></script>
+  </head>
+  <body id='page-top'></body>
+  <main>
+    <section>
+      <div class='container'>
+        <h2>1X Tiles</h2>
+        <p>Used for regular app listings</p>
+      </div>
+      <div class='tiles'>
+        <div class='tile' data-ab-css-background data-adaptive-background style='background-image: url(img/icons/builder.png)'>
+          <div class='label'>
+            <div class='title'>Builder</div>
+            <div class='description'>IDE for GNOME</div>
+          </div>
+        </div>
+        <div class='tile' data-ab-css-background data-adaptive-background style='background-image: url(img/icons/documents.png)'>
+          <div class='label'>
+            <div class='title'>Documents</div>
+            <div class='description'>Manage your local and online documents</div>
+          </div>
+        </div>
+        <div class='tile' data-ab-css-background data-adaptive-background style='background-image: url(img/icons/peek.png)'>
+          <div class='label'>
+            <div class='title'>Peek</div>
+            <div class='description'>Short screencapture software that outputs GIF images</div>
+          </div>
+        </div>
+        <div class='tile' data-ab-css-background data-adaptive-background style='background-image: url(img/icons/gedit.png)'>
+          <div class='label'>
+            <div class='title'>Gedit</div>
+            <div class='description'>text editor</div>
+          </div>
+        </div>
+        <div class='tile' data-ab-css-background data-adaptive-background style='background-image: url(img/icons/photos.png)'>
+          <div class='label'>
+            <div class='title'>Photos</div>
+            <div class='description'>Access, organize and share your photos</div>
+          </div>
+        </div>
+        <div class='tile' data-ab-css-background data-adaptive-background style='background-image: url(img/icons/polari.png)'>
+          <div class='label'>
+            <div class='title'>Polari</div>
+            <div class='description'>IRC chat client</div>
+          </div>
+        </div>
+        <div class='tile' data-ab-css-background data-adaptive-background style='background-image: url(img/icons/gimp.png)'>
+          <div class='label'>
+            <div class='title'>GNU Image Manipulation Program</div>
+            <div class='description'>Create images and edit photographs</div>
+          </div>
+        </div>
+        <div class='tile' data-ab-css-background data-adaptive-background style='background-image: url(img/icons/music.png)'>
+          <div class='label'>
+            <div class='title'>Music</div>
+            <div class='description'>Play and organize your music collection</div>
+          </div>
+        </div>
+        <div class='tile' data-ab-css-background data-adaptive-background style='background-image: url(img/icons/inkscape.png)'>
+          <div class='label'>
+            <div class='title'>Inkscape</div>
+            <div class='description'>Create and edit Scalable Vector Graphics images</div>
+          </div>
+        </div>
+        <div class='tile' data-ab-css-background data-adaptive-background style='background-image: url(img/icons/blender.png)'>
+          <div class='label'>
+            <div class='title'>Blender</div>
+            <div class='description'>Open Source 3D creation</div>
+          </div>
+        </div>
+        <div class='tile' data-ab-css-background data-adaptive-background style='background-image: url(img/icons/boxes.png)'>
+          <div class='label'>
+            <div class='title'>Boxes</div>
+            <div class='description'>Simple remote and virtual machines</div>
+          </div>
+        </div>
+        <div class='tile' data-ab-css-background data-adaptive-background style='background-image: url(img/icons/transmission.png)'>
+          <div class='label'>
+            <div class='title'>Transmission</div>
+            <div class='description'>Download and share files over BitTorrent</div>
+          </div>
+        </div>
+      </div>
+      <div class='container'>
+        <h2>2X Tiles</h2>
+        <p>Used for featured apps and addons and fonts.</p>
+      </div>
+      <div class='tiles'>
+        <div class='tile' data-ab-css-background data-adaptive-background style='background-image: url(img/icons/builder.png)'>
+          <div class='label'>
+            <div class='title'>Builder</div>
+            <div class='description'>IDE for GNOME</div>
+          </div>
+        </div>
+        <div class='tile' data-ab-css-background data-adaptive-background style='background-image: url(img/icons/documents.png)'>
+          <div class='label'>
+            <div class='title'>Documents</div>
+            <div class='description'>Manage your local and online documents</div>
+          </div>
+        </div>
+        <div class='tile' data-ab-css-background data-adaptive-background style='background-image: url(img/icons/peek.png)'>
+          <div class='label'>
+            <div class='title'>Peek</div>
+            <div class='description'>Short screencapture software that outputs GIF images</div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <script>
+      
+      $.adaptiveBackground.run({
+        normalizeTextColor:   true,
+        normalizedTextColors:  {
+          light:      "#fff",
+          dark:       "#000"
+        },
+        transparent: 1
+      });
+      
+      $('.tile').on('ab-color-found', function (ev, payload) {
+        //console.log(payload);
+        var fg = $(this).css('color');
+        //console.log(fg);
+        $(this).find('.label').css({
+          'border-top-color': payload.color,
+          'background-color': jQuery.Color(payload.color).alpha(0.7),
+          'color': fg
+        });
+      });
+    </script>
+  </main>
+  <script src="javascripts/jquery.easing.min.js"></script>
+  <script src="javascripts/jquery.toc.min.js"></script>
+  <script src="javascripts/bootstrap.js"></script>
+  <script src="javascripts/all.js"></script>
+  <script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', '', 'auto');
+    ga('send', 'pageview');
+  </script>
+</html>

@@ -1,0 +1,29 @@
+!!!5
+%html
+  %head
+    %title 
+      =current_page.data.title
+    %meta{content: "text/html; charset=UTF8", "http-equiv" => "content-type"}/
+    %meta{content: "#{current_page.data.description}", name: "description"}/
+    %meta{content: "fleet,commander,fleetcommander", name: "keywords"}/
+    %meta{content: "width=device-width,initial-scale=1", name: "viewport" }/ 
+    %link{rel:"icon", "type" => "image/png", href:"img/favicon.png"}/
+    %link{rel:"shortcut icon", "type" => "image/x-icon", href:"/favicon.ico"}/
+    %link{rel:"apple-touch-icon", "sizes" => "57x57", href:"img/favicon57.png"}/
+    %link{rel:"apple-touch-icon", "sizes" => "152x152", href:"img/favicon152.png"}/
+    = stylesheet_link_tag :fonts
+    = stylesheet_link_tag :site
+    = stylesheet_link_tag :animate
+    = javascript_include_tag :jquery
+    = javascript_include_tag "jquery.color"
+    = javascript_include_tag "jquery.adaptive-backgrounds.js"
+  
+  %body#page-top
+
+  %main
+    = yield
+  = javascript_include_tag "jquery.easing.min"
+  = javascript_include_tag "jquery.toc.min"
+  = javascript_include_tag :bootstrap
+  = javascript_include_tag :all
+  = google_analytics_universal_tag
