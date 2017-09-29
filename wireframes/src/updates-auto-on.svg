@@ -16,7 +16,7 @@
    id="svg14346"
    version="1.1"
    inkscape:version="0.92+devel unknown"
-   sodipodi:docname="updates.svg"
+   sodipodi:docname="updates-auto-on.svg"
    inkscape:export-filename="/run/media/aday/915c8700-8aa5-46a6-9483-7a7183c1d04a/aday/checkout/gnome-mockups-software/wireframes/updates.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="411.56777"
-     inkscape:cy="6217.8904"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="661.44108"
+     inkscape:cy="5611.4596"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

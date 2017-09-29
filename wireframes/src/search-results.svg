@@ -15,7 +15,7 @@
    viewBox="0 0 980 780"
    id="svg16934"
    version="1.1"
-   inkscape:version="0.92pre1 r"
+   inkscape:version="0.92+devel unknown"
    sodipodi:docname="search-results.svg"
    inkscape:export-filename="/home/aday/checkout/gnome-mockups-software/wireframes/search.png"
    inkscape:export-xdpi="90"
@@ -31,19 +31,20 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="523.43151"
-     inkscape:cy="532.63969"
+     inkscape:cy="452.63969"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="836"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid17860" />
@@ -237,8 +238,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        x="491.18988"
        y="361.15015"
-       id="text17115"
-       sodipodi:linespacing="125%"><tspan
+       id="text17115"><tspan
          sodipodi:role="line"
          id="tspan17117"
          x="491.18988"
@@ -250,7 +250,6 @@
        d="m 636.52067,372.8623 -95.83323,0 0,-3 0,-27 0,-3 95.83323,0 c 1.65051,0 2.97927,1.338 2.97927,3 l 0,27 c 0,1.662 -1.32876,3 -2.97927,3 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <text
-       sodipodi:linespacing="125%"
        id="text17123"
        y="361.15015"
        x="590.4101"
@@ -279,7 +278,6 @@
        d="m 540.50002,339.8531 0,33.0182"
        style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     <text
-       sodipodi:linespacing="125%"
        id="text17187"
        y="361.15015"
        x="490.77441"
@@ -294,8 +292,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        x="590.4101"
        y="361.15015"
-       id="text17195"
-       sodipodi:linespacing="125%"><tspan
+       id="text17195"><tspan
          sodipodi:role="line"
          id="tspan17197"
          x="590.4101"
@@ -321,7 +318,6 @@
        id="rect40510"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#4a90d9;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <text
-       sodipodi:linespacing="125%"
        id="text40542"
        y="407.02625"
        x="348.65689"
@@ -466,7 +462,7 @@
        width="48" />
     <flowRoot
        transform="translate(112.2876,63.0625)"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#919191;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#919191;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        id="flowRoot7639"
        xml:space="preserve"><flowRegion
          id="flowRegion7641"><rect
@@ -477,8 +473,7 @@
            id="rect7643"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#919191" /></flowRegion><flowPara
          id="flowPara7645"
-         style="font-weight:normal;fill:#919191">Source: blender.org</flowPara></flowRoot>    <text
-       sodipodi:linespacing="125%"
+         style="font-weight:normal;fill:#919191">Distributor: blender.org</flowPara></flowRoot>    <text
        id="text5608"
        y="499.50372"
        x="849.01556"
@@ -713,7 +708,7 @@
            x="228"
            y="425" /></flowRegion><flowPara
          style="font-weight:normal;fill:#919191"
-         id="flowPara6209">Source: distribution.org</flowPara></flowRoot>    <g
+         id="flowPara6209">Distributor: distribution.org</flowPara></flowRoot>    <g
        id="g6221"
        transform="translate(-55.8487,-544.4906)">
       <g
@@ -930,7 +925,7 @@
            id="rect6379"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#919191" /></flowRegion><flowPara
          id="flowPara6381"
-         style="font-weight:normal;fill:#919191">Source: blendswap.org</flowPara></flowRoot>    <path
+         style="font-weight:normal;fill:#919191">Distributor: blendswap.org</flowPara></flowRoot>    <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d8d8d8;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 60,714.8762 H 919.99997"
        id="path6383"
@@ -1111,7 +1106,6 @@
       </g>
     </g>
     <text
-       sodipodi:linespacing="125%"
        id="text17111"
        y="361.15015"
        x="391.68991"
@@ -1126,8 +1120,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        x="391.68991"
        y="361.15015"
-       id="text17183"
-       sodipodi:linespacing="125%"><tspan
+       id="text17183"><tspan
          sodipodi:role="line"
          id="tspan17185"
          x="391.68991"
