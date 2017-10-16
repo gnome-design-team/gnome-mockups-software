@@ -15,7 +15,7 @@
    viewBox="0 0 1600 5480"
    id="svg39263"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92+devel unknown"
    sodipodi:docname="app-details.svg"
    inkscape:export-filename="/home/aday/checkout/gnome-mockups-software/wireframes/app-details.png"
    inkscape:export-xdpi="90"
@@ -52,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="524.26042"
-     inkscape:cy="5315.7738"
+     inkscape:zoom="0.5"
+     inkscape:cx="670.37457"
+     inkscape:cy="4564.6511"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3529,6 +3529,131 @@
            x="290.57239"
            id="tspan6302"
            sodipodi:role="line">3.27</tspan></text>
+    </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="3"
+       rx="3.0000007"
+       y="-3953.1304"
+       x="988.49994"
+       height="33"
+       width="158"
+       id="rect5055"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#888a85;fill-opacity:1;stroke:none"
+       x="977.64252"
+       y="-3931.8501"
+       id="text5065"><tspan
+         style="font-weight:normal;font-size:14.66666698px;line-height:1.25;text-align:end;text-anchor:end;fill:#888a85;fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan5063"
+         x="977.64252"
+         y="-3931.8501">Source</tspan></text>
+    <text
+       id="text5069"
+       y="-3931.8501"
+       x="1001.2452"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="-3931.8501"
+         x="1001.2452"
+         id="tspan5067"
+         sodipodi:role="line"
+         style="font-weight:normal;font-size:14.66666698px;line-height:1.25;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">Distribution</tspan></text>
+    <g
+       transform="rotate(-90,-1729.3151,-2099.3151)"
+       id="g5075"
+       inkscape:label="pan-down"
+       style="display:inline">
+      <path
+         style="fill:#2e3436;fill-opacity:1;stroke:none"
+         d="m 110.00021,760 -5,-5 5,-5 z"
+         id="path5071"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <rect
+         width="16"
+         height="16"
+         x="-116.0002"
+         y="747"
+         id="rect5073"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         transform="scale(-1,1)" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5083"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="translate(305,-5259.4429)"><flowRegion
+         id="flowRegion5079"><rect
+           id="rect5077"
+           width="251.55392"
+           height="241.28699"
+           x="959"
+           y="1301"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
+         style="font-size:12.5px;line-height:1.25"
+         id="flowPara5081">If there's more than one version of the app, a drop down allows switching between different sources.</flowPara></flowRoot>    <g
+       id="g5109"
+       transform="translate(0,1006)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         ry="3"
+         rx="3.0000007"
+         y="-3953.1304"
+         x="988.49994"
+         height="33"
+         width="158"
+         id="rect5085"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#888a85;fill-opacity:1;stroke:none"
+         x="977.64252"
+         y="-3931.8501"
+         id="text5089"><tspan
+           style="font-weight:normal;font-size:14.66666698px;line-height:1.25;text-align:end;text-anchor:end;fill:#888a85;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan5087"
+           x="977.64252"
+           y="-3931.8501">Source</tspan></text>
+      <text
+         id="text5093"
+         y="-3931.8501"
+         x="1001.2452"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="-3931.8501"
+           x="1001.2452"
+           id="tspan5091"
+           sodipodi:role="line"
+           style="font-weight:normal;font-size:14.66666698px;line-height:1.25;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">Distribution</tspan></text>
+      <g
+         transform="rotate(-90,-1729.3151,-2099.3151)"
+         id="g5099"
+         inkscape:label="pan-down"
+         style="display:inline">
+        <path
+           style="fill:#2e3436;fill-opacity:1;stroke:none"
+           d="m 110.00021,760 -5,-5 5,-5 z"
+           id="path5095"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <rect
+           width="16"
+           height="16"
+           x="-116.0002"
+           y="747"
+           id="rect5097"
+           style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+           transform="scale(-1,1)" />
+      </g>
     </g>
   </g>
   <g
