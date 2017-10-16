@@ -15,7 +15,7 @@
    viewBox="0 0 1600 5480"
    id="svg39263"
    version="1.1"
-   inkscape:version="0.92+devel unknown"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="app-details.svg"
    inkscape:export-filename="/home/aday/checkout/gnome-mockups-software/wireframes/app-details.png"
    inkscape:export-xdpi="90"
@@ -52,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="560.86122"
-     inkscape:cy="5084.6907"
+     inkscape:zoom="1"
+     inkscape:cx="524.26042"
+     inkscape:cy="5315.7738"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -160,7 +160,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1287,90 +1287,63 @@
            y="1301"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333333px;line-height:180%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:179.99999523%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
-         id="flowPara4823">Updated popover</flowPara></flowRoot>    <g
-       id="g8964"
-       transform="translate(72,-504)">
+         id="flowPara4823">Updated popover</flowPara></flowRoot>    <path
+       style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#a7aba7;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 201.5,909.8313 h 75.2726 l 14.1986,14 14.1986,-14 h 70.3304 c 4.986,0 9,-4.014 9,-9 v -153.969 c 0,-4.986 -4.014,-9 -9,-9 H 201.5 c -4.986,0 -9,4.014 -9,9 v 153.969 c 0,4.986 4.014,9 9,9 z"
+       id="path4782"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scccssssssss" />
+    <g
+       id="g13895"
+       transform="translate(6.99999,16)">
       <g
-         transform="translate(-71.00001,240)"
-         id="g8692">
-        <path
-           style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#a7aba7;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 194.50001,1173.8313 h 75.2726 l 14.1986,14 14.1986,-14 h 70.3304 c 4.986,0 9,-4.014 9,-9 v -153.969 c 0,-4.986 -4.014,-9 -9,-9 h -174.0002 c -4.986,0 -9,4.014 -9,9 v 153.969 c 0,4.986 4.014,9 9,9 z"
-           id="path4782"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="scccssssssss" />
-        <g
-           id="g13895"
-           transform="translate(0,280)">
-          <g
-             transform="translate(-4.8065998,66)"
-             id="g4801">
-            <flowRoot
-               xml:space="preserve"
-               id="flowRoot15200"
-               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               transform="translate(3.6817,544.81732)"><flowRegion
-                 id="flowRegion15202"><rect
-                   id="rect15204"
-                   width="508.57513"
-                   height="138.71477"
-                   x="295.9747"
-                   y="135.64877"
-                   style="line-height:220.00000477%;fill:#2e3436" /></flowRegion><flowPara
-                 id="flowPara15206"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191">Installed</flowPara><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
-                 id="flowPara15305">11 July</flowPara><flowPara
-                 id="flowPara15208"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">20 June</flowPara><flowPara
-                 id="flowPara15210"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">5 April</flowPara><flowPara
-                 id="flowPara15212"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">3  March</flowPara><flowPara
-                 id="flowPara15214"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"> </flowPara></flowRoot>            <flowRoot
-               transform="translate(-76.3183,544.81732)"
-               style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-               id="flowRoot15216"
-               xml:space="preserve"><flowRegion
-                 id="flowRegion15218"><rect
-                   style="line-height:220.00000477%;fill:#2e3436"
-                   y="135.64877"
-                   x="295.9747"
-                   height="138.71477"
-                   width="508.57513"
-                   id="rect15220" /></flowRegion><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191"
-                 id="flowPara15222">Version</flowPara><flowPara
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
-                 id="flowPara15307">3.4.2</flowPara><flowPara
-                 id="flowPara15224"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">3.4.1</flowPara><flowPara
-                 id="flowPara15226"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">3.4.0</flowPara><flowPara
-                 id="flowPara15228"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">3.3.8</flowPara></flowRoot>          </g>
-        </g>
+         transform="translate(-4.8065998,66)"
+         id="g4801">
         <flowRoot
            xml:space="preserve"
-           id="flowRoot4833"
-           style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#215d9c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(-36.3183,1060.7766)"><flowRegion
-             style="font-size:14.66666698px"
-             id="flowRegion4829"><rect
-               id="rect4827"
-               width="235.36552"
-               height="75.761444"
+           id="flowRoot15200"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(3.6817,544.81732)"><flowRegion
+             id="flowRegion15202"><rect
+               id="rect15204"
+               width="508.57513"
+               height="138.71477"
                x="295.9747"
                y="135.64877"
-               style="fill:#215d9c;font-size:14.66666667px;" /></flowRegion><flowPara
-             id="flowPara4831"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#215d9c">11 July</flowPara></flowRoot>        <path
-           inkscape:connector-curvature="0"
-           id="path4835"
-           d="M 258.99999,1213.8622 H 307"
-           style="fill:none;fill-rule:evenodd;stroke:#215d9c;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      </g>
+               style="line-height:220.00000477%;fill:#2e3436" /></flowRegion><flowPara
+             id="flowPara15206"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191">Installed</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+             id="flowPara15305">11 July</flowPara><flowPara
+             id="flowPara15208"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">20 June</flowPara><flowPara
+             id="flowPara15210"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">5 April</flowPara><flowPara
+             id="flowPara15212"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">3  March</flowPara><flowPara
+             id="flowPara15214"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"> </flowPara></flowRoot>        <flowRoot
+           transform="translate(-76.3183,544.81732)"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot15216"
+           xml:space="preserve"><flowRegion
+             id="flowRegion15218"><rect
+               style="line-height:220.00000477%;fill:#2e3436"
+               y="135.64877"
+               x="295.9747"
+               height="138.71477"
+               width="508.57513"
+               id="rect15220" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191"
+             id="flowPara15222">Version</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+             id="flowPara15307">3.4.2</flowPara><flowPara
+             id="flowPara15224"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">3.4.1</flowPara><flowPara
+             id="flowPara15226"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">3.4.0</flowPara><flowPara
+             id="flowPara15228"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:220.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">3.3.8</flowPara></flowRoot>      </g>
     </g>
     <g
        id="g9341"
@@ -1408,36 +1381,6 @@
        y="-1152.1941"
        transform="matrix(0,-1,-1,0,0,0)" />
     <flowRoot
-       transform="translate(8.71345,-3659.9627)"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-       id="flowRoot5704"
-       xml:space="preserve"><flowRegion
-         id="flowRegion5706"><rect
-           y="425"
-           x="228"
-           height="274"
-           width="267.28012"
-           id="rect5708"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85" /></flowRegion><flowPara
-         style="font-size:12px;line-height:160.00000238%"
-         id="flowPara5710">Developer</flowPara><flowPara
-         id="flowPara5712"
-         style="font-size:14.66666698px;line-height:160.00000238%;fill:#2e3436">Blender Foundation</flowPara></flowRoot>    <flowRoot
-       transform="translate(232.71345,-3658.3902)"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-       id="flowRoot5714"
-       xml:space="preserve"><flowRegion
-         id="flowRegion5716"><rect
-           y="425"
-           x="228"
-           height="274"
-           width="267.28012"
-           id="rect5718"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85" /></flowRegion><flowPara
-         style="font-size:12px;line-height:160.00000238%"
-         id="flowPara5720">Source</flowPara><flowPara
-         id="flowPara5722"
-         style="font-size:14.66666698px;line-height:160.00000238%;fill:#2e3436">Blender Foundation</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5674"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
@@ -1472,7 +1415,7 @@
          id="tspan5728"
          x="736.83069"
          y="-3201.5459"
-         style="font-size:12px;line-height:1.25">Proprietary</tspan></text>
+         style="font-size:12px;line-height:1.25;font-weight:normal">Proprietary</tspan></text>
     <flowRoot
        transform="translate(683.71345,-3658.3902)"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
@@ -1502,7 +1445,7 @@
        x="962.57239"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        xml:space="preserve"><tspan
-         style="font-size:12px;line-height:1.25;fill:#2e3436"
+         style="font-size:12px;line-height:1.25;fill:#2e3436;font-weight:normal"
          y="-3199.3896"
          x="962.57239"
          id="tspan6718"
@@ -2012,7 +1955,7 @@
        xml:space="preserve"
        id="flowRoot13298"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-       transform="translate(8.71345,-2553.9627)"><flowRegion
+       transform="translate(8.71345,-2552.3902)"><flowRegion
          id="flowRegion13292"><rect
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
            id="rect13290"
@@ -2022,23 +1965,24 @@
            y="425" /></flowRegion><flowPara
          id="flowPara13294"
          style="font-size:12px;line-height:160.00000238%">Developer</flowPara><flowPara
-         style="font-size:14.66666698px;line-height:160.00000238%;fill:#2e3436"
+         style="font-size:14.66666698px;line-height:160.00000238%;fill:#215d9c;fill-opacity:1"
          id="flowPara13296">Blender Foundation</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot13308"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#215d9c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        transform="translate(232.71345,-2552.3902)"><flowRegion
-         id="flowRegion13302"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+         id="flowRegion13302"
+         style="fill:#215d9c;fill-opacity:1"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#215d9c;fill-opacity:1"
            id="rect13300"
            width="267.28012"
            height="274"
            x="228"
            y="425" /></flowRegion><flowPara
          id="flowPara13304"
-         style="font-size:12px;line-height:160.00000238%">Source</flowPara><flowPara
-         style="font-size:14.66666698px;line-height:160.00000238%;fill:#2e3436"
-         id="flowPara13306">Blender Foundation</flowPara></flowRoot>    <flowRoot
+         style="font-size:12px;line-height:160.00000238%;fill:#888a85;fill-opacity:1">Source</flowPara><flowPara
+         style="font-size:14.66666698px;line-height:160.00000238%;fill:#215d9c;fill-opacity:1"
+         id="flowPara13306">Distribution</flowPara></flowRoot>    <flowRoot
        transform="translate(457.71345,-2553.9627)"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        id="flowRoot13318"
@@ -2069,7 +2013,7 @@
        x="736.83069"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        xml:space="preserve"><tspan
-         style="font-size:12px;line-height:1.25"
+         style="font-size:12px;line-height:1.25;font-weight:normal"
          y="-2095.5459"
          x="736.83069"
          id="tspan13322"
@@ -2107,7 +2051,7 @@
          id="tspan13336"
          x="962.57239"
          y="-2093.3896"
-         style="font-size:12px;line-height:1.25;fill:#2e3436">Medium</tspan></text>
+         style="font-size:12px;line-height:1.25;fill:#2e3436;font-weight:normal">Medium</tspan></text>
     <g
        transform="matrix(0,1,1,0,-81,-2267.638)"
        id="g13344"
@@ -2359,36 +2303,6 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <flowRoot
-       transform="translate(8.71345,-1847.9627)"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-       id="flowRoot13611"
-       xml:space="preserve"><flowRegion
-         id="flowRegion13605"><rect
-           y="425"
-           x="228"
-           height="274"
-           width="267.28012"
-           id="rect13603"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85" /></flowRegion><flowPara
-         style="font-size:12px;line-height:160.00000238%"
-         id="flowPara13607">Developer</flowPara><flowPara
-         id="flowPara13609"
-         style="font-size:14.66666698px;line-height:160.00000238%;fill:#2e3436">Blender Foundation</flowPara></flowRoot>    <flowRoot
-       transform="translate(232.71345,-1846.3902)"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-       id="flowRoot13621"
-       xml:space="preserve"><flowRegion
-         id="flowRegion13615"><rect
-           y="425"
-           x="228"
-           height="274"
-           width="267.28012"
-           id="rect13613"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85" /></flowRegion><flowPara
-         style="font-size:12px;line-height:160.00000238%"
-         id="flowPara13617">Source</flowPara><flowPara
-         id="flowPara13619"
-         style="font-size:14.66666698px;line-height:160.00000238%;fill:#2e3436">Blender Foundation</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot13631"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
@@ -2423,7 +2337,7 @@
          id="tspan13635"
          x="736.83069"
          y="-1389.5458"
-         style="font-size:12px;line-height:1.25">Proprietary</tspan></text>
+         style="font-size:12px;line-height:1.25;font-weight:normal">Proprietary</tspan></text>
     <flowRoot
        transform="translate(683.71345,-1846.3902)"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
@@ -2453,7 +2367,7 @@
        x="962.57239"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        xml:space="preserve"><tspan
-         style="font-size:12px;line-height:1.25;fill:#2e3436"
+         style="font-size:12px;line-height:1.25;fill:#2e3436;font-weight:normal"
          y="-1387.3898"
          x="962.57239"
          id="tspan13649"
@@ -2500,21 +2414,6 @@
          y="-898.84985"
          style="font-size:17.5px;line-height:1.25">Reviews</tspan></text>
     <flowRoot
-       xml:space="preserve"
-       id="flowRoot13675"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-       transform="translate(11.7134,-1779.9627)"><flowRegion
-         id="flowRegion13669"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
-           id="rect13667"
-           width="267.28012"
-           height="274"
-           x="228"
-           y="425" /></flowRegion><flowPara
-         id="flowPara13671"
-         style="font-size:12px;line-height:160.00000238%">Version</flowPara><flowPara
-         style="font-size:14.66666698px;line-height:160.00000238%;fill:#2e3436"
-         id="flowPara13673">2.76</flowPara></flowRoot>    <flowRoot
        transform="translate(459.1385,-1780.3902)"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
        id="flowRoot13685"
@@ -2529,7 +2428,7 @@
          style="font-size:12px;line-height:160.00000238%"
          id="flowPara13681">Download Size</flowPara><flowPara
          id="flowPara13683"
-         style="font-size:14.66666698px;line-height:160.00000238%;fill:#2e3436">90 M</flowPara></flowRoot>    <flowRoot
+         style="font-size:14.66666698px;line-height:160.00000238%;fill:#2e3436">90 MB</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot13695"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
@@ -3441,6 +3340,196 @@
              id="rect8489" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436"
            id="flowPara8493">Unable to determine which parts of the system this application accesses. This is typical for older applications.</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#215d9c;stroke-width:1.0019443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 461.00002,-2088.1389 h 77"
+       id="path6100"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6102"
+       d="M 237,-2088.1388 H 363"
+       style="fill:none;stroke:#215d9c;stroke-width:1.0019443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#dbdbdb;fill-opacity:1;stroke:#555753;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6104"
+       width="104"
+       height="21.99999"
+       x="239"
+       y="-2042.6377"
+       rx="2.9999998"
+       ry="3" />
+    <text
+       id="text6108"
+       y="-2027.3896"
+       x="290.57239"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         style="font-size:12px;line-height:1.25;fill:#2e3436;font-weight:normal"
+         y="-2027.3896"
+         x="290.57239"
+         id="tspan6106"
+         sodipodi:role="line">3.27</tspan></text>
+    <g
+       id="g6146"
+       transform="translate(0,-1106)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6118"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+         transform="translate(8.71345,-2552.3902)"><flowRegion
+           id="flowRegion6112"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+             id="rect6110"
+             width="267.28012"
+             height="274"
+             x="228"
+             y="425" /></flowRegion><flowPara
+           id="flowPara6114"
+           style="font-size:12px;line-height:160.00000238%">Developer</flowPara><flowPara
+           style="font-size:14.66666698px;line-height:160.00000238%;fill:#215d9c;fill-opacity:1"
+           id="flowPara6116">Blender Foundation</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6128"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#215d9c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+         transform="translate(232.71345,-2552.3902)"><flowRegion
+           id="flowRegion6122"
+           style="fill:#215d9c;fill-opacity:1"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#215d9c;fill-opacity:1"
+             id="rect6120"
+             width="267.28012"
+             height="274"
+             x="228"
+             y="425" /></flowRegion><flowPara
+           id="flowPara6124"
+           style="font-size:12px;line-height:160.00000238%;fill:#888a85;fill-opacity:1">Source</flowPara><flowPara
+           style="font-size:14.66666698px;line-height:160.00000238%;fill:#215d9c;fill-opacity:1"
+           id="flowPara6126">Distribution</flowPara></flowRoot>      <path
+         style="fill:none;stroke:#215d9c;stroke-width:1.0019443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 461.00002,-2088.1389 h 77"
+         id="path6130"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6132"
+         d="M 237,-2088.1388 H 363"
+         style="fill:none;stroke:#215d9c;stroke-width:1.0019443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6156"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       transform="translate(11.7134,486.0373)"><flowRegion
+         id="flowRegion6150"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+           id="rect6148"
+           width="267.28012"
+           height="274"
+           x="228"
+           y="425" /></flowRegion><flowPara
+         id="flowPara6152"
+         style="font-size:12px;line-height:160.00000238%">Version</flowPara><flowPara
+         style="font-size:14.66666698px;line-height:160.00000238%;fill:#2e3436"
+         id="flowPara6154">2.76</flowPara></flowRoot>    <rect
+       ry="3"
+       rx="2.9999998"
+       y="929.3623"
+       x="239"
+       height="21.99999"
+       width="104"
+       id="rect6158"
+       style="opacity:1;fill:#dbdbdb;fill-opacity:1;stroke:#555753;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+       x="290.57239"
+       y="944.61041"
+       id="text6162"><tspan
+         sodipodi:role="line"
+         id="tspan6160"
+         x="290.57239"
+         y="944.61041"
+         style="font-weight:normal;font-size:12px;line-height:1.25;fill:#2e3436">3.27</tspan></text>
+    <g
+       id="g6326"
+       transform="translate(0,704)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6274"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+         transform="translate(8.71345,-2552.3902)"><flowRegion
+           id="flowRegion6268"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85"
+             id="rect6266"
+             width="267.28012"
+             height="274"
+             x="228"
+             y="425" /></flowRegion><flowPara
+           id="flowPara6270"
+           style="font-size:12px;line-height:160.00000238%">Developer</flowPara><flowPara
+           style="font-size:14.66666698px;line-height:160.00000238%;fill:#215d9c;fill-opacity:1"
+           id="flowPara6272">Blender Foundation</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6284"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#215d9c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+         transform="translate(232.71345,-2552.3902)"><flowRegion
+           id="flowRegion6278"
+           style="fill:#215d9c;fill-opacity:1"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#215d9c;fill-opacity:1"
+             id="rect6276"
+             width="267.28012"
+             height="274"
+             x="228"
+             y="425" /></flowRegion><flowPara
+           id="flowPara6280"
+           style="font-size:12px;line-height:160.00000238%;fill:#888a85;fill-opacity:1">Source</flowPara><flowPara
+           style="font-size:14.66666698px;line-height:160.00000238%;fill:#215d9c;fill-opacity:1"
+           id="flowPara6282">Distribution</flowPara></flowRoot>      <flowRoot
+         transform="translate(11.7134,-2485.9627)"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+         id="flowRoot6294"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6288"><rect
+             y="425"
+             x="228"
+             height="274"
+             width="267.28012"
+             id="rect6286"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85" /></flowRegion><flowPara
+           style="font-size:12px;line-height:160.00000238%"
+           id="flowPara6290">Version</flowPara><flowPara
+           id="flowPara6292"
+           style="font-size:14.66666698px;line-height:160.00000238%;fill:#2e3436">2.76</flowPara></flowRoot>      <path
+         style="fill:none;stroke:#215d9c;stroke-width:1.0019443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 461.00002,-2088.1389 h 77"
+         id="path6296"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6298"
+         d="M 237,-2088.1388 H 363"
+         style="fill:none;stroke:#215d9c;stroke-width:1.0019443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#dbdbdb;fill-opacity:1;stroke:#555753;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6300"
+         width="104"
+         height="21.99999"
+         x="239"
+         y="-2042.6377"
+         rx="2.9999998"
+         ry="3" />
+      <text
+         id="text6304"
+         y="-2027.3896"
+         x="290.57239"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+         xml:space="preserve"><tspan
+           style="font-weight:normal;font-size:12px;line-height:1.25;fill:#2e3436"
+           y="-2027.3896"
+           x="290.57239"
+           id="tspan6302"
+           sodipodi:role="line">3.27</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
