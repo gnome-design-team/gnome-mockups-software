@@ -728,9 +728,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="522.58102"
-     inkscape:cy="1511.4595"
+     inkscape:zoom="1"
+     inkscape:cx="507.90982"
+     inkscape:cy="1676.4769"
      inkscape:document-units="px"
      inkscape:current-layer="g3244"
      showgrid="false"
@@ -786,7 +786,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -11105,7 +11105,46 @@
            y="1800.6344"
            style="text-align:start;text-anchor:start;fill:#2e3436;" /></flowRegion><flowPara
          id="flowPara8927"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436">Tiếng Việt</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436">Tiếng Việt</flowPara></flowRoot>    <g
+       transform="translate(350.99989,-492.36228)"
+       id="g7407">
+      <text
+         xml:space="preserve"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+         x="280.79553"
+         y="-552.21265"
+         id="text7391"><tspan
+           style="font-size:12px;line-height:1.25"
+           sodipodi:role="line"
+           id="tspan7389"
+           x="280.79553"
+           y="-552.21265">Free</tspan></text>
+      <g
+         id="g7399"
+         transform="translate(-158.99989,291.0001)">
+        <rect
+           style="opacity:1;fill:#dbdbdb;fill-opacity:1;stroke:#555753;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect7393"
+           width="79"
+           height="21.99999"
+           x="401"
+           y="-858.63782"
+           rx="2.9999998"
+           ry="3" />
+        <text
+           id="text7397"
+           y="-843.38977"
+           x="440.73184"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#737373;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+           xml:space="preserve"><tspan
+             style="font-weight:normal;font-size:12px;line-height:1.25;fill:#737373;fill-opacity:1"
+             y="-843.38977"
+             x="440.73184"
+             id="tspan7395"
+             sodipodi:role="line">Web App</tspan></text>
+      </g>
+    </g>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
