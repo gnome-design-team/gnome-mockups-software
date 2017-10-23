@@ -20,7 +20,20 @@
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
-     id="defs6259" />
+     id="defs6259">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1010">
+      <rect
+         mask="none"
+         style="display:inline;opacity:1;fill:#ee2222;fill-opacity:1;stroke:#ee2222;stroke-width:0.26458332;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1012"
+         width="153.19374"
+         height="154.7813"
+         x="-128.75732"
+         y="8.7741613" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,9 +41,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="590.91739"
-     inkscape:cy="296.68062"
+     inkscape:zoom="1"
+     inkscape:cx="647.99985"
+     inkscape:cy="404.52883"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -80,14 +93,6 @@
        id="rect6031"
        style="display:inline;opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#a7a7a7;stroke-width:0.26458332;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        mask="none" />
-    <rect
-       mask="none"
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7a7a7;stroke-width:0.26458332;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect6033"
-       width="132.02708"
-       height="53.181248"
-       x="-118.17426"
-       y="79.682556" />
     <path
        sodipodi:nodetypes="sssccccss"
        inkscape:connector-curvature="0"
@@ -154,118 +159,6 @@
          x="-52.168591"
          y="5.455431"
          style="font-weight:bold;line-height:60.00000238%;stroke-width:0.26458332">Software Sources</tspan></text>
-    <path
-       style="fill:none;stroke:#dbdbdb;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -118.04199,97.409685 c 14.08163,0 131.762502,0 131.762502,0"
-       id="path6063"
-       inkscape:connector-curvature="0" />
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-       ry="0.79374999"
-       rx="0.79375011"
-       y="84.180473"
-       x="-17.897169"
-       height="8.7312498"
-       width="26.19375"
-       id="rect6065"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    <text
-       id="text6069"
-       y="89.812943"
-       x="-4.8676682"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;stroke-width:0.26458332"
-         y="89.812943"
-         x="-4.8676682"
-         id="tspan6067"
-         sodipodi:role="line">Remove...</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-110.57136"
-       y="89.812943"
-       id="text6073"><tspan
-         sodipodi:role="line"
-         id="tspan6071"
-         x="-110.57136"
-         y="89.812943"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;stroke-width:0.26458332">Repository 1</tspan></text>
-    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       id="rect6075"
-       width="26.19375"
-       height="8.7312498"
-       x="-17.897169"
-       y="101.90755"
-       rx="0.79375011"
-       ry="0.79374999"
-       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-4.8676682"
-       y="107.54002"
-       id="text6079"><tspan
-         sodipodi:role="line"
-         id="tspan6077"
-         x="-4.8676682"
-         y="107.54002"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;stroke-width:0.26458332">Remove...</tspan></text>
-    <text
-       id="text6083"
-       y="107.54002"
-       x="-110.57136"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;stroke-width:0.26458332"
-         y="107.54002"
-         x="-110.57136"
-         id="tspan6081"
-         sodipodi:role="line">Repository 1</tspan></text>
-    <path
-       inkscape:connector-curvature="0"
-       id="path6085"
-       d="m -118.04199,115.13679 c 14.08163,0 131.762502,0 131.762502,0"
-       style="fill:none;stroke:#dbdbdb;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
-       ry="0.79374999"
-       rx="0.79375011"
-       y="119.63464"
-       x="-17.897169"
-       height="8.7312498"
-       width="26.19375"
-       id="rect6087"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    <text
-       id="text6091"
-       y="125.26711"
-       x="-4.8676682"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;stroke-width:0.26458332"
-         y="125.26711"
-         x="-4.8676682"
-         id="tspan6089"
-         sodipodi:role="line">Remove...</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-110.57136"
-       y="125.26711"
-       id="text6095"><tspan
-         sodipodi:role="line"
-         id="tspan6093"
-         x="-110.57136"
-         y="125.26711"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;stroke-width:0.26458332">Repository 1</tspan></text>
     <text
        id="text6101"
        y="68.117111"
@@ -486,5 +379,256 @@
        cx="68.489296"
        id="circle892"
        style="fill:#919191;fill-opacity:1;stroke-width:0.26458335" />
+    <g
+       id="g1006"
+       clip-path="url(#clipPath1010)">
+      <rect
+         mask="none"
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#a7a7a7;stroke-width:0.26470584;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect894"
+         width="132.02696"
+         height="106.36237"
+         x="-118.17419"
+         y="79.682594" />
+      <path
+         style="fill:none;stroke:#dbdbdb;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -118.04199,150.59086 c 14.08163,0 131.762502,0 131.762502,0"
+         id="path896"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         ry="0.79374999"
+         rx="0.79375011"
+         y="137.36172"
+         x="-17.897169"
+         height="8.7312498"
+         width="26.19375"
+         id="rect898"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <text
+         id="text902"
+         y="142.99419"
+         x="-4.8676682"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;stroke-width:0.26458332"
+           y="142.99419"
+           x="-4.8676682"
+           id="tspan900"
+           sodipodi:role="line">Remove...</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-110.57136"
+         y="142.99419"
+         id="text906"><tspan
+           sodipodi:role="line"
+           id="tspan904"
+           x="-110.57136"
+           y="142.99419"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;stroke-width:0.26458332">Repository 4</tspan></text>
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect908"
+         width="26.19375"
+         height="8.7312498"
+         x="-17.897169"
+         y="155.08882"
+         rx="0.79375011"
+         ry="0.79374999"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-4.8676682"
+         y="160.72131"
+         id="text912"><tspan
+           sodipodi:role="line"
+           id="tspan910"
+           x="-4.8676682"
+           y="160.72131"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;stroke-width:0.26458332">Remove...</tspan></text>
+      <text
+         id="text916"
+         y="160.72131"
+         x="-110.57136"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;stroke-width:0.26458332"
+           y="160.72131"
+           x="-110.57136"
+           id="tspan914"
+           sodipodi:role="line">Repository 5</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path918"
+         d="m -118.04199,168.31797 c 14.08163,0 131.762502,0 131.762502,0"
+         style="fill:none;stroke:#dbdbdb;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         ry="0.79374999"
+         rx="0.79375011"
+         y="172.81593"
+         x="-17.897169"
+         height="8.7312498"
+         width="26.19375"
+         id="rect920"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <text
+         id="text924"
+         y="178.44841"
+         x="-4.8676682"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;stroke-width:0.26458332"
+           y="178.44841"
+           x="-4.8676682"
+           id="tspan922"
+           sodipodi:role="line">Remove...</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-110.57136"
+         y="178.44841"
+         id="text928"><tspan
+           sodipodi:role="line"
+           id="tspan926"
+           x="-110.57136"
+           y="178.44841"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;stroke-width:0.26458332">Repository 6</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path6063"
+         d="m -118.04199,97.409685 c 14.08163,0 131.762502,0 131.762502,0"
+         style="fill:none;stroke:#dbdbdb;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect6065"
+         width="26.19375"
+         height="8.7312498"
+         x="-17.897169"
+         y="84.180473"
+         rx="0.79375011"
+         ry="0.79374999"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-4.8676682"
+         y="89.812943"
+         id="text6069"><tspan
+           sodipodi:role="line"
+           id="tspan6067"
+           x="-4.8676682"
+           y="89.812943"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;stroke-width:0.26458332">Remove...</tspan></text>
+      <text
+         id="text6073"
+         y="89.812943"
+         x="-110.57136"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;stroke-width:0.26458332"
+           y="89.812943"
+           x="-110.57136"
+           id="tspan6071"
+           sodipodi:role="line">Repository 1</tspan></text>
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         ry="0.79374999"
+         rx="0.79375011"
+         y="101.90755"
+         x="-17.897169"
+         height="8.7312498"
+         width="26.19375"
+         id="rect6075"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <text
+         id="text6079"
+         y="107.54002"
+         x="-4.8676682"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;stroke-width:0.26458332"
+           y="107.54002"
+           x="-4.8676682"
+           id="tspan6077"
+           sodipodi:role="line">Remove...</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-110.57136"
+         y="107.54002"
+         id="text6083"><tspan
+           sodipodi:role="line"
+           id="tspan6081"
+           x="-110.57136"
+           y="107.54002"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;stroke-width:0.26458332">Repository 2</tspan></text>
+      <path
+         style="fill:none;stroke:#dbdbdb;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -118.04199,115.13679 c 14.08163,0 131.762502,0 131.762502,0"
+         id="path6085"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect6087"
+         width="26.19375"
+         height="8.7312498"
+         x="-17.897169"
+         y="119.63464"
+         rx="0.79375011"
+         ry="0.79374999"
+         inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-4.8676682"
+         y="125.26711"
+         id="text6091"><tspan
+           sodipodi:role="line"
+           id="tspan6089"
+           x="-4.8676682"
+           y="125.26711"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;stroke-width:0.26458332">Remove...</tspan></text>
+      <text
+         id="text6095"
+         y="125.26711"
+         x="-110.57136"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70416665px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;stroke-width:0.26458332"
+           y="125.26711"
+           x="-110.57136"
+           id="tspan6093"
+           sodipodi:role="line">Repository 3</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path930"
+         d="m -118.04199,132.8638 c 14.08163,0 131.762502,0 131.762502,0"
+         style="fill:none;stroke:#dbdbdb;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <rect
+       mask="none"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.38589212;stroke:#a7a7a7;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1014"
+       width="0.79374796"
+       height="115.62292"
+       x="22.716377"
+       y="11.287748"
+       ry="0.39687398"
+       rx="0.39687398" />
   </g>
 </svg>
