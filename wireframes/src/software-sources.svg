@@ -14,7 +14,7 @@
    viewBox="0 0 354.54166 211.66666"
    version="1.1"
    id="svg6265"
-   inkscape:version="0.92+devel unknown"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="software-sources.svg"
    inkscape:export-filename="/home/aday/checkout/gnome-mockups-software/wireframes/software-sources.png"
    inkscape:export-xdpi="90"
@@ -29,14 +29,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="635.27149"
-     inkscape:cy="291.31112"
+     inkscape:cx="590.91739"
+     inkscape:cy="296.68062"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1136"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -50,7 +50,11 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-nodes="false"
      borderlayer="true"
-     inkscape:showpageshadow="false" />
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid886" />
+  </sodipodi:namedview>
   <metadata
      id="metadata6262">
     <rdf:RDF>
@@ -59,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -367,14 +371,14 @@
          y="60.708775"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436;stroke-width:0.26458332">Supplemental Software Sources</tspan></text>
     <rect
-       style="display:inline;fill:#eaeaea;fill-opacity:1;stroke:#919191;stroke-width:0.26458329;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       style="display:inline;fill:#eaeaea;fill-opacity:1;stroke:#919191;stroke-width:0.27277973;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        id="rect6133"
-       width="113.50625"
-       height="83.872917"
-       x="53.804913"
-       y="42.111851"
-       rx="2.3812499"
-       ry="2.3812501" />
+       width="113.49805"
+       height="89.156387"
+       x="53.80901"
+       y="42.115948"
+       rx="2.381078"
+       ry="2.5312541" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.76249981px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -388,21 +392,21 @@
          style="stroke-width:0.26458332">Remove Repository 1?</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 53.672621,114.60763 H 167.44345"
+       d="M 53.672621,119.8993 H 167.44345"
        id="path6139"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#919191;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 111.03206,114.47534 V 126.117"
+       d="m 111.03206,119.76701 v 11.64166"
        id="path6141"
        inkscape:connector-curvature="0" />
     <text
        id="text6145"
-       y="121.563"
+       y="126.85467"
        x="82.335602"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416689px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         y="121.563"
+         y="126.85467"
          x="82.335602"
          id="tspan6143"
          sodipodi:role="line"
@@ -422,41 +426,65 @@
            id="rect6147" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;text-anchor:middle;fill:#2e3436"
          id="flowPara6151">Software that has been installed from Repository 1 will be uninstalled. This includes:</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,62.181409,61.558696)"
+       transform="matrix(0.26458333,0,0,0.26458333,68.002246,61.558696)"
        xml:space="preserve"
        id="flowRoot6167"
-       style="font-style:normal;font-weight:bold;font-size:40.00000381px;line-height:60.00000238%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-weight:bold;font-size:40.00000381px;line-height:80.00000119%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion6157"
-         style="line-height:60.00000238%"><rect
+         style="line-height:80.00000119%"><rect
            id="rect6155"
            width="205.99997"
            height="236.99997"
            x="22.413088"
            y="52.999973"
-           style="line-height:60%;text-align:start;text-anchor:start;fill:#2e3436;" /></flowRegion><flowPara
+           style="line-height:80.00000119%;text-align:start;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
          id="flowPara6159"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#2e3436">App 1</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#2e3436">App 1</flowPara><flowPara
          id="flowPara6161"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#2e3436">App 2</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#2e3436">App 2</flowPara><flowPara
          id="flowPara6163"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#2e3436">App 3</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#2e3436">App 3</flowPara><flowPara
          id="flowPara6165"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#2e3436">App4</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;text-anchor:start;fill:#2e3436">App 4</flowPara></flowRoot>    <path
        style="display:inline;fill:#ee2222;fill-opacity:1;stroke:#910f0f;stroke-width:0.26458332;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       d="m 110.42575,114.60765 h 54.50416 2.38125 v 8.99584 c 0,1.31921 -1.06204,2.38125 -2.38125,2.38125 h -54.50416 z"
+       d="m 110.42575,119.89932 h 54.50416 2.38125 v 8.99584 c 0,1.31921 -1.06204,2.38125 -2.38125,2.38125 h -54.50416 z"
        id="path6169"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccsscc" />
     <text
        id="text6173"
-       y="121.563"
+       y="126.85467"
        x="139.0054"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70416689px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         y="121.563"
+         y="126.85467"
          x="139.0054"
          id="tspan6171"
          sodipodi:role="line"
          style="stroke-width:0.26458332">Remove</tspan></text>
+    <circle
+       style="fill:#919191;fill-opacity:1;stroke-width:0.26458335"
+       id="path884"
+       cx="68.489296"
+       cy="81.402328"
+       r="2.6458335" />
+    <circle
+       r="2.6458335"
+       cy="89.868996"
+       cx="68.489296"
+       id="circle888"
+       style="fill:#919191;fill-opacity:1;stroke-width:0.26458335" />
+    <circle
+       style="fill:#919191;fill-opacity:1;stroke-width:0.26458335"
+       id="circle890"
+       cx="68.489296"
+       cy="98.335648"
+       r="2.6458335" />
+    <circle
+       r="2.6458335"
+       cy="106.80231"
+       cx="68.489296"
+       id="circle892"
+       style="fill:#919191;fill-opacity:1;stroke-width:0.26458335" />
   </g>
 </svg>
