@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="650"
+   height="860"
+   viewBox="0 0 171.97916 227.54167"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="updates-process-diagram.svg"
+   inkscape:export-filename="/home/aday/checkout/gnome-mockups-software/updates-process-diagram.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="335.85806"
+     inkscape:cy="466.3555"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-nodes="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-69.458325)">
+    <rect
+       style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect817"
+       width="34.395832"
+       height="15.874999"
+       x="68.791672"
+       y="108.08634" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot819"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-15.875,70.907212)"><flowRegion
+         id="flowRegion821"
+         style="fill:#2e3436"><rect
+           id="rect823"
+           width="230.06224"
+           height="53.790623"
+           x="119.95561"
+           y="58.071407"
+           style="fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara825"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';fill:#2e3436">Auto-updates on</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-15.875,84.665545)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot833"
+       xml:space="preserve"><flowRegion
+         id="flowRegion829"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"><rect
+           y="58.071407"
+           x="119.95561"
+           height="53.790623"
+           width="230.06224"
+           id="rect827"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara831">OS images, firmware, packages</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot843"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,34.989026,57.570052)"><flowRegion
+         id="flowRegion845"
+         style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"><rect
+           id="rect847"
+           width="107"
+           height="107"
+           x="139"
+           y="204.51965"
+           style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara849"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Automatic download</flowPara></flowRoot>    <rect
+       y="108.08634"
+       x="121.70831"
+       height="15.874999"
+       width="34.395832"
+       id="rect851"
+       style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,86.450489,57.570052)"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot859"
+       xml:space="preserve"><flowRegion
+         style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"
+         id="flowRegion855"><rect
+           style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"
+           y="204.51965"
+           x="139"
+           height="107"
+           width="118"
+           id="rect853" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara857">Manual install</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara861">(requires reboot)</flowPara></flowRoot>    <g
+       style="display:inline"
+       transform="matrix(-0.26458333,0,0,0.26458333,141.02299,-84.001157)"
+       id="g3783"
+       inkscape:label="go-next">
+      <rect
+         width="16"
+         height="16"
+         x="-116.0002"
+         y="747"
+         id="rect3779"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         transform="scale(-1,1)" />
+      <path
+         sodipodi:nodetypes="ccscsccsscscc"
+         inkscape:connector-curvature="0"
+         id="path3781"
+         d="m 104.5627,755 5.71875,5.71875 C 110.47732,760.91462 110.74458,761 111.0002,761 h 1 v -1 c 0,-0.25562 -0.0854,-0.52288 -0.28125,-0.71875 L 107.4377,755 l 4.28125,-4.28125 c 0.19587,-0.19587 0.28125,-0.46313 0.28125,-0.71875 v -1 h -1 c -0.25562,0 -0.52288,0.0854 -0.71875,0.28125 z"
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       y="141.95308"
+       x="68.791672"
+       height="15.874992"
+       width="34.395832"
+       id="rect3806"
+       style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3814"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-15.875,118.5322)"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowRegion3810"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+           id="rect3808"
+           width="230.06224"
+           height="53.790623"
+           x="119.95561"
+           y="58.071407" /></flowRegion><flowPara
+         id="flowPara3812"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Flatpaks</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,35.253609,91.436712)"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot3822"
+       xml:space="preserve"><flowRegion
+         style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"
+         id="flowRegion3818"><rect
+           style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"
+           y="204.51965"
+           x="139"
+           height="111"
+           width="105"
+           id="rect3816" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara3820">Automatic download</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3824"
+       width="34.395832"
+       height="15.874992"
+       x="121.70831"
+       y="141.95308" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3834"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,86.450489,91.436712)"><flowRegion
+         id="flowRegion3828"
+         style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"><rect
+           id="rect3826"
+           width="118"
+           height="107"
+           x="139"
+           y="204.51965"
+           style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara3832"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Automatic</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara3956">install</flowPara></flowRoot>    <g
+       inkscape:label="go-next"
+       id="g3840"
+       transform="matrix(-0.26458333,0,0,0.26458333,141.02299,-50.134494)"
+       style="display:inline">
+      <rect
+         transform="scale(-1,1)"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         id="rect3836"
+         y="747"
+         x="-116.0002"
+         height="16"
+         width="16" />
+      <path
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none"
+         d="m 104.5627,755 5.71875,5.71875 C 110.47732,760.91462 110.74458,761 111.0002,761 h 1 v -1 c 0,-0.25562 -0.0854,-0.52288 -0.28125,-0.71875 L 107.4377,755 l 4.28125,-4.28125 c 0.19587,-0.19587 0.28125,-0.46313 0.28125,-0.71875 v -1 h -1 c -0.25562,0 -0.52288,0.0854 -0.71875,0.28125 z"
+         id="path3838"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccscsccsscscc" />
+    </g>
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-15.875,160.33633)"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot3852"
+       xml:space="preserve"><flowRegion
+         style="fill:#2e3436"
+         id="flowRegion3848"><rect
+           style="fill:#2e3436"
+           y="58.071407"
+           x="119.95561"
+           height="53.790623"
+           width="230.06224"
+           id="rect3846" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:21.33333397px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';fill:#2e3436"
+         id="flowPara3850">Auto-updates off</flowPara></flowRoot>    <rect
+       y="108.08634"
+       x="15.874999"
+       height="15.874999"
+       width="34.395832"
+       id="rect3922"
+       style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-19.382848,59.545606)"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot3930"
+       xml:space="preserve"><flowRegion
+         style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"
+         id="flowRegion3926"><rect
+           style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"
+           y="204.51965"
+           x="139"
+           height="107"
+           width="118"
+           id="rect3924" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara3928">Automatic check</flowPara></flowRoot>    <g
+       inkscape:label="go-next"
+       id="g3938"
+       transform="matrix(-0.26458333,0,0,0.26458333,88.106299,-84.001157)"
+       style="display:inline">
+      <rect
+         transform="scale(-1,1)"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         id="rect3934"
+         y="747"
+         x="-116.0002"
+         height="16"
+         width="16" />
+      <path
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none"
+         d="m 104.5627,755 5.71875,5.71875 C 110.47732,760.91462 110.74458,761 111.0002,761 h 1 v -1 c 0,-0.25562 -0.0854,-0.52288 -0.28125,-0.71875 L 107.4377,755 l 4.28125,-4.28125 c 0.19587,-0.19587 0.28125,-0.46313 0.28125,-0.71875 v -1 h -1 c -0.25562,0 -0.52288,0.0854 -0.71875,0.28125 z"
+         id="path3936"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccscsccsscscc" />
+    </g>
+    <rect
+       style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3940"
+       width="34.395832"
+       height="15.874992"
+       x="15.874999"
+       y="141.95308" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3948"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-19.382848,93.41226)"><flowRegion
+         id="flowRegion3944"
+         style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"><rect
+           id="rect3942"
+           width="118"
+           height="107"
+           x="139"
+           y="204.51965"
+           style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara3946"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Automatic check</flowPara></flowRoot>    <g
+       style="display:inline"
+       transform="matrix(-0.26458333,0,0,0.26458333,88.106299,-50.134484)"
+       id="g3954"
+       inkscape:label="go-next">
+      <rect
+         width="16"
+         height="16"
+         x="-116.0002"
+         y="747"
+         id="rect3950"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         transform="scale(-1,1)" />
+      <path
+         sodipodi:nodetypes="ccscsccsscscc"
+         inkscape:connector-curvature="0"
+         id="path3952"
+         d="m 104.5627,755 5.71875,5.71875 C 110.47732,760.91462 110.74458,761 111.0002,761 h 1 v -1 c 0,-0.25562 -0.0854,-0.52288 -0.28125,-0.71875 L 107.4377,755 l 4.28125,-4.28125 c 0.19587,-0.19587 0.28125,-0.46313 0.28125,-0.71875 v -1 h -1 c -0.25562,0 -0.52288,0.0854 -0.71875,0.28125 z"
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       y="230.32489"
+       x="68.791672"
+       height="15.874999"
+       width="34.395832"
+       id="rect3958"
+       style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3966"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-15.875,206.37359)"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowRegion3962"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+           id="rect3960"
+           width="230.06224"
+           height="53.790623"
+           x="119.95561"
+           y="58.071407" /></flowRegion><flowPara
+         id="flowPara3964"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">OS images, firmware</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,34.989026,182.31203)"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot3974"
+       xml:space="preserve"><flowRegion
+         style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"
+         id="flowRegion3970"><rect
+           style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"
+           y="204.51965"
+           x="139"
+           height="107"
+           width="107"
+           id="rect3968" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara3972">Manual download</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3976"
+       width="34.395832"
+       height="15.874999"
+       x="121.70831"
+       y="230.32489" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3986"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,86.450489,180.3365)"><flowRegion
+         id="flowRegion3980"
+         style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"><rect
+           id="rect3978"
+           width="118"
+           height="107"
+           x="139"
+           y="204.51965"
+           style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara3982"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Manual install</flowPara><flowPara
+         id="flowPara3984"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">(requires reboot)</flowPara></flowRoot>    <g
+       inkscape:label="go-next"
+       id="g3992"
+       transform="matrix(-0.26458333,0,0,0.26458333,141.02299,38.76553)"
+       style="display:inline">
+      <rect
+         transform="scale(-1,1)"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         id="rect3988"
+         y="747"
+         x="-116.0002"
+         height="16"
+         width="16" />
+      <path
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none"
+         d="m 104.5627,755 5.71875,5.71875 C 110.47732,760.91462 110.74458,761 111.0002,761 h 1 v -1 c 0,-0.25562 -0.0854,-0.52288 -0.28125,-0.71875 L 107.4377,755 l 4.28125,-4.28125 c 0.19587,-0.19587 0.28125,-0.46313 0.28125,-0.71875 v -1 h -1 c -0.25562,0 -0.52288,0.0854 -0.71875,0.28125 z"
+         id="path3990"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccscsccsscscc" />
+    </g>
+    <rect
+       style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3994"
+       width="34.395832"
+       height="15.874999"
+       x="15.874999"
+       y="230.32489" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4002"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-19.382848,182.31204)"><flowRegion
+         id="flowRegion3998"
+         style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"><rect
+           id="rect3996"
+           width="118"
+           height="107"
+           x="139"
+           y="204.51965"
+           style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara4000"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Automatic check</flowPara></flowRoot>    <g
+       style="display:inline"
+       transform="matrix(-0.26458333,0,0,0.26458333,88.106299,38.76553)"
+       id="g4008"
+       inkscape:label="go-next">
+      <rect
+         width="16"
+         height="16"
+         x="-116.0002"
+         y="747"
+         id="rect4004"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         transform="scale(-1,1)" />
+      <path
+         sodipodi:nodetypes="ccscsccsscscc"
+         inkscape:connector-curvature="0"
+         id="path4006"
+         d="m 104.5627,755 5.71875,5.71875 C 110.47732,760.91462 110.74458,761 111.0002,761 h 1 v -1 c 0,-0.25562 -0.0854,-0.52288 -0.28125,-0.71875 L 107.4377,755 l 4.28125,-4.28125 c 0.19587,-0.19587 0.28125,-0.46313 0.28125,-0.71875 v -1 h -1 c -0.25562,0 -0.52288,0.0854 -0.71875,0.28125 z"
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4010"
+       width="34.395832"
+       height="15.874999"
+       x="68.791672"
+       y="263.66248" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-15.875,240.24023)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot4018"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4014"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"><rect
+           y="58.071407"
+           x="119.95561"
+           height="53.790623"
+           width="230.06224"
+           id="rect4012"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara4016">Flatpaks</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4026"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,34.989026,215.64942)"><flowRegion
+         id="flowRegion4022"
+         style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"><rect
+           id="rect4020"
+           width="107"
+           height="107"
+           x="139"
+           y="204.51965"
+           style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara4024"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Manual download</flowPara></flowRoot>    <rect
+       y="263.66248"
+       x="121.70831"
+       height="15.874999"
+       width="34.395832"
+       id="rect4028"
+       style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,86.450489,213.67387)"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot4038"
+       xml:space="preserve"><flowRegion
+         style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"
+         id="flowRegion4032"><rect
+           style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"
+           y="204.51965"
+           x="139"
+           height="107"
+           width="118"
+           id="rect4030" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara4036">Automatic install after download</flowPara></flowRoot>    <g
+       style="display:inline"
+       transform="matrix(-0.26458333,0,0,0.26458333,141.02299,72.10302)"
+       id="g4044"
+       inkscape:label="go-next">
+      <rect
+         width="16"
+         height="16"
+         x="-116.0002"
+         y="747"
+         id="rect4040"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         transform="scale(-1,1)" />
+      <path
+         sodipodi:nodetypes="ccscsccsscscc"
+         inkscape:connector-curvature="0"
+         id="path4042"
+         d="m 104.5627,755 5.71875,5.71875 C 110.47732,760.91462 110.74458,761 111.0002,761 h 1 v -1 c 0,-0.25562 -0.0854,-0.52288 -0.28125,-0.71875 L 107.4377,755 l 4.28125,-4.28125 c 0.19587,-0.19587 0.28125,-0.46313 0.28125,-0.71875 v -1 h -1 c -0.25562,0 -0.52288,0.0854 -0.71875,0.28125 z"
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       y="263.66248"
+       x="15.874999"
+       height="15.874999"
+       width="34.395832"
+       id="rect4046"
+       style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-19.382848,215.64943)"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot4054"
+       xml:space="preserve"><flowRegion
+         style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"
+         id="flowRegion4050"><rect
+           style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"
+           y="204.51965"
+           x="139"
+           height="107"
+           width="118"
+           id="rect4048" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara4052">Automatic check</flowPara></flowRoot>    <g
+       inkscape:label="go-next"
+       id="g4060"
+       transform="matrix(-0.26458333,0,0,0.26458333,88.106299,72.10302)"
+       style="display:inline">
+      <rect
+         transform="scale(-1,1)"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         id="rect4056"
+         y="747"
+         x="-116.0002"
+         height="16"
+         width="16" />
+      <path
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none"
+         d="m 104.5627,755 5.71875,5.71875 C 110.47732,760.91462 110.74458,761 111.0002,761 h 1 v -1 c 0,-0.25562 -0.0854,-0.52288 -0.28125,-0.71875 L 107.4377,755 l 4.28125,-4.28125 c 0.19587,-0.19587 0.28125,-0.46313 0.28125,-0.71875 v -1 h -1 c -0.25562,0 -0.52288,0.0854 -0.71875,0.28125 z"
+         id="path4058"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccscsccsscscc" />
+    </g>
+    <rect
+       y="196.98746"
+       x="68.791672"
+       height="15.874999"
+       width="34.395832"
+       id="rect4064"
+       style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4072"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-15.875,173.5652)"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowRegion4068"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+           id="rect4066"
+           width="230.06224"
+           height="53.790623"
+           x="119.95561"
+           y="58.071407" /></flowRegion><flowPara
+         id="flowPara4070"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Packages</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,34.989026,148.97449)"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot4080"
+       xml:space="preserve"><flowRegion
+         style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"
+         id="flowRegion4076"><rect
+           style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"
+           y="204.51965"
+           x="139"
+           height="107"
+           width="107"
+           id="rect4074" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
+         id="flowPara4078">Manual download</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4082"
+       width="34.395832"
+       height="15.874999"
+       x="121.70831"
+       y="196.98746" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4090"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,86.450489,146.99895)"><flowRegion
+         id="flowRegion4086"
+         style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"><rect
+           id="rect4084"
+           width="118"
+           height="107"
+           x="139"
+           y="204.51965"
+           style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara4088"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Manual install (requires reboot)</flowPara></flowRoot>    <g
+       inkscape:label="go-next"
+       id="g4096"
+       transform="matrix(-0.26458333,0,0,0.26458333,141.02299,5.4280227)"
+       style="display:inline">
+      <rect
+         transform="scale(-1,1)"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         id="rect4092"
+         y="747"
+         x="-116.0002"
+         height="16"
+         width="16" />
+      <path
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none"
+         d="m 104.5627,755 5.71875,5.71875 C 110.47732,760.91462 110.74458,761 111.0002,761 h 1 v -1 c 0,-0.25562 -0.0854,-0.52288 -0.28125,-0.71875 L 107.4377,755 l 4.28125,-4.28125 c 0.19587,-0.19587 0.28125,-0.46313 0.28125,-0.71875 v -1 h -1 c -0.25562,0 -0.52288,0.0854 -0.71875,0.28125 z"
+         id="path4094"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccscsccsscscc" />
+    </g>
+    <rect
+       style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4098"
+       width="34.395832"
+       height="15.874999"
+       x="15.874999"
+       y="196.98746" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4106"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-19.382848,148.9745)"><flowRegion
+         id="flowRegion4102"
+         style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"><rect
+           id="rect4100"
+           width="118"
+           height="107"
+           x="139"
+           y="204.51965"
+           style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara4104"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Manual check</flowPara></flowRoot>    <g
+       style="display:inline"
+       transform="matrix(-0.26458333,0,0,0.26458333,88.106299,5.4280227)"
+       id="g4112"
+       inkscape:label="go-next">
+      <rect
+         width="16"
+         height="16"
+         x="-116.0002"
+         y="747"
+         id="rect4108"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         transform="scale(-1,1)" />
+      <path
+         sodipodi:nodetypes="ccscsccsscscc"
+         inkscape:connector-curvature="0"
+         id="path4110"
+         d="m 104.5627,755 5.71875,5.71875 C 110.47732,760.91462 110.74458,761 111.0002,761 h 1 v -1 c 0,-0.25562 -0.0854,-0.52288 -0.28125,-0.71875 L 107.4377,755 l 4.28125,-4.28125 c 0.19587,-0.19587 0.28125,-0.46313 0.28125,-0.71875 v -1 h -1 c -0.25562,0 -0.52288,0.0854 -0.71875,0.28125 z"
+         style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>
