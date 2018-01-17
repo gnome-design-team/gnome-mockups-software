@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="4690"
+   width="4900"
    height="1760"
-   viewBox="0 0 4690 1760"
+   viewBox="0 0 4900 1760"
    id="svg14346"
    version="1.1"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
@@ -30,8 +30,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25"
-     inkscape:cx="2405.7145"
-     inkscape:cy="741.37449"
+     inkscape:cx="2534.0117"
+     inkscape:cy="806.90848"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -554,12 +554,12 @@
          sodipodi:role="line">1 day old</tspan></text>
     <path
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 51.486001,-84.139183 H 896.5135"
+       d="m 235.486,-84.139183 h 845.0275"
        id="path7441"
        inkscape:connector-curvature="0" />
     <rect
        y="-139.13934"
-       x="50.499023"
+       x="234.49902"
        height="119.00203"
        width="847.00183"
        id="rect7443"
@@ -570,41 +570,41 @@
     <text
        id="text7447"
        y="-47.555878"
-       x="136.90945"
+       x="322.20828"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;stroke-width:0.99999994"
          y="-47.555878"
-         x="136.90945"
+         x="322.20828"
          id="tspan7445"
          sodipodi:role="line">X1100 Laptop Firmware</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path7459"
-       d="M 51.486001,-84.139683 H 896.5135"
+       d="m 235.486,-84.139683 h 845.0275"
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="66.299927"
+       x="250.29993"
        y="-106.85175"
        id="text7463"><tspan
          style="font-weight:bold;line-height:60.00000238%;fill:#2e3436"
          sodipodi:role="line"
          id="tspan7461"
-         x="66.299927"
+         x="250.29993"
          y="-106.85175">Integrated Firmware</tspan></text>
     <text
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="349.16751"
+       x="534.46631"
        y="-47.555389"
        id="text7469"><tspan
          sodipodi:role="line"
          id="tspan7467"
-         x="349.16751"
+         x="534.46631"
          y="-47.555389"
          style="line-height:60.00000238%;text-align:end;text-anchor:end;fill:#919191;fill-opacity:1;stroke-width:0.99999994">1.62</tspan></text>
     <rect
@@ -614,7 +614,7 @@
        ry="3"
        rx="3.0000005"
        y="-69.139832"
-       x="737.5"
+       x="921.5"
        height="33"
        width="149"
        id="rect7471"
@@ -622,12 +622,12 @@
     <text
        id="text7475"
        y="-47.852234"
-       x="811.62402"
+       x="995.62402"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;fill-opacity:1"
          y="-47.852234"
-         x="811.62402"
+         x="995.62402"
          id="tspan7473"
          sodipodi:role="line">Restart &amp; Update</tspan></text>
     <image
@@ -636,7 +636,7 @@
        preserveAspectRatio="none"
        height="32"
        width="32"
-       x="76"
+       x="260"
        y="-68.639832" />
     <g
        inkscape:label="devices"
@@ -691,7 +691,7 @@
        xml:space="preserve"
        id="flowRoot1601"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(5.0126005,1331.3621)"><flowRegion
+       transform="translate(189.0126,1351.3621)"><flowRegion
          id="flowRegion1597"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'"><rect
            id="rect1595"
@@ -702,7 +702,7 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'" /></flowRegion><flowPara
          id="flowPara1599"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';fill:#2e3436">Updates ready</flowPara></flowRoot>    <flowRoot
-       transform="translate(5.0126005,1367.3621)"
+       transform="translate(189.0126,1387.3621)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot1609"
        xml:space="preserve"><flowRegion
@@ -715,14 +715,14 @@
            width="624"
            id="rect1603" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
-         id="flowPara1607">Shown when updates have been downloaded, either automatically or manually. For Flatpaks you'd only see this when auto-updates are turned off.</flowPara></flowRoot>    <path
+         id="flowPara1607">Shown when updates have been downloaded, either automatically or manually. This state doesn't exist for Flatpaks because they are always installed immediately after download.</flowPara></flowRoot>    <path
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 51.486001,109.86072 H 896.5135"
+       d="m 235.486,109.86072 h 845.0275"
        id="path1611"
        inkscape:connector-curvature="0" />
     <rect
        y="54.861633"
-       x="50.499878"
+       x="234.49988"
        height="375.00021"
        width="847.00024"
        id="rect1613"
@@ -733,59 +733,59 @@
     <text
        id="text1617"
        y="145.08279"
-       x="136.90945"
+       x="322.20828"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;stroke-width:0.99999994"
          y="145.08279"
-         x="136.90945"
+         x="322.20828"
          id="tspan1615"
          sodipodi:role="line">OS Update</tspan></text>
     <path
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 51.486001,173.86052 H 896.5135"
+       d="m 235.486,173.86052 h 845.0275"
        id="path1619"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="136.90945"
+       x="322.20828"
        y="208.83035"
        id="text1623"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;stroke-width:0.99999994"
          sodipodi:role="line"
          id="tspan1621"
-         x="136.90945"
+         x="322.20828"
          y="208.83035">Clocks</tspan></text>
     <text
        id="text1627"
        y="208.74686"
-       x="277.89774"
+       x="463.19656"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;fill:#919191;fill-opacity:1;stroke-width:0.99999994"
          y="208.74686"
-         x="277.89774"
+         x="463.19656"
          id="tspan1625"
          sodipodi:role="line">3.26.1</tspan></text>
     <text
        id="text1631"
        y="272.87796"
-       x="136.90945"
+       x="322.20828"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;stroke-width:0.99999994"
          y="272.87796"
-         x="136.90945"
+         x="322.20828"
          id="tspan1629"
          sodipodi:role="line">Disks</tspan></text>
     <g
        id="g1651"
-       transform="matrix(1.7628112,0,0,1.7877861,77.8979,126.85992)"
+       transform="matrix(1.7628112,0,0,1.7877861,261.8979,126.85992)"
        style="display:inline;fill:#555753;stroke-width:1.00705886">
       <g
          style="display:inline;fill:#2e3436;stroke-width:1.00705886"
@@ -837,32 +837,32 @@
     <text
        id="text1656"
        y="336.42972"
-       x="136.90945"
+       x="322.20828"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;stroke-width:0.99999994"
          y="336.42972"
-         x="136.90945"
+         x="322.20828"
          sodipodi:role="line"
          id="tspan1654">Cantarell</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="136.90945"
+       x="322.20828"
        y="399.98123"
        id="text1660"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;stroke-width:0.99999994"
          id="tspan1658"
          sodipodi:role="line"
-         x="136.90945"
+         x="322.20828"
          y="399.98123">Pinyin</tspan></text>
     <g
        style="display:inline;stroke-width:0.33568633"
        inkscape:label="system-run"
        id="g1668"
-       transform="matrix(1.75,0,0,1.7747934,6.2497005,-214.44288)">
+       transform="matrix(1.75,0,0,1.7747934,190.2497,-214.44288)">
       <rect
          style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.33568633;marker:none"
          id="rect1662"
@@ -886,37 +886,37 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.3868084px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.60328645"
-       x="78.397736"
+       x="263.69656"
        y="340.22415"
        id="text1672"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="font-size:25.55979919px;line-height:60.00000238%;stroke-width:0.60328645"
          id="tspan1670"
          sodipodi:role="line"
-         x="78.397736"
+         x="263.69656"
          y="340.22415">Aa</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path1674"
-       d="M 51.486001,109.86022 H 896.5135"
+       d="m 235.486,109.86022 h 845.0275"
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="66.300049"
+       x="250.30005"
        y="87.148247"
        id="text1678"><tspan
          style="font-weight:bold;line-height:60.00000238%;fill:#2e3436"
          sodipodi:role="line"
          id="tspan1676"
-         x="66.300049"
+         x="250.30005"
          y="87.148247">Requires Restart</tspan></text>
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5288;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect1680"
        width="149"
        height="33"
-       x="737.5"
+       x="921.5"
        y="65.860168"
        rx="3.0000005"
        ry="3"
@@ -926,17 +926,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="811.62402"
+       x="995.62402"
        y="87.316223"
        id="text1684"><tspan
          sodipodi:role="line"
          id="tspan1682"
-         x="811.62402"
+         x="995.62402"
          y="87.316223"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff">Restart &amp; Update</tspan></text>
     <image
        y="189.36017"
-       x="76"
+       x="260"
        width="32"
        height="32"
        preserveAspectRatio="none"
@@ -945,59 +945,59 @@
     <path
        inkscape:connector-curvature="0"
        id="path1688"
-       d="M 51.486001,237.86202 H 896.5135"
+       d="m 235.486,237.86202 h 845.0275"
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 51.486001,301.86002 H 896.5135"
+       d="m 235.486,301.86002 h 845.0275"
        id="path1690"
        inkscape:connector-curvature="0" />
     <text
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="277.89774"
+       x="463.19656"
        y="272.87796"
        id="text1694"><tspan
          sodipodi:role="line"
          id="tspan1692"
-         x="277.89774"
+         x="463.19656"
          y="272.87796"
          style="line-height:60.00000238%;fill:#919191;fill-opacity:1;stroke-width:0.99999994">3.26.1</tspan></text>
     <text
        id="text1698"
        y="336.42972"
-       x="277.89774"
+       x="463.19656"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;fill:#919191;fill-opacity:1;stroke-width:0.99999994"
          y="336.42972"
-         x="277.89774"
+         x="463.19656"
          id="tspan1696"
          sodipodi:role="line">3.26.1</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path1700"
-       d="M 51.486001,365.86102 H 896.5135"
+       d="m 235.486,365.86102 h 845.0275"
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="277.89774"
+       x="463.19656"
        y="399.98123"
        id="text1704"><tspan
          sodipodi:role="line"
          id="tspan1702"
-         x="277.89774"
+         x="463.19656"
          y="399.98123"
          style="line-height:60.00000238%;fill:#919191;fill-opacity:1;stroke-width:0.99999994">1.04</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot1712"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="translate(-1153.8202,-1475.1509)"><flowRegion
+       transform="translate(-969.8202,-1475.1509)"><flowRegion
          id="flowRegion1708"
          style="line-height:60.00000238%"><rect
            id="rect1706"
@@ -1009,7 +1009,7 @@
          style="line-height:60.00000238%;fill:#2e3436"
          id="flowPara1710">Includes performance, stability and security improvements.</flowPara></flowRoot>    <image
        y="253.86115"
-       x="76"
+       x="260"
        width="32"
        height="32"
        preserveAspectRatio="none"
@@ -1017,12 +1017,12 @@
        id="image1714" />
     <path
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 51.486001,877.86072 H 896.5135"
+       d="m 235.486,877.86072 h 845.0275"
        id="path1760"
        inkscape:connector-curvature="0" />
     <rect
        y="822.86139"
-       x="50.499634"
+       x="234.49963"
        height="183.0007"
        width="847.00079"
        id="rect1762"
@@ -1033,59 +1033,59 @@
     <text
        id="text1766"
        y="907.70197"
-       x="136.90945"
+       x="322.20828"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;stroke-width:0.99999994"
          y="907.70197"
-         x="136.90945"
+         x="322.20828"
          id="tspan1764"
          sodipodi:role="line">X1000 Keyboard Firmware</tspan></text>
     <path
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 51.486001,941.86052 H 896.5135"
+       d="m 235.486,941.86052 h 845.0275"
        id="path1768"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="136.90945"
+       x="322.20828"
        y="971.44977"
        id="text1772"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;stroke-width:0.99999994"
          sodipodi:role="line"
          id="tspan1770"
-         x="136.90945"
+         x="322.20828"
          y="971.44977">X100 Mouse Firmware</tspan></text>
     <text
        id="text1777"
        y="971.36627"
-       x="302.06729"
+       x="487.36612"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;text-align:start;text-anchor:start;fill:#919191;fill-opacity:1;stroke-width:0.99999994"
          y="971.36627"
-         x="302.06729"
+         x="487.36612"
          id="tspan1775"
          sodipodi:role="line">1.02</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path1779"
-       d="M 51.486001,877.86022 H 896.5135"
+       d="m 235.486,877.86022 h 845.0275"
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="66.300049"
+       x="250.30005"
        y="855.14825"
        id="text1783"><tspan
          style="font-weight:bold;line-height:60.00000238%;fill:#2e3436"
          sodipodi:role="line"
          id="tspan1781"
-         x="66.300049"
+         x="250.30005"
          y="855.14825">Device Firmware</tspan></text>
     <image
        id="image1785"
@@ -1093,18 +1093,18 @@
        preserveAspectRatio="none"
        height="32"
        width="32"
-       x="76"
+       x="260"
        y="957.36017" />
     <text
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="334.29337"
+       x="519.59216"
        y="907.70245"
        id="text1789"><tspan
          sodipodi:role="line"
          id="tspan1787"
-         x="334.29337"
+         x="519.59216"
          y="907.70245"
          style="line-height:60.00000238%;text-align:start;text-anchor:start;fill:#919191;fill-opacity:1;stroke-width:0.99999994">1.02</tspan></text>
     <rect
@@ -1114,7 +1114,7 @@
        ry="3"
        rx="3.0000005"
        y="892.86017"
-       x="737.5"
+       x="921.5"
        height="33"
        width="149"
        id="rect1791"
@@ -1122,12 +1122,12 @@
     <text
        id="text1795"
        y="914.14777"
-       x="811.70801"
+       x="995.70801"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;fill-opacity:1"
          y="914.14777"
-         x="811.70801"
+         x="995.70801"
          id="tspan1793"
          sodipodi:role="line">Update</tspan></text>
     <rect
@@ -1135,7 +1135,7 @@
        id="rect1797"
        width="149"
        height="33"
-       x="737.5"
+       x="921.5"
        y="956.86017"
        rx="3.0000005"
        ry="3"
@@ -1145,12 +1145,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="811.70801"
+       x="995.70801"
        y="978.14825"
        id="text1801"><tspan
          sodipodi:role="line"
          id="tspan1799"
-         x="811.70801"
+         x="995.70801"
          y="978.14825"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;fill-opacity:1">Update</tspan></text>
     <image
@@ -1159,18 +1159,18 @@
        preserveAspectRatio="none"
        height="32"
        width="32"
-       x="76"
+       x="260"
        y="893.36017" />
     <image
        y="957.36017"
-       x="76"
+       x="260"
        width="32"
        height="32"
        preserveAspectRatio="none"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAAMdEVY dFRpdGxlAEJhb2JhYqgb1dQAAAAXdEVYdEF1dGhvcgBMYXBvIENhbGFtYW5kcmVp35EaKgAABgNJ REFUWIXlVttrFFcYPzM7u+smWaMmMVmTjRofmqAtqIU+CBb6UJA+FhV88C8o+qC1D1KiSA21SoXS WKXS+lBKn4OJllQMjRahtTSYqDVWNJfNPW42l81eZvr7Dd+J0824jdC3HviYme98l993OWc+pf7v y3jZxv79+/vwaLJtWzmOM2EYRn02m20H7y18K/CnV61a9dr8/HwQ33+B1lAW1Ldr167Xu7u7/4DO NspCL9HV1VULXacogL1790YCgcBDvFaGQqHIkSNHXP6ZM2ey6XQ6B4ORQ4cOqfLycnXp0qXs06dP 83Bo1NTUGIcPHw5BRp06dcpexIKdSEtLizJNUx0/ftxJpVJpyFL+g1u3bl3xBXDw4ME3oNBdUVER ZTSTk5Mqk8moWCzmGmI05NFRbW2t+82FCNXg4KAKh8OqurpaAai7Nz4+7u7DnsubmppST548+f72 7dsHtE/Lmw043WRZlpqbm1OIbmkjmUwuK5Hm0ZEGQj0C1DxNw8PDqrS0VIPbJIE7XgCGGNsICudy OYUU+vaGdub3LEb5fN7NEBZ7wQTZVPNmwEQGtsBxkMJM+ctWodOVAkBf0W6VBJ5VgsQQCgBAI0pg aADMgpfIe1Vi7XVPuA5NM4xSlItv5Q2TqDYRJQH4OdS8fwOjnZK8PJYWRze7du3auPbt7QET0Vez TjwBugRUXEnNvUufGNrx8gSACgaDBNBL80s9gLMdhLMoM0BFvyZcSb0LnXq/CQDOTVDdsgxs3769 FhnIwEhEp8xvvapTbwYJAAFa4G0QAC8yEI1G44g6r9Ova1gseu2omFP9rnsAAAzI1ys5+ksAsBHH RqAYgMJae/cLnXqfep83ZllZGe1vLMyAgejjABGmkHaur9BCx8UWZQcGBlxnhSDIQ/3ZXzFV2ANA tQUnwKSQXs+fP18y4E279+nH4zH2WxoAfFUKAHOpBHDUwBPA+1wjXrdunW+EIyMjRUFoOe+TS98v oKgEb3gB1BIA/qSuEUY+Nja2zLnXqR+9zLneZxZw2vLxeLwKpUq6KKQElUwPBTQA/Sw0ulLyk6d9 BGrj78if0mNvD4SYfm8JZMLxjcTPmTf9frck3zlLsBqgUm8P8E84D3Rls7OzCmPWstr/V4tHHH4s BMppxdAl4ORzF2PT7oaGBpVIJNzBoqSkRKFW7n+clwiHlIWFBUUZ7un7Qk8/Q0NDqrKycmmC0jrM an19PS87l48s2Kj/qPLeAzDcBke70aF2c3OzOQ8l/jhaL1zIT09PB1C33EfHjlkEw6np/PnzagHp ZGcTxIdHj7pP7p09d85BJo1IJJI70dxsUYblOXHyZJ6g0Oh3pQwvbsK2trYf8Phl37597VVVVauj mze7aJGZfF9f39Wmpqb3Yhs2qPXr17v8mVTqWUdHxzcs7Z49ez6uicUCPLZyLed6enq+27Fjx4G6 ujpVgnGMp2tmZubBvXv3vsD7fejlqMvLwBE0vIHSyMSf7Vev5kdHR9VPN27YQGxC8TH4c52dnQ6H T4zYDvpkFvKToHGUwP7x+nVnGCXounmTZTIAfJDDcXtHh8u/du0abSXB49mm7iJB6H+uKRRE/fuC odD7jY2N1mdnz/58586dVvDuo453YeDdbVu3Gt9euZLD3P8pjCWgk4TDXmTkHURsfH358uKjR48u A+hvqHUPAnn7zZ07Tdga6u3t/Rw2BgkaNMPW0xMRM5ABzaERidBE3Zz+/v7OiYmJfnyPwFCPPsdw nENWBsBnI42h+X5H/W39ywWgB+ADd+JX8ph+2BsBoBHwp0EpyUDekhI4UpM0LiOewcxXFy/OQmEY 71NUQteXwsjEl62tDkBMSPqnRM9Gyp99cvp0Keq/CBoCjzIRvCdOt7RY2O8XeUa+oHtA/0/doZQK oApQNSgqWaFSUmRWCykxlJTslYHWgDh3pyVKOgkJv0QcTou9lPTcP8ZyW5gp6YeUKLFh9M3klkne 08LXeosSRFb4lLWEHxag80I5nXnv3GWI45AoWGI8o9EKT4PWJ0eJXlCemm/LtyVPXeacyHA5fwM/ wdJQ5Xgx3gAAAABJRU5ErkJggg== "
        id="image1805" />
     <flowRoot
-       transform="translate(945.0126,1331.3621)"
+       transform="translate(1129.0126,1351.3621)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot1813"
        xml:space="preserve"><flowRegion
@@ -1187,7 +1187,7 @@
        xml:space="preserve"
        id="flowRoot1821"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(945.0126,1367.3621)"><flowRegion
+       transform="translate(1129.0126,1387.3621)"><flowRegion
          id="flowRegion1817"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell"><rect
            id="rect1815"
@@ -1197,9 +1197,9 @@
            y="-1920"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara1819"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Shown when automatic updates are turned off and a check has found updates.</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Shown when automatic updates are turned off and a check has found updates. (If automatic updates are on and a manual check is performed, the update is automatically downloaded.)</flowPara></flowRoot>    <g
        id="g2596"
-       transform="translate(-1610,3759.9998)">
+       transform="translate(-1426,3759.9998)">
       <g
          transform="translate(0,32.000117)"
          id="g2433">
@@ -1523,7 +1523,7 @@
     </g>
     <g
        id="g2376"
-       transform="translate(-1610,3758.9998)">
+       transform="translate(-1426,3758.9998)">
       <path
          style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
          d="m 2601.486,-3843.1387 h 845.0275"
@@ -1630,7 +1630,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path1966"
-       d="m 991.486,558.86062 h 845.0275"
+       d="m 1175.486,558.86062 h 845.0275"
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     <rect
        ry="3"
@@ -1640,34 +1640,34 @@
        id="rect1968"
        width="847"
        height="247"
-       x="990.5"
+       x="1174.5"
        y="503.86188" />
     <text
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="1083.546"
+       x="1268.8455"
        y="590.94244"
        id="text1972"><tspan
          sodipodi:role="line"
          id="tspan1970"
-         x="1083.546"
+         x="1268.8455"
          y="590.94244"
          style="line-height:60.00000238%;stroke-width:0.99999994">Inkscape</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path1974"
-       d="m 991.486,622.86042 h 845.0275"
+       d="m 1175.486,622.86042 h 845.0275"
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        transform="scale(0.99299057,1.0070589)"
        id="text1978"
        y="654.69025"
-       x="1083.546"
+       x="1268.8455"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"><tspan
          y="654.69025"
-         x="1083.546"
+         x="1268.8455"
          id="tspan1976"
          sodipodi:role="line"
          style="line-height:60.00000238%;stroke-width:0.99999994">Recipes</tspan></text>
@@ -1675,39 +1675,39 @@
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="1224.5343"
+       x="1409.8337"
        y="654.60675"
        id="text1982"><tspan
          sodipodi:role="line"
          id="tspan1980"
-         x="1224.5343"
+         x="1409.8337"
          y="654.60675"
          style="line-height:60.00000238%;text-align:start;text-anchor:start;fill:#919191;fill-opacity:1;stroke-width:0.99999994">3.26.1</tspan></text>
     <text
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="1083.546"
+       x="1268.8455"
        y="718.73907"
        id="text1986"><tspan
          sodipodi:role="line"
          id="tspan1984"
-         x="1083.546"
+         x="1268.8455"
          y="718.73907"
          style="line-height:60.00000238%;stroke-width:0.99999994">GNOME Application Platform</tspan></text>
     <path
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 991.486,558.86012 h 845.0275"
+       d="m 1175.486,558.86012 h 845.0275"
        id="path1988"
        inkscape:connector-curvature="0" />
     <text
        id="text1992"
        y="536.14825"
-       x="1006.3"
+       x="1190.3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="536.14825"
-         x="1006.3"
+         x="1190.3"
          id="tspan1990"
          sodipodi:role="line"
          style="font-weight:bold;line-height:60.00000238%;fill:#2e3436">Application Updates</tspan></text>
@@ -1718,14 +1718,14 @@
        ry="2.9997487"
        rx="3.4633875"
        y="514.8587"
-       x="1677.5371"
+       x="1861.5371"
        height="32.997238"
        width="148.92564"
        id="rect1994"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5288;stroke-width:1.07441401;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <image
        y="638.36017"
-       x="1016"
+       x="1200"
        width="32"
        height="32"
        preserveAspectRatio="none"
@@ -1734,7 +1734,7 @@
     <rect
        inkscape:label="a"
        y="705.16193"
-       x="1018"
+       x="1202"
        height="28.396694"
        width="28"
        id="rect1998"
@@ -1742,40 +1742,40 @@
     <path
        inkscape:connector-curvature="0"
        id="path2000"
-       d="m 1037.906,705.60562 c -0.4199,0.7725 -0.8184,1.785 -1.2579,2.5512 -0.1642,-0.012 -0.3249,-0.055 -0.4921,-0.055 -0.5815,0 -1.1552,0.086 -1.6954,0.2218 -0.5338,-0.6794 -1.1031,-1.594 -1.6406,-2.2739 -0.498,0.1864 -0.9665,0.4019 -1.4219,0.6655 0.1679,0.8566 0.4846,1.9009 0.6563,2.7731 -0.6003,0.4417 -1.0958,0.9442 -1.5313,1.553 -0.86,-0.1741 -1.8898,-0.4953 -2.7343,-0.6656 -0.2599,0.4619 -0.4725,0.937 -0.6563,1.4421 0.6705,0.5451 1.5723,1.1225 2.2422,1.6638 -0.1336,0.5478 -0.2187,1.1297 -0.2187,1.7194 0,0.1695 0.043,0.3325 0.055,0.4991 -0.7555,0.4457 -1.7539,0.8498 -2.5156,1.2757 0.09,0.4876 0.2245,0.9827 0.3828,1.442 0.86,-0.018 1.9241,-0.1679 2.7891,-0.1663 0.3275,0.6953 0.7359,1.3378 1.2578,1.8857 -0.3011,0.8303 -0.7842,1.7901 -1.0937,2.6067 0.3725,0.3119 0.7866,0.579 1.2031,0.832 0.6461,-0.5682 1.357,-1.3692 2.0234,-1.9412 0.6616,0.3062 1.3801,0.4708 2.1328,0.5546 0.288,0.8462 0.5325,1.9311 0.8203,2.7731 0.5277,0 1.0269,-0.025 1.5313,-0.1109 0.141,-0.8748 0.1931,-1.9852 0.3281,-2.884 0.7177,-0.2074 1.4199,-0.4739 2.0235,-0.8874 0.7425,0.4693 1.573,1.1161 2.2968,1.5529 0.3916,-0.3384 0.7601,-0.7122 1.0938,-1.1092 -0.4307,-0.7342 -1.0685,-1.5764 -1.5313,-2.3295 0.4078,-0.6121 0.6706,-1.3242 0.875,-2.0521 0.8863,-0.1368 1.9812,-0.1898 2.8438,-0.3327 0.085,-0.5115 0.1064,-1.0178 0.1094,-1.553 -0.8303,-0.2919 -1.9001,-0.5399 -2.7344,-0.8319 -0.083,-0.7634 -0.2449,-1.4921 -0.5469,-2.1631 0.564,-0.6758 1.3539,-1.3968 1.9141,-2.0521 -0.2494,-0.4224 -0.5129,-0.8423 -0.8203,-1.2201 -0.8053,0.3139 -1.7517,0.8039 -2.5704,1.1092 -0.5402,-0.5293 -1.1737,-0.9435 -1.8593,-1.2756 0,-0.8772 0.1469,-1.9565 0.164,-2.8286 -0.4528,-0.1604 -0.941,-0.2973 -1.4218,-0.3882 z m -1.75,6.0454 c 1.933,0 3.5,1.5892 3.5,3.5496 0,1.9603 -1.567,3.5495 -3.5,3.5495 -1.933,0 -3.5,-1.5892 -3.5,-3.5495 0,-1.9604 1.567,-3.5496 3.5,-3.5496 z"
+       d="m 1221.906,705.60562 c -0.4199,0.7725 -0.8184,1.785 -1.2579,2.5512 -0.1642,-0.012 -0.3249,-0.055 -0.4921,-0.055 -0.5815,0 -1.1552,0.086 -1.6954,0.2218 -0.5338,-0.6794 -1.1031,-1.594 -1.6406,-2.2739 -0.498,0.1864 -0.9665,0.4019 -1.4219,0.6655 0.1679,0.8566 0.4846,1.9009 0.6563,2.7731 -0.6003,0.4417 -1.0958,0.9442 -1.5313,1.553 -0.86,-0.1741 -1.8898,-0.4953 -2.7343,-0.6656 -0.2599,0.4619 -0.4725,0.937 -0.6563,1.4421 0.6705,0.5451 1.5723,1.1225 2.2422,1.6638 -0.1336,0.5478 -0.2187,1.1297 -0.2187,1.7194 0,0.1695 0.043,0.3325 0.055,0.4991 -0.7555,0.4457 -1.7539,0.8498 -2.5156,1.2757 0.09,0.4876 0.2245,0.9827 0.3828,1.442 0.86,-0.018 1.9241,-0.1679 2.7891,-0.1663 0.3275,0.6953 0.7359,1.3378 1.2578,1.8857 -0.3011,0.8303 -0.7842,1.7901 -1.0937,2.6067 0.3725,0.3119 0.7866,0.579 1.2031,0.832 0.6461,-0.5682 1.357,-1.3692 2.0234,-1.9412 0.6616,0.3062 1.3801,0.4708 2.1328,0.5546 0.288,0.8462 0.5325,1.9311 0.8203,2.7731 0.5277,0 1.0269,-0.025 1.5313,-0.1109 0.141,-0.8748 0.1931,-1.9852 0.3281,-2.884 0.7177,-0.2074 1.4199,-0.4739 2.0235,-0.8874 0.7425,0.4693 1.573,1.1161 2.2968,1.5529 0.3916,-0.3384 0.7601,-0.7122 1.0938,-1.1092 -0.4307,-0.7342 -1.0685,-1.5764 -1.5313,-2.3295 0.4078,-0.6121 0.6706,-1.3242 0.875,-2.0521 0.8863,-0.1368 1.9812,-0.1898 2.8438,-0.3327 0.085,-0.5115 0.1064,-1.0178 0.1094,-1.553 -0.8303,-0.2919 -1.9001,-0.5399 -2.7344,-0.8319 -0.083,-0.7634 -0.2449,-1.4921 -0.5469,-2.1631 0.564,-0.6758 1.3539,-1.3968 1.9141,-2.0521 -0.2494,-0.4224 -0.5129,-0.8423 -0.8203,-1.2201 -0.8053,0.3139 -1.7517,0.8039 -2.5704,1.1092 -0.5402,-0.5293 -1.1737,-0.9435 -1.8593,-1.2756 0,-0.8772 0.1469,-1.9565 0.164,-2.8286 -0.4528,-0.1604 -0.941,-0.2973 -1.4218,-0.3882 z m -1.75,6.0454 c 1.933,0 3.5,1.5892 3.5,3.5496 0,1.9603 -1.567,3.5495 -3.5,3.5495 -1.933,0 -3.5,-1.5892 -3.5,-3.5495 0,-1.9604 1.567,-3.5496 3.5,-3.5496 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.59159786;marker:none;enable-background:accumulate" />
     <path
        id="path2002"
-       d="m 1024.4528,718.91652 c -0.4027,0.084 -0.7768,0.2325 -1.1484,0.3883 -0.029,1.108 0.1521,2.5588 -0.2734,2.9395 -0.4182,0.374 -1.8172,0.061 -2.8985,-0.056 -0.2299,0.4197 -0.4117,0.8612 -0.5469,1.3311 0.8367,0.7026 1.9959,1.4891 2.0235,2.0521 0.028,0.5701 -1.0963,1.4285 -1.8594,2.2185 0.1809,0.4576 0.4378,0.8759 0.7109,1.2756 1.0646,-0.2243 2.3912,-0.6629 2.8438,-0.3327 0.4608,0.3361 0.4641,1.7843 0.6016,2.884 0.4367,0.1331 0.8968,0.1855 1.3671,0.2219 0.4924,-0.9844 0.993,-2.3424 1.5313,-2.4959 0.5526,-0.1574 1.6862,0.8131 2.625,1.3866 0.3827,-0.2691 0.7226,-0.5982 1.0391,-0.9429 -0.4443,-1.0157 -1.2619,-2.2928 -1.0391,-2.8285 0.223,-0.5362 1.7069,-0.8335 2.7344,-1.2202 0.01,-0.1304 0.055,-0.2558 0.055,-0.3882 0,-0.3397 -0.06,-0.6727 -0.1094,-0.9984 -1.0607,-0.2854 -2.5676,-0.4282 -2.8438,-0.9428 -0.2743,-0.5112 0.4232,-1.8838 0.7657,-2.9395 -0.3521,-0.317 -0.734,-0.5984 -1.1485,-0.832 -0.8765,0.6658 -1.8976,1.7648 -2.4609,1.6639 -0.5546,-0.099 -1.1601,-1.4545 -1.75,-2.3849 -0.07,0.012 -0.1492,-0.014 -0.2188,0 z m 1.0938,3.3278 c 1.6309,0 2.9531,1.3409 2.9531,2.9949 0,1.6541 -1.3222,2.995 -2.9531,2.995 -1.631,0 -2.9531,-1.3409 -2.9531,-2.995 0,-1.654 1.3221,-2.9949 2.9531,-2.9949 z"
+       d="m 1208.4528,718.91652 c -0.4027,0.084 -0.7768,0.2325 -1.1484,0.3883 -0.029,1.108 0.1521,2.5588 -0.2734,2.9395 -0.4182,0.374 -1.8172,0.061 -2.8985,-0.056 -0.2299,0.4197 -0.4117,0.8612 -0.5469,1.3311 0.8367,0.7026 1.9959,1.4891 2.0235,2.0521 0.028,0.5701 -1.0963,1.4285 -1.8594,2.2185 0.1809,0.4576 0.4378,0.8759 0.7109,1.2756 1.0646,-0.2243 2.3912,-0.6629 2.8438,-0.3327 0.4608,0.3361 0.4641,1.7843 0.6016,2.884 0.4367,0.1331 0.8968,0.1855 1.3671,0.2219 0.4924,-0.9844 0.993,-2.3424 1.5313,-2.4959 0.5526,-0.1574 1.6862,0.8131 2.625,1.3866 0.3827,-0.2691 0.7226,-0.5982 1.0391,-0.9429 -0.4443,-1.0157 -1.2619,-2.2928 -1.0391,-2.8285 0.223,-0.5362 1.7069,-0.8335 2.7344,-1.2202 0.01,-0.1304 0.055,-0.2558 0.055,-0.3882 0,-0.3397 -0.06,-0.6727 -0.1094,-0.9984 -1.0607,-0.2854 -2.5676,-0.4282 -2.8438,-0.9428 -0.2743,-0.5112 0.4232,-1.8838 0.7657,-2.9395 -0.3521,-0.317 -0.734,-0.5984 -1.1485,-0.832 -0.8765,0.6658 -1.8976,1.7648 -2.4609,1.6639 -0.5546,-0.099 -1.1601,-1.4545 -1.75,-2.3849 -0.07,0.012 -0.1492,-0.014 -0.2188,0 z m 1.0938,3.3278 c 1.6309,0 2.9531,1.3409 2.9531,2.9949 0,1.6541 -1.3222,2.995 -2.9531,2.995 -1.631,0 -2.9531,-1.3409 -2.9531,-2.995 0,-1.654 1.3221,-2.9949 2.9531,-2.9949 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.59159786;marker:none;enable-background:accumulate"
        inkscape:connector-curvature="0" />
     <path
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 991.486,686.86142 h 845.0275"
+       d="m 1175.486,686.86142 h 845.0275"
        id="path2004"
        inkscape:connector-curvature="0" />
     <text
        id="text2008"
        y="718.73907"
-       x="1293.0155"
+       x="1478.3149"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;text-align:start;text-anchor:start;fill:#919191;fill-opacity:1;stroke-width:0.99999994"
          y="718.73907"
-         x="1293.0155"
+         x="1478.3149"
          id="tspan2006"
          sodipodi:role="line">3.26.1</tspan></text>
     <text
        id="text2012"
        y="590.94293"
-       x="1224.5343"
+       x="1409.8337"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;text-align:start;text-anchor:start;fill:#919191;fill-opacity:1;stroke-width:0.99999994"
          y="590.94293"
-         x="1224.5343"
+         x="1409.8337"
          id="tspan2010"
          sodipodi:role="line">0.92</tspan></text>
     <rect
@@ -1783,7 +1783,7 @@
        id="rect2014"
        width="148.92564"
        height="32.997238"
-       x="1677.5371"
+       x="1861.5371"
        y="573.85358"
        rx="3.4633875"
        ry="2.9997487"
@@ -1797,7 +1797,7 @@
        ry="2.9997487"
        rx="3.4633875"
        y="637.84845"
-       x="1677.5371"
+       x="1861.5371"
        height="32.997238"
        width="148.92564"
        id="rect2016"
@@ -1809,14 +1809,14 @@
        ry="2.9997487"
        rx="3.4633875"
        y="702.84308"
-       x="1677.5371"
+       x="1861.5371"
        height="32.997238"
        width="148.92564"
        id="rect2018"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1.07441401;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <image
        y="574.36017"
-       x="1016"
+       x="1200"
        width="32"
        height="32"
        preserveAspectRatio="none"
@@ -1825,93 +1825,93 @@
     <text
        id="text2024"
        y="659.14825"
-       x="1737.8848"
+       x="1921.8848"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
          y="659.14825"
-         x="1737.8848"
+         x="1921.8848"
          id="tspan2022"
          sodipodi:role="line">Update</tspan></text>
     <text
        id="text2028"
        y="654.60675"
-       x="1782.173"
+       x="1967.4724"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="font-size:9.33333302px;line-height:60.00000238%;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:0.99999994"
          y="654.60675"
-         x="1782.173"
+         x="1967.4724"
          id="tspan2026"
          sodipodi:role="line">32 MB</tspan></text>
     <text
        id="text2032"
        y="724.14825"
-       x="1737.8848"
+       x="1921.8848"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
          y="724.14825"
-         x="1737.8848"
+         x="1921.8848"
          id="tspan2030"
          sodipodi:role="line">Update</tspan></text>
     <text
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="1782.173"
+       x="1967.4724"
        y="718.73907"
        id="text2036"><tspan
          sodipodi:role="line"
          id="tspan2034"
-         x="1782.173"
+         x="1967.4724"
          y="718.73907"
          style="font-size:9.33333302px;line-height:60.00000238%;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:0.99999994">45 MB</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="1737.8848"
+       x="1921.8848"
        y="595.14777"
        id="text2040"><tspan
          sodipodi:role="line"
          id="tspan2038"
-         x="1737.8848"
+         x="1921.8848"
          y="595.14777"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Update</tspan></text>
     <text
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="1782.173"
+       x="1967.4724"
        y="590.94318"
        id="text2044"><tspan
          sodipodi:role="line"
          id="tspan2042"
-         x="1782.173"
+         x="1967.4724"
          y="590.94318"
          style="font-size:9.33333302px;line-height:60.00000238%;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke-width:0.99999994">22 MB</tspan></text>
     <text
        id="text2048"
        y="536.31647"
-       x="1736.689"
+       x="1920.689"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff"
          y="536.31647"
-         x="1736.689"
+         x="1920.689"
          id="tspan2046"
          sodipodi:role="line">Update All</tspan></text>
     <text
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="1793.0565"
+       x="1978.356"
        y="532.38385"
        id="text2052"><tspan
          sodipodi:role="line"
          id="tspan2050"
-         x="1793.0565"
+         x="1978.356"
          y="532.38385"
          style="font-size:9.33333302px;line-height:60.00000238%;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.99999994">99 MB</tspan></text>
     <rect
@@ -1922,7 +1922,7 @@
        id="rect2054"
        width="847.00031"
        height="247.00023"
-       x="50.499878"
+       x="-1389.5001"
        y="503.86163" />
     <rect
        inkscape:export-ydpi="90"
@@ -1931,7 +1931,7 @@
        ry="3"
        rx="3.0000005"
        y="514.8609"
-       x="737.5"
+       x="-702.5"
        height="33"
        width="149"
        id="rect2056"
@@ -1943,7 +1943,7 @@
        ry="3"
        rx="3.0000005"
        y="573.86066"
-       x="737.5"
+       x="-702.5"
        height="33"
        width="129"
        id="rect2058"
@@ -1951,26 +1951,26 @@
     <text
        id="text2062"
        y="595.1485"
-       x="801.35303"
+       x="-638.64697"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#919191;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#919191;fill-opacity:1"
          y="595.1485"
-         x="801.35303"
+         x="-638.64697"
          id="tspan2060"
          sodipodi:role="line">Updating</tspan></text>
     <path
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="path2064"
-       d="m 737,604.36072 h 77.9862 v 3 h -73.9921 c -2.6245,0 -3.3218,-0.9542 -3.9941,-2.6783 z"
+       d="m -703,604.36072 h 77.9862 v 3 h -73.9921 c -2.6245,0 -3.3218,-0.9542 -3.9941,-2.6783 z"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect2068"
        width="149"
        height="33"
-       x="737.5"
+       x="-702.5"
        y="637.8609"
        rx="3.0000005"
        ry="3"
@@ -1980,12 +1980,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="811.58154"
+       x="-628.41846"
        y="659.14874"
        id="text2072"><tspan
          sodipodi:role="line"
          id="tspan2070"
-         x="811.58154"
+         x="-628.41846"
          y="659.14874"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1">Update</tspan></text>
     <rect
@@ -1995,7 +1995,7 @@
        ry="3"
        rx="3.0000005"
        y="573.86066"
-       x="737.5"
+       x="-702.5"
        height="33"
        width="149"
        id="rect2074"
@@ -2007,7 +2007,7 @@
        ry="3"
        rx="3.0000005"
        y="702.8609"
-       x="737.5"
+       x="-702.5"
        height="33"
        width="149"
        id="rect2078"
@@ -2015,45 +2015,45 @@
     <text
        id="text2082"
        y="724.14874"
-       x="811.58154"
+       x="-628.41846"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
          y="724.14874"
-         x="811.58154"
+         x="-628.41846"
          id="tspan2080"
          sodipodi:role="line">Update</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path2086"
-       d="M 51.486001,558.86142 H 896.5135"
+       d="m -1388.514,558.86142 h 845.0275"
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="136.90945"
+       x="-1313.256"
        y="590.93292"
        id="text2090"><tspan
          sodipodi:role="line"
          id="tspan2088"
-         x="136.90945"
+         x="-1313.256"
          y="590.93292"
          style="line-height:60.00000238%;stroke-width:0.99999994">Inkscape</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path2092"
-       d="M 51.486001,622.86122 H 896.5135"
+       d="m -1388.514,622.86122 h 845.0275"
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        transform="scale(0.99299057,1.0070589)"
        id="text2096"
        y="654.68097"
-       x="136.90945"
+       x="-1313.256"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"><tspan
          y="654.68097"
-         x="136.90945"
+         x="-1313.256"
          id="tspan2094"
          sodipodi:role="line"
          style="line-height:60.00000238%;stroke-width:0.99999994">Recipes</tspan></text>
@@ -2061,24 +2061,24 @@
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="277.89774"
+       x="-1172.2673"
        y="654.59747"
        id="text2100"><tspan
          sodipodi:role="line"
          id="tspan2098"
-         x="277.89774"
+         x="-1172.2673"
          y="654.59747"
          style="line-height:60.00000238%;text-align:start;text-anchor:start;fill:#919191;fill-opacity:1;stroke-width:0.99999994">3.26.1</tspan></text>
     <text
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="136.90945"
+       x="-1313.256"
        y="718.73004"
        id="text2104"><tspan
          sodipodi:role="line"
          id="tspan2102"
-         x="136.90945"
+         x="-1313.256"
          y="718.73004"
          style="line-height:60.00000238%;stroke-width:0.99999994">GNOME Application Platform</tspan></text>
     <image
@@ -2087,21 +2087,21 @@
        preserveAspectRatio="none"
        height="32"
        width="32"
-       x="78"
+       x="-1362"
        y="574.36017" />
     <path
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 51.5,558.86092 H 896.5275"
+       d="m -1388.5,558.86092 h 845.0275"
        id="path2126"
        inkscape:connector-curvature="0" />
     <text
        id="text2130"
        y="536.14899"
-       x="66.300049"
+       x="-1373.7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="536.14899"
-         x="66.300049"
+         x="-1373.7"
          id="tspan2128"
          sodipodi:role="line"
          style="font-weight:bold;line-height:60.00000238%;fill:#2e3436">Application Updates</tspan></text>
@@ -2109,7 +2109,7 @@
        style="display:inline;stroke-width:0.33568633"
        inkscape:label="system-run"
        id="g2140"
-       transform="matrix(1.75,0,0,1.7747934,6.2497005,107.05732)">
+       transform="matrix(1.75,0,0,1.7747934,-1433.7503,107.05732)">
       <rect
          style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.33568633;marker:none"
          id="rect2134"
@@ -2132,59 +2132,59 @@
     </g>
     <path
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 51.486001,686.86222 H 896.5135"
+       d="m -1388.514,686.86222 h 845.0275"
        id="path2142"
        inkscape:connector-curvature="0" />
     <text
        id="text2146"
        y="718.73004"
-       x="360.47696"
+       x="-1089.6879"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;text-align:start;text-anchor:start;fill:#919191;fill-opacity:1;stroke-width:0.99999994"
          y="718.73004"
-         x="360.47696"
+         x="-1089.6879"
          id="tspan2144"
          sodipodi:role="line">3.26.1</tspan></text>
     <text
        id="text2150"
        y="590.93341"
-       x="277.89774"
+       x="-1172.2673"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;text-align:start;text-anchor:start;fill:#919191;fill-opacity:1;stroke-width:0.99999994"
          y="590.93341"
-         x="277.89774"
+         x="-1172.2673"
          id="tspan2148"
          sodipodi:role="line">0.92</tspan></text>
     <text
        id="text2154"
        y="595.1485"
-       x="811.58154"
+       x="-628.41846"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
          y="595.1485"
-         x="811.58154"
+         x="-628.41846"
          id="tspan2152"
          sodipodi:role="line">Update</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="811.58154"
+       x="-628.41846"
        y="536.14899"
        id="text2158"><tspan
          sodipodi:role="line"
          id="tspan2156"
-         x="811.58154"
+         x="-628.41846"
          y="536.14899"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff;fill-opacity:1">Update All</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path2172"
-       d="m 3811.486,559.86082 h 845.0275"
+       d="m 3995.486,559.86082 h 845.0275"
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     <rect
        ry="2.9985197"
@@ -2194,34 +2194,34 @@
        id="rect2174"
        width="847.00031"
        height="183.00034"
-       x="3810.5"
+       x="3994.5"
        y="504.86163" />
     <text
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="3923.4521"
+       x="4108.7505"
        y="591.93488"
        id="text2178"><tspan
          sodipodi:role="line"
          id="tspan2176"
-         x="3923.4521"
+         x="4108.7505"
          y="591.93488"
          style="line-height:60.00000238%;stroke-width:0.99999994">Inkscape</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path2180"
-       d="m 3811.486,623.86062 h 845.0275"
+       d="m 3995.486,623.86062 h 845.0275"
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        transform="scale(0.99299057,1.0070589)"
        id="text2184"
        y="655.68317"
-       x="3923.4521"
+       x="4108.7505"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"><tspan
          y="655.68317"
-         x="3923.4521"
+         x="4108.7505"
          id="tspan2182"
          sodipodi:role="line"
          style="line-height:60.00000238%;stroke-width:0.99999994">Recipes</tspan></text>
@@ -2229,33 +2229,33 @@
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="4064.4404"
+       x="4249.7388"
        y="655.59967"
        id="text2188"><tspan
          sodipodi:role="line"
          id="tspan2186"
-         x="4064.4404"
+         x="4249.7388"
          y="655.59967"
          style="line-height:60.00000238%;text-align:start;text-anchor:start;fill:#919191;fill-opacity:1;stroke-width:0.99999994">3.26.1</tspan></text>
     <path
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 3811.486,559.86032 h 845.0275"
+       d="m 3995.486,559.86032 h 845.0275"
        id="path2190"
        inkscape:connector-curvature="0" />
     <text
        id="text2194"
        y="537.14825"
-       x="3826.2998"
+       x="4010.2998"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="537.14825"
-         x="3826.2998"
+         x="4010.2998"
          id="tspan2192"
          sodipodi:role="line"
          style="font-weight:bold;line-height:60.00000238%;fill:#2e3436">Recently Updated</tspan></text>
     <image
        y="639.36017"
-       x="3836"
+       x="4020"
        width="32"
        height="32"
        preserveAspectRatio="none"
@@ -2264,13 +2264,13 @@
     <text
        id="text2200"
        y="591.93536"
-       x="4064.4404"
+       x="4249.7388"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;text-align:start;text-anchor:start;fill:#919191;fill-opacity:1;stroke-width:0.99999994"
          y="591.93536"
-         x="4064.4404"
+         x="4249.7388"
          id="tspan2198"
          sodipodi:role="line">0.92</tspan></text>
     <rect
@@ -2278,7 +2278,7 @@
        id="rect2202"
        width="149"
        height="33"
-       x="4497.5"
+       x="4681.5"
        y="574.86017"
        rx="3.0000005"
        ry="3"
@@ -2288,12 +2288,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="4572.0581"
+       x="4756.0581"
        y="596.14777"
        id="text2206"><tspan
          sodipodi:role="line"
          id="tspan2204"
-         x="4572.0581"
+         x="4756.0581"
          y="596.14777"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Open</tspan></text>
     <rect
@@ -2303,7 +2303,7 @@
        ry="3"
        rx="3.0000005"
        y="638.86041"
-       x="4497.5"
+       x="4681.5"
        height="33"
        width="149"
        id="rect2208"
@@ -2311,17 +2311,17 @@
     <text
        id="text2212"
        y="660.14825"
-       x="4571.5327"
+       x="4755.5327"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
          y="660.14825"
-         x="4571.5327"
+         x="4755.5327"
          id="tspan2210"
          sodipodi:role="line">Restart</tspan></text>
     <image
        y="575.36017"
-       x="3836"
+       x="4020"
        width="32"
        height="32"
        preserveAspectRatio="none"
@@ -2329,7 +2329,7 @@
        id="image2214" />
     <g
        id="g2468"
-       transform="translate(-1610,3641.9997)">
+       transform="translate(-1426,3641.9997)">
       <g
          transform="translate(2540,-3040.9999)"
          id="g2358">
@@ -2534,7 +2534,7 @@
        xml:space="preserve"
        id="flowRoot2608"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(1885.0126,1331.3621)"><flowRegion
+       transform="translate(2069.0126,1351.3621)"><flowRegion
          id="flowRegion2604"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'"><rect
            id="rect2602"
@@ -2545,7 +2545,7 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'" /></flowRegion><flowPara
          id="flowPara2606"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';fill:#2e3436">Downloading</flowPara></flowRoot>    <flowRoot
-       transform="translate(1885.0126,1367.3621)"
+       transform="translate(2069.0126,1387.3621)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot2616"
        xml:space="preserve"><flowRegion
@@ -2558,9 +2558,9 @@
            width="624"
            id="rect2610" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
-         id="flowPara2614">Shown when downloading an update, either automatically or manually. Flatpak updates are automatically installed after the download has completed.</flowPara></flowRoot>    <g
+         id="flowPara2614">Shown when downloading an update, either automatically or manually. Flatpak example mixes downloading and installing, as these are typically going to be happening in parallel.</flowPara></flowRoot>    <g
        id="g2663"
-       transform="translate(-1610,3498.9998)">
+       transform="translate(-1426,3498.9998)">
       <path
          inkscape:connector-curvature="0"
          id="path2618"
@@ -2661,7 +2661,7 @@
     </g>
     <g
        id="g2845"
-       transform="translate(-1610,1871.9999)">
+       transform="translate(-1426,1871.9999)">
       <path
          style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
          d="m 3541.486,-1762.1391 h 845.0275"
@@ -3021,7 +3021,7 @@
        id="rect2847"
        width="847.00031"
        height="247.00023"
-       x="1930.4998"
+       x="2114.4998"
        y="503.86163" />
     <rect
        inkscape:export-ydpi="90"
@@ -3030,13 +3030,13 @@
        ry="3"
        rx="3.0000005"
        y="514.8609"
-       x="2617.5"
+       x="2801.5"
        height="33"
        width="149"
        id="rect2849"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <g
-       transform="translate(2884,3059.9986)"
+       transform="translate(3068,3059.9986)"
        id="g2859">
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -3073,7 +3073,7 @@
        id="rect2861"
        width="149"
        height="33"
-       x="2617.5"
+       x="2801.5"
        y="637.8609"
        rx="3.0000005"
        ry="3"
@@ -3083,12 +3083,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="2691.5815"
+       x="2875.5815"
        y="659.14874"
        id="text2865"><tspan
          sodipodi:role="line"
          id="tspan2863"
-         x="2691.5815"
+         x="2875.5815"
          y="659.14874"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1">Cancel</tspan></text>
     <rect
@@ -3098,14 +3098,14 @@
        ry="3"
        rx="3.0000005"
        y="573.86066"
-       x="2617.5"
+       x="2801.5"
        height="33"
        width="149"
        id="rect2867"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 2617,604.36062 h 57.9862 v 3 h -53.9922 c -2.6244,0 -3.3217,-0.9542 -3.994,-2.6783 z"
+       d="m 2801,604.36062 h 57.9862 v 3 h -53.9922 c -2.6244,0 -3.3217,-0.9542 -3.994,-2.6783 z"
        id="path2869"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
@@ -3116,7 +3116,7 @@
        ry="3"
        rx="3.0000005"
        y="702.8609"
-       x="2617.5"
+       x="2801.5"
        height="33"
        width="149"
        id="rect2871"
@@ -3124,51 +3124,51 @@
     <text
        id="text2875"
        y="724.14874"
-       x="2691.5815"
+       x="2875.5815"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#879499;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#879499;fill-opacity:1"
          y="724.14874"
-         x="2691.5815"
+         x="2875.5815"
          id="tspan2873"
          sodipodi:role="line">Cancel</tspan></text>
     <path
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="path2877"
-       d="m 2617,668.36092 h 39.9862 v 3 h -35.9922 c -2.6244,0 -3.3217,-0.9542 -3.994,-2.6783 z"
+       d="m 2801,668.36092 h 39.9862 v 3 h -35.9922 c -2.6244,0 -3.3217,-0.9542 -3.994,-2.6783 z"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <path
        inkscape:connector-curvature="0"
        id="path2879"
-       d="m 1931.486,558.86142 h 845.0275"
+       d="m 2115.486,558.86142 h 845.0275"
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="2030.1796"
+       x="2215.478"
        y="590.94"
        id="text2883"><tspan
          sodipodi:role="line"
          id="tspan2881"
-         x="2030.1796"
+         x="2215.478"
          y="590.94"
          style="line-height:60.00000238%;stroke-width:0.99999994">Inkscape</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path2885"
-       d="m 1931.486,622.86122 h 845.0275"
+       d="m 2115.486,622.86122 h 845.0275"
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        transform="scale(0.99299057,1.0070589)"
        id="text2889"
        y="654.68781"
-       x="2030.1796"
+       x="2215.478"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"><tspan
          y="654.68781"
-         x="2030.1796"
+         x="2215.478"
          id="tspan2887"
          sodipodi:role="line"
          style="line-height:60.00000238%;stroke-width:0.99999994">Recipes</tspan></text>
@@ -3176,45 +3176,45 @@
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="2171.168"
+       x="2356.4663"
        y="654.60431"
        id="text2893"><tspan
          sodipodi:role="line"
          id="tspan2891"
-         x="2171.168"
+         x="2356.4663"
          y="654.60431"
          style="line-height:60.00000238%;text-align:start;text-anchor:start;fill:#919191;fill-opacity:1;stroke-width:0.99999994">3.26.1</tspan></text>
     <text
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="2030.1796"
+       x="2215.478"
        y="718.73663"
        id="text2897"><tspan
          sodipodi:role="line"
          id="tspan2895"
-         x="2030.1796"
+         x="2215.478"
          y="718.73663"
          style="line-height:60.00000238%;stroke-width:0.99999994">GNOME Application Platform</tspan></text>
     <path
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1931.5,558.86092 h 845.0274"
+       d="m 2115.5,558.86092 h 845.0274"
        id="path2919"
        inkscape:connector-curvature="0" />
     <text
        id="text2923"
        y="536.14899"
-       x="1946.3"
+       x="2130.3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="536.14899"
-         x="1946.3"
+         x="2130.3"
          id="tspan2921"
          sodipodi:role="line"
          style="font-weight:bold;line-height:60.00000238%;fill:#2e3436">Application Updates</tspan></text>
     <image
        y="638.3609"
-       x="1956"
+       x="2140"
        width="32"
        height="32"
        preserveAspectRatio="none"
@@ -3224,7 +3224,7 @@
        style="display:inline;stroke-width:0.33568633"
        inkscape:label="system-run"
        id="g2933"
-       transform="matrix(1.75,0,0,1.7747934,1886.2497,107.05732)">
+       transform="matrix(1.75,0,0,1.7747934,2070.2497,107.05732)">
       <rect
          style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.33568633;marker:none"
          id="rect2927"
@@ -3247,91 +3247,91 @@
     </g>
     <path
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1931.486,686.86222 h 845.0275"
+       d="m 2115.486,686.86222 h 845.0275"
        id="path2935"
        inkscape:connector-curvature="0" />
     <text
        id="text2939"
        y="718.73663"
-       x="2253.7473"
+       x="2439.0457"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;text-align:start;text-anchor:start;fill:#919191;fill-opacity:1;stroke-width:0.99999994"
          y="718.73663"
-         x="2253.7473"
+         x="2439.0457"
          id="tspan2937"
          sodipodi:role="line">3.26.1</tspan></text>
     <text
        id="text2943"
        y="590.94049"
-       x="2171.168"
+       x="2356.4663"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;text-align:start;text-anchor:start;fill:#919191;fill-opacity:1;stroke-width:0.99999994"
          y="590.94049"
-         x="2171.168"
+         x="2356.4663"
          id="tspan2941"
          sodipodi:role="line">0.92</tspan></text>
     <text
        id="text2947"
        y="595.1485"
-       x="2691.5815"
+       x="2875.5815"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
          y="595.1485"
-         x="2691.5815"
+         x="2875.5815"
          id="tspan2945"
          sodipodi:role="line">Cancel</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f3537;fill-opacity:1;stroke:none"
-       x="2691.5815"
+       x="2875.5815"
        y="536.14899"
        id="text2951"><tspan
          sodipodi:role="line"
          id="tspan2949"
-         x="2691.5815"
+         x="2875.5815"
          y="536.14899"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2f3537;fill-opacity:1">Cancel</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="2599.8315"
+       x="2783.8315"
        y="595.11212"
        id="text2955"><tspan
          sodipodi:role="line"
          id="tspan2953"
-         x="2599.8315"
+         x="2783.8315"
          y="595.11212"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;text-anchor:end;fill:#2e3436;fill-opacity:1">Downloading 400 KB of 1.7 MB</tspan></text>
     <text
        id="text2959"
        y="659.22516"
-       x="2599.8315"
+       x="2783.8315"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;text-anchor:end;fill:#2e3436;fill-opacity:1"
          y="659.22516"
-         x="2599.8315"
+         x="2783.8315"
          id="tspan2957"
          sodipodi:role="line">Downloading 400 KB of 1.7 MB</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="2599.8315"
+       x="2783.8315"
        y="724.14874"
        id="text2963"><tspan
          sodipodi:role="line"
          id="tspan2961"
-         x="2599.8315"
+         x="2783.8315"
          y="724.14874"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;text-anchor:end;fill:#2e3436;fill-opacity:1">Updating...</tspan></text>
     <g
        id="g3113"
-       transform="translate(1870,314.00002)">
+       transform="translate(2054,314.00002)">
       <path
          style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
          d="M 61.486002,563.86082 H 906.5135"
@@ -3522,7 +3522,7 @@
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
     <flowRoot
-       transform="translate(2825.0126,1331.3621)"
+       transform="translate(3009.0126,1351.3621)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot3121"
        xml:space="preserve"><flowRegion
@@ -3539,7 +3539,7 @@
        xml:space="preserve"
        id="flowRoot3129"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(2825.0126,1367.3621)"><flowRegion
+       transform="translate(3009.0126,1387.3621)"><flowRegion
          id="flowRegion3125"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell"><rect
            id="rect3123"
@@ -3549,7 +3549,7 @@
            y="-1920"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara3127"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Only relevant for those update types that can be live installed.</flowPara></flowRoot>    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Only relevant for those update types that can be live installed. Flatpak example mixes downloading and installing, as these are typically going to be happening in parallel.</flowPara></flowRoot>    <rect
        ry="3"
        rx="3.0000012"
        mask="none"
@@ -3557,7 +3557,7 @@
        id="rect3131"
        width="847.00031"
        height="247.00023"
-       x="2870.5"
+       x="3054.5"
        y="503.86163" />
     <rect
        inkscape:export-ydpi="90"
@@ -3566,13 +3566,13 @@
        ry="3"
        rx="3.0000005"
        y="514.8609"
-       x="3557.5"
+       x="3741.5"
        height="33"
        width="149"
        id="rect3133"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <g
-       transform="translate(3824,3059.9986)"
+       transform="translate(4008,3059.9986)"
        id="g3143">
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#bababa;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -3609,7 +3609,7 @@
        id="rect3145"
        width="149"
        height="33"
-       x="3557.5"
+       x="3741.5"
        y="637.8609"
        rx="3.0000005"
        ry="3"
@@ -3619,12 +3619,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="3631.5815"
+       x="3815.5815"
        y="659.14874"
        id="text3149"><tspan
          sodipodi:role="line"
          id="tspan3147"
-         x="3631.5815"
+         x="3815.5815"
          y="659.14874"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1">Cancel</tspan></text>
     <rect
@@ -3634,14 +3634,14 @@
        ry="3"
        rx="3.0000005"
        y="573.86066"
-       x="3557.5"
+       x="3741.5"
        height="33"
        width="149"
        id="rect3151"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:#919191;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 3557,604.36062 h 57.9862 v 3 h -53.9922 c -2.6244,0 -3.3217,-0.9542 -3.994,-2.6783 z"
+       d="m 3741,604.36062 h 57.9862 v 3 h -53.9922 c -2.6244,0 -3.3217,-0.9542 -3.994,-2.6783 z"
        id="path3153"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
@@ -3652,7 +3652,7 @@
        ry="3"
        rx="3.0000005"
        y="702.8609"
-       x="3557.5"
+       x="3741.5"
        height="33"
        width="149"
        id="rect3155"
@@ -3660,51 +3660,51 @@
     <text
        id="text3159"
        y="724.14874"
-       x="3631.5815"
+       x="3815.5815"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#879499;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#879499;fill-opacity:1"
          y="724.14874"
-         x="3631.5815"
+         x="3815.5815"
          id="tspan3157"
          sodipodi:role="line">Cancel</tspan></text>
     <path
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="path3161"
-       d="m 3557,668.36092 h 39.9862 v 3 h -35.9922 c -2.6244,0 -3.3217,-0.9542 -3.994,-2.6783 z"
+       d="m 3741,668.36092 h 39.9862 v 3 h -35.9922 c -2.6244,0 -3.3217,-0.9542 -3.994,-2.6783 z"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <path
        inkscape:connector-curvature="0"
        id="path3163"
-       d="m 2871.486,558.86142 h 845.0275"
+       d="m 3055.486,558.86142 h 845.0275"
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="2976.8149"
+       x="3162.1133"
        y="590.94"
        id="text3167"><tspan
          sodipodi:role="line"
          id="tspan3165"
-         x="2976.8149"
+         x="3162.1133"
          y="590.94"
          style="line-height:60.00000238%;stroke-width:0.99999994">Inkscape</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path3169"
-       d="m 2871.486,622.86122 h 845.0275"
+       d="m 3055.486,622.86122 h 845.0275"
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        transform="scale(0.99299057,1.0070589)"
        id="text3173"
        y="654.68781"
-       x="2976.8149"
+       x="3162.1133"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"><tspan
          y="654.68781"
-         x="2976.8149"
+         x="3162.1133"
          id="tspan3171"
          sodipodi:role="line"
          style="line-height:60.00000238%;stroke-width:0.99999994">Recipes</tspan></text>
@@ -3712,129 +3712,129 @@
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="3117.8032"
+       x="3303.1016"
        y="654.60431"
        id="text3177"><tspan
          sodipodi:role="line"
          id="tspan3175"
-         x="3117.8032"
+         x="3303.1016"
          y="654.60431"
          style="line-height:60.00000238%;text-align:start;text-anchor:start;fill:#919191;fill-opacity:1;stroke-width:0.99999994">3.26.1</tspan></text>
     <text
        transform="scale(0.99299057,1.0070589)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-       x="2976.8149"
+       x="3162.1133"
        y="718.73663"
        id="text3181"><tspan
          sodipodi:role="line"
          id="tspan3179"
-         x="2976.8149"
+         x="3162.1133"
          y="718.73663"
          style="line-height:60.00000238%;stroke-width:0.99999994">GNOME Application Platform</tspan></text>
     <path
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 2871.5,558.86092 h 845.0274"
+       d="m 3055.5,558.86092 h 845.0274"
        id="path3203"
        inkscape:connector-curvature="0" />
     <text
        id="text3207"
        y="536.14899"
-       x="2886.2998"
+       x="3070.2998"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="536.14899"
-         x="2886.2998"
+         x="3070.2998"
          id="tspan3205"
          sodipodi:role="line"
          style="font-weight:bold;line-height:60.00000238%;fill:#2e3436">Application Updates</tspan></text>
     <path
        style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 2871.486,686.86222 h 845.0275"
+       d="m 3055.486,686.86222 h 845.0275"
        id="path3219"
        inkscape:connector-curvature="0" />
     <text
        id="text3223"
        y="718.73663"
-       x="3200.3823"
+       x="3385.6807"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;text-align:start;text-anchor:start;fill:#919191;fill-opacity:1;stroke-width:0.99999994"
          y="718.73663"
-         x="3200.3823"
+         x="3385.6807"
          id="tspan3221"
          sodipodi:role="line">3.26.1</tspan></text>
     <text
        id="text3227"
        y="590.94049"
-       x="3117.8032"
+       x="3303.1016"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.90186787px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.99999994"
        xml:space="preserve"
        transform="scale(0.99299057,1.0070589)"><tspan
          style="line-height:60.00000238%;text-align:start;text-anchor:start;fill:#919191;fill-opacity:1;stroke-width:0.99999994"
          y="590.94049"
-         x="3117.8032"
+         x="3303.1016"
          id="tspan3225"
          sodipodi:role="line">0.92</tspan></text>
     <text
        id="text3231"
        y="595.1485"
-       x="3631.5815"
+       x="3815.5815"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436;fill-opacity:1"
          y="595.1485"
-         x="3631.5815"
+         x="3815.5815"
          id="tspan3229"
          sodipodi:role="line">Cancel</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2f3537;fill-opacity:1;stroke:none"
-       x="3631.5815"
+       x="3815.5815"
        y="536.14899"
        id="text3235"><tspan
          sodipodi:role="line"
          id="tspan3233"
-         x="3631.5815"
+         x="3815.5815"
          y="536.14899"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2f3537;fill-opacity:1">Cancel</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="3539.8315"
+       x="3723.8315"
        y="595.11212"
        id="text3239"><tspan
          sodipodi:role="line"
          id="tspan3237"
-         x="3539.8315"
+         x="3723.8315"
          y="595.11212"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;text-anchor:end;fill:#2e3436;fill-opacity:1">Downloading 400 KB of 1.7 MB</tspan></text>
     <text
        id="text3243"
        y="659.22516"
-       x="3539.8315"
+       x="3723.8315"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;text-anchor:end;fill:#2e3436;fill-opacity:1"
          y="659.22516"
-         x="3539.8315"
+         x="3723.8315"
          id="tspan3241"
          sodipodi:role="line">Downloading 400 KB of 1.7 MB</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="3539.8315"
+       x="3723.8315"
        y="724.14874"
        id="text3247"><tspan
          sodipodi:role="line"
          id="tspan3245"
-         x="3539.8315"
+         x="3723.8315"
          y="724.14874"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:end;text-anchor:end;fill:#2e3436;fill-opacity:1">Updating...</tspan></text>
     <g
        id="g3382"
-       transform="translate(2810,13.999817)">
+       transform="translate(2994,13.999817)">
       <path
          style="display:inline;opacity:1;fill:none;stroke:#d3d7cf;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
          d="M 61.486031,863.86092 H 906.51348"
@@ -4000,7 +4000,7 @@
        xml:space="preserve"
        id="flowRoot3390"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(3765.0126,1331.3621)"><flowRegion
+       transform="translate(3949.0126,1351.3621)"><flowRegion
          id="flowRegion3386"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'"><rect
            id="rect3384"
@@ -4011,7 +4011,7 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'" /></flowRegion><flowPara
          id="flowPara3388"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';fill:#2e3436">Recently updated</flowPara></flowRoot>    <flowRoot
-       transform="translate(3765.0126,1367.3621)"
+       transform="translate(3949.0126,1387.3621)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot3398"
        xml:space="preserve"><flowRegion
@@ -4025,7 +4025,7 @@
            id="rect3392" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:120.00000477%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
          id="flowPara3396">Only shown for Flatpaks. Can be shown alongside other states - for example, you could have recently updated below active downloads.</flowPara></flowRoot>    <flowRoot
-       transform="translate(5.0126005,1261.3621)"
+       transform="translate(-10.9874,1261.3621)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:29.33333397px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot3416"
        xml:space="preserve"><flowRegion
@@ -4044,7 +4044,7 @@
        preserveAspectRatio="none"
        height="32"
        width="32"
-       x="2898"
+       x="3082"
        y="575.96466" />
     <image
        id="image3442"
@@ -4052,13 +4052,13 @@
        preserveAspectRatio="none"
        height="32"
        width="32"
-       x="2896"
+       x="3080"
        y="638.3609" />
     <g
        style="display:inline;stroke-width:0.33568633"
        inkscape:label="system-run"
        id="g3217"
-       transform="matrix(1.75,0,0,1.7747934,2826.2497,107.05732)">
+       transform="matrix(1.75,0,0,1.7747934,3010.2497,107.05732)">
       <rect
          style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:0.33568633;marker:none"
          id="rect3211"
@@ -4081,7 +4081,7 @@
     </g>
     <image
        y="575.96466"
-       x="1958"
+       x="2142"
        width="32"
        height="32"
        preserveAspectRatio="none"
@@ -4093,10 +4093,10 @@
        preserveAspectRatio="none"
        height="32"
        width="32"
-       x="78"
+       x="-1362"
        y="638.36017" />
     <g
-       transform="translate(944,4417.9998)"
+       transform="translate(1128,4417.9998)"
        id="g1753">
       <rect
          y="-4852.1382"
@@ -4202,7 +4202,7 @@
     </g>
     <rect
        y="-434.1384"
-       x="50.499981"
+       x="234.49997"
        height="234.00002"
        width="846.99994"
        id="rect3656"
@@ -4213,7 +4213,7 @@
     <path
        style="display:inline;opacity:1;fill:#000000;fill-opacity:0.35384617;stroke:#000000;stroke-width:0.99999982;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.3692308"
        mask="none"
-       d="m 50.49995,-263.1385 h 847 l -1.8e-4,3 v 57 c 0,1.662 -1.338,3 -3,3 H 53.49995 c -1.662,0 -3,-1.338 -3,-3 v -57 z"
+       d="M 234.49995,-263.1385 H 1081.5 l -2e-4,3 v 57 c 0,1.662 -1.338,3 -3,3 H 237.49995 c -1.662,0 -3,-1.338 -3,-3 v -57 z"
        id="path3658"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccsssscc" />
@@ -4221,7 +4221,7 @@
        ry="3.0112622"
        rx="3.0265474"
        y="-248.13838"
-       x="69.500069"
+       x="253.50006"
        height="33"
        width="149"
        id="rect3660"
@@ -4229,23 +4229,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="143.74611"
+       x="327.74609"
        y="-226.85078"
        id="text3664"><tspan
          sodipodi:role="line"
          id="tspan3662"
-         x="143.74611"
+         x="327.74609"
          y="-226.85078"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff">Learn More</tspan></text>
     <text
        id="text3670"
        y="-349.6467"
-       x="480.15088"
+       x="664.15088"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:24.28429985px;line-height:60.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#2e3436"
          y="-349.6467"
-         x="480.15088"
+         x="664.15088"
          id="tspan3668"
          sodipodi:role="line"><tspan
    id="tspan3666"
@@ -4253,12 +4253,12 @@
     <text
        id="text3674"
        y="-312.05002"
-       x="480.84863"
+       x="664.84863"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.69600105px;line-height:60.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#2e3436"
          y="-312.05002"
-         x="480.84863"
+         x="664.84863"
          id="tspan3672"
          sodipodi:role="line">A major upgrade, with new features and added polish.</tspan></text>
     <rect
@@ -4266,24 +4266,24 @@
        id="rect3676"
        width="149"
        height="33"
-       x="727.48804"
+       x="911.48804"
        y="-248.1385"
        rx="3.0265477"
        ry="3.0112622" />
     <text
        id="text3680"
        y="-226.68257"
-       x="801.61212"
+       x="985.61212"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff"
          y="-226.68257"
-         x="801.61212"
+         x="985.61212"
          id="tspan3678"
          sodipodi:role="line">Restart &amp; Update</tspan></text>
     <rect
        y="-434.1384"
-       x="1930.5"
+       x="2114.5"
        height="234.00002"
        width="846.99994"
        id="rect3692"
@@ -4294,7 +4294,7 @@
     <path
        style="display:inline;opacity:1;fill:#000000;fill-opacity:0.35384617;stroke:#000000;stroke-width:0.99999982;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.3692308"
        mask="none"
-       d="m 1930.5,-263.1385 h 847 l -2e-4,3 v 57 c 0,1.662 -1.338,3 -3,3 H 1933.5 c -1.662,0 -3,-1.338 -3,-3 v -57 z"
+       d="m 2114.5,-263.1385 h 847 l -2e-4,3 v 57 c 0,1.662 -1.338,3 -3,3 H 2117.5 c -1.662,0 -3,-1.338 -3,-3 v -57 z"
        id="path3694"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccsssscc" />
@@ -4302,7 +4302,7 @@
        ry="3.0112622"
        rx="3.0265474"
        y="-248.13838"
-       x="1949.5001"
+       x="2133.5"
        height="33"
        width="149"
        id="rect3696"
@@ -4310,23 +4310,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="2023.7461"
+       x="2207.7461"
        y="-226.85078"
        id="text3700"><tspan
          sodipodi:role="line"
          id="tspan3698"
-         x="2023.7461"
+         x="2207.7461"
          y="-226.85078"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff">Learn More</tspan></text>
     <text
        id="text3706"
        y="-349.6467"
-       x="2360.1509"
+       x="2544.1509"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:24.28429985px;line-height:60.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;text-anchor:middle;fill:#2e3436"
          y="-349.6467"
-         x="2360.1509"
+         x="2544.1509"
          id="tspan3704"
          sodipodi:role="line"><tspan
            id="tspan3702"
@@ -4336,12 +4336,12 @@
     <text
        id="text3710"
        y="-312.05002"
-       x="2360.8486"
+       x="2544.8486"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.69600105px;line-height:60.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#2e3436"
          y="-312.05002"
-         x="2360.8486"
+         x="2544.8486"
          id="tspan3708"
          sodipodi:role="line">A major upgrade, with new features and added polish.</tspan></text>
     <rect
@@ -4349,30 +4349,30 @@
        id="rect3712"
        width="149"
        height="33"
-       x="2607.488"
+       x="2791.488"
        y="-248.13838"
        rx="3.0265477"
        ry="3.0112622" />
     <text
        id="text3716"
        y="-226.68282"
-       x="2681.8425"
+       x="2865.8425"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#ffffff"
          y="-226.68282"
-         x="2681.8425"
+         x="2865.8425"
          id="tspan3714"
          sodipodi:role="line">Cancel</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:60.00000238%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="2360.8486"
+       x="2544.8486"
        y="-238.05"
        id="text3769"><tspan
          sodipodi:role="line"
          id="tspan3767"
-         x="2360.8486"
+         x="2544.8486"
          y="-238.05"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff">Downloading 100 MB of 1.1 GB</tspan></text>
     <rect
@@ -4380,7 +4380,7 @@
        id="rect3771"
        width="439"
        height="5"
-       x="2134.5"
+       x="2318.5"
        y="-224.13838"
        rx="3.0265472"
        ry="3.0112619" />
@@ -4388,10 +4388,80 @@
        ry="3.0112619"
        rx="3.0265472"
        y="-224.13838"
-       x="2134.5"
+       x="2318.5"
        height="5"
        width="65"
        id="rect3790"
        style="color:#000000;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#4a90d9;fill-opacity:1;fill-rule:nonzero;stroke:#1c5288;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-  </g>
+    <flowRoot
+       transform="translate(-10.9874,1501.3621)"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot3798"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'"
+         id="flowRegion3794"><rect
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'"
+           y="-1920"
+           x="45"
+           height="89"
+           width="491"
+           id="rect3792" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';fill:#2e3436"
+         id="flowPara3796">OS upgrades</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3806"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-10.9874,1793.3621)"><flowRegion
+         id="flowRegion3802"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'"><rect
+           id="rect3800"
+           width="491"
+           height="89"
+           x="45"
+           y="-1920"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'" /></flowRegion><flowPara
+         id="flowPara3804"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';fill:#2e3436">Integrated firmware</flowPara></flowRoot>    <flowRoot
+       transform="translate(-10.9874,1989.3621)"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot3814"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'"
+         id="flowRegion3810"><rect
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'"
+           y="-1920"
+           x="45"
+           height="89"
+           width="491"
+           id="rect3808" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';fill:#2e3436"
+         id="flowPara3812">Packages</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3822"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-10.9874,2439.3621)"><flowRegion
+         id="flowRegion3818"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'"><rect
+           id="rect3816"
+           width="491"
+           height="89"
+           x="45"
+           y="-1920"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'" /></flowRegion><flowPara
+         id="flowPara3820"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';fill:#2e3436">Flatpaks</flowPara></flowRoot>    <flowRoot
+       transform="translate(-10.9874,2753.3621)"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot3830"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'"
+         id="flowRegion3826"><rect
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light'"
+           y="-1920"
+           x="45"
+           height="89"
+           width="491"
+           id="rect3824" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:18.66666603px;line-height:60.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';fill:#2e3436"
+         id="flowPara3828">Device firmware</flowPara></flowRoot>  </g>
 </svg>

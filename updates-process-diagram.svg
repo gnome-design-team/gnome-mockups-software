@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1006"
-   height="420"
-   viewBox="0 0 266.17082 111.12501"
+   height="500"
+   viewBox="0 0 266.17082 132.29169"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
@@ -29,8 +29,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="615.51096"
-     inkscape:cy="329.3555"
+     inkscape:cx="347.69955"
+     inkscape:cy="294.24439"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,30 +66,30 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-185.87499)">
+     transform="translate(0,-164.70833)">
     <rect
        style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect817"
        width="34.395832"
        height="15.874999"
        x="45.508327"
-       y="246.72815" />
+       y="221.32819" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot819"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666728px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;"
-       transform="matrix(0.26458333,0,0,0.26458333,-31.750001,177.26969)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666794px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-31.750001,151.86965)"><flowRegion
          id="flowRegion821"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666728px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#2e3436;"><rect
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666794px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436"><rect
            id="rect823"
            width="230.06224"
            height="53.790623"
            x="119.95561"
            y="58.071407"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666728px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#2e3436;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666794px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
          id="flowPara825"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666728px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#2e3436;">Auto-updates on</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-31.750001,223.83642)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666794px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436">Auto-updates on</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-31.750001,198.43638)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
        id="flowRoot833"
        xml:space="preserve"><flowRegion
@@ -106,7 +106,7 @@
        xml:space="preserve"
        id="flowRoot843"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,11.705688,196.21174)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,11.705688,170.8117)"><flowRegion
          id="flowRegion845"
          style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"><rect
            id="rect847"
@@ -117,14 +117,14 @@
            style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
          id="flowPara849"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Automatic download</flowPara></flowRoot>    <rect
-       y="246.72815"
+       y="221.32819"
        x="91.016655"
        height="15.874999"
        width="34.395832"
        id="rect851"
        style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,55.758813,196.21174)"
+       transform="matrix(0.26458333,0,0,0.26458333,55.758813,170.8117)"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
        id="flowRoot859"
        xml:space="preserve"><flowRegion
@@ -141,7 +141,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
          id="flowPara861">(requires reboot)</flowPara></flowRoot>    <g
        style="display:inline"
-       transform="matrix(-0.26458333,0,0,0.26458333,114.56459,54.640512)"
+       transform="matrix(-0.26458333,0,0,0.26458333,114.56459,29.240508)"
        id="g3783"
        inkscape:label="go-next">
       <rect
@@ -160,7 +160,7 @@
          style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none" />
     </g>
     <rect
-       y="212.33232"
+       y="186.93236"
        x="45.508327"
        height="15.874992"
        width="34.395832"
@@ -170,7 +170,7 @@
        xml:space="preserve"
        id="flowRoot3814"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-31.750001,189.44053)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-31.750001,164.04049)"><flowRegion
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
          id="flowRegion3810"><rect
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
@@ -181,7 +181,7 @@
            y="58.071407" /></flowRegion><flowPara
          id="flowPara3812"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Flatpaks</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,11.970271,161.81587)"
+       transform="matrix(0.26458333,0,0,0.26458333,11.970271,136.41583)"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
        id="flowRoot3822"
        xml:space="preserve"><flowRegion
@@ -200,12 +200,12 @@
        width="34.395832"
        height="15.874992"
        x="91.016655"
-       y="212.33232" />
+       y="186.93236" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3834"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,55.758813,161.81587)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,55.758813,136.41583)"><flowRegion
          id="flowRegion3828"
          style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"><rect
            id="rect3826"
@@ -220,7 +220,7 @@
          id="flowPara3956">install</flowPara></flowRoot>    <g
        inkscape:label="go-next"
        id="g3840"
-       transform="matrix(-0.26458333,0,0,0.26458333,114.56459,20.244672)"
+       transform="matrix(-0.26458333,0,0,0.26458333,114.56459,-5.1553309)"
        style="display:inline">
       <rect
          transform="scale(-1,1)"
@@ -238,28 +238,28 @@
          sodipodi:nodetypes="ccscsccsscscc" />
     </g>
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,110.06656,177.79877)"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666728px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;"
+       transform="matrix(0.26458333,0,0,0.26458333,110.06656,152.39873)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666794px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
        id="flowRoot3852"
        xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666728px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#2e3436;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666794px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436"
          id="flowRegion3848"><rect
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666728px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#2e3436;"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666794px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436"
            y="58.071407"
            x="119.95561"
            height="53.790623"
            width="230.06224"
            id="rect3846" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666728px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#2e3436;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666794px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436"
          id="flowPara3850">Auto-updates off</flowPara></flowRoot>    <rect
-       y="246.72815"
+       y="221.32819"
        x="-1.1030955e-06"
        height="15.874999"
        width="34.395832"
        id="rect3922"
        style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,-35.257849,198.1873)"
+       transform="matrix(0.26458333,0,0,0.26458333,-35.257849,172.78726)"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
        id="flowRoot3930"
        xml:space="preserve"><flowRegion
@@ -272,10 +272,12 @@
            width="118"
            id="rect3924" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
-         id="flowPara3928">Automatic check</flowPara></flowRoot>    <g
+         id="flowPara3928">Automatic check<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+   id="flowSpan969">1</flowSpan></flowPara></flowRoot>    <g
        inkscape:label="go-next"
        id="g3938"
-       transform="matrix(-0.26458333,0,0,0.26458333,69.056296,54.640512)"
+       transform="matrix(-0.26458333,0,0,0.26458333,69.056296,29.240508)"
        style="display:inline">
       <rect
          transform="scale(-1,1)"
@@ -298,12 +300,12 @@
        width="34.395832"
        height="15.874992"
        x="-1.1030955e-06"
-       y="212.33232" />
+       y="186.93236" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3948"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-35.257849,163.79141)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-35.257849,138.39137)"><flowRegion
          id="flowRegion3944"
          style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"><rect
            id="rect3942"
@@ -313,9 +315,11 @@
            y="204.51965"
            style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
          id="flowPara3946"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Automatic check</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Automatic check<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+   id="flowSpan967">1</flowSpan></flowPara></flowRoot>    <g
        style="display:inline"
-       transform="matrix(-0.26458333,0,0,0.26458333,69.056296,20.244682)"
+       transform="matrix(-0.26458333,0,0,0.26458333,69.056296,-5.1553209)"
        id="g3954"
        inkscape:label="go-next">
       <rect
@@ -334,7 +338,7 @@
          style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none" />
     </g>
     <rect
-       y="246.72911"
+       y="221.32915"
        x="186.79628"
        height="15.874999"
        width="34.395832"
@@ -344,7 +348,7 @@
        xml:space="preserve"
        id="flowRoot3966"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,110.06656,223.83642)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,110.06656,198.43638)"><flowRegion
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
          id="flowRegion3962"><rect
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
@@ -355,7 +359,7 @@
            y="58.071407" /></flowRegion><flowPara
          id="flowPara3964"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">OS images, firmware</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,152.99307,198.71616)"
+       transform="matrix(0.26458333,0,0,0.26458333,152.99307,173.31612)"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
        id="flowRoot3974"
        xml:space="preserve"><flowRegion
@@ -374,12 +378,12 @@
        width="34.395832"
        height="15.874999"
        x="231.77454"
-       y="246.72911" />
+       y="221.32915" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3986"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,196.51701,196.74063)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,196.51701,171.34059)"><flowRegion
          id="flowRegion3980"
          style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"><rect
            id="rect3978"
@@ -394,7 +398,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">(requires reboot)</flowPara></flowRoot>    <g
        inkscape:label="go-next"
        id="g3992"
-       transform="matrix(-0.26458333,0,0,0.26458333,255.32288,55.169693)"
+       transform="matrix(-0.26458333,0,0,0.26458333,255.32288,29.769689)"
        style="display:inline">
       <rect
          transform="scale(-1,1)"
@@ -417,12 +421,12 @@
        width="34.395832"
        height="15.874999"
        x="141.81696"
-       y="246.72911" />
+       y="221.32915" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4002"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,106.55871,198.71617)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,106.55871,173.31613)"><flowRegion
          id="flowRegion3998"
          style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"><rect
            id="rect3996"
@@ -432,9 +436,11 @@
            y="204.51965"
            style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
          id="flowPara4000"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Automatic check</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Automatic check<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+   id="flowSpan975">1</flowSpan></flowPara></flowRoot>    <g
        style="display:inline"
-       transform="matrix(-0.26458333,0,0,0.26458333,210.34373,55.169693)"
+       transform="matrix(-0.26458333,0,0,0.26458333,210.34373,29.769689)"
        id="g4008"
        inkscape:label="go-next">
       <rect
@@ -458,9 +464,9 @@
        width="34.395832"
        height="15.874999"
        x="186.79628"
-       y="212.33327" />
+       y="186.9333" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,110.06656,189.44053)"
+       transform="matrix(0.26458333,0,0,0.26458333,110.06656,164.04049)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
        id="flowRoot4018"
        xml:space="preserve"><flowRegion
@@ -477,7 +483,7 @@
        xml:space="preserve"
        id="flowRoot4026"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,152.99307,164.32018)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,152.99307,138.92014)"><flowRegion
          id="flowRegion4022"
          style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"><rect
            id="rect4020"
@@ -488,14 +494,14 @@
            style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
          id="flowPara4024"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Manual download</flowPara></flowRoot>    <rect
-       y="212.33327"
+       y="186.9333"
        x="231.77454"
        height="15.874999"
        width="34.395832"
        id="rect4028"
        style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,200.22086,162.03391)"
+       transform="matrix(0.26458333,0,0,0.26458333,200.22086,136.63387)"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
        id="flowRoot4038"
        xml:space="preserve"><flowRegion
@@ -510,7 +516,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
          id="flowPara4036">Automatic install</flowPara></flowRoot>    <g
        style="display:inline"
-       transform="matrix(-0.26458333,0,0,0.26458333,255.32288,20.773847)"
+       transform="matrix(-0.26458333,0,0,0.26458333,255.32288,-4.6261558)"
        id="g4044"
        inkscape:label="go-next">
       <rect
@@ -529,14 +535,14 @@
          style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none" />
     </g>
     <rect
-       y="212.33327"
+       y="186.9333"
        x="141.81696"
        height="15.874999"
        width="34.395832"
        id="rect4046"
        style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:#dbdbdb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,106.55871,164.32019)"
+       transform="matrix(0.26458333,0,0,0.26458333,106.55871,138.92015)"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
        id="flowRoot4054"
        xml:space="preserve"><flowRegion
@@ -549,10 +555,12 @@
            width="118"
            id="rect4048" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
-         id="flowPara4052">Automatic check</flowPara></flowRoot>    <g
+         id="flowPara4052">Automatic check<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+   id="flowSpan973">1</flowSpan></flowPara></flowRoot>    <g
        inkscape:label="go-next"
        id="g4060"
-       transform="matrix(-0.26458333,0,0,0.26458333,210.34373,20.773847)"
+       transform="matrix(-0.26458333,0,0,0.26458333,210.34373,-4.6261558)"
        style="display:inline">
       <rect
          transform="scale(-1,1)"
@@ -570,7 +578,7 @@
          sodipodi:nodetypes="ccscsccsscscc" />
     </g>
     <rect
-       y="281.125"
+       y="255.7251"
        x="186.79628"
        height="15.874999"
        width="34.395832"
@@ -580,7 +588,7 @@
        xml:space="preserve"
        id="flowRoot4072"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,110.06656,258.76104)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,110.06656,233.361)"><flowRegion
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
          id="flowRegion4068"><rect
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436"
@@ -591,7 +599,7 @@
            y="58.071407" /></flowRegion><flowPara
          id="flowPara4070"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Packages</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.26458333,0,0,0.26458333,152.99307,233.11198)"
+       transform="matrix(0.26458333,0,0,0.26458333,152.99307,207.71194)"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
        id="flowRoot4080"
        xml:space="preserve"><flowRegion
@@ -610,12 +618,12 @@
        width="34.395832"
        height="15.874999"
        x="231.77454"
-       y="281.125" />
+       y="255.7251" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4090"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,196.51701,231.13645)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,196.51701,205.73641)"><flowRegion
          id="flowRegion4086"
          style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"><rect
            id="rect4084"
@@ -628,7 +636,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Manual install (requires reboot)</flowPara></flowRoot>    <g
        inkscape:label="go-next"
        id="g4096"
-       transform="matrix(-0.26458333,0,0,0.26458333,255.32288,89.565522)"
+       transform="matrix(-0.26458333,0,0,0.26458333,255.32288,64.165518)"
        style="display:inline">
       <rect
          transform="scale(-1,1)"
@@ -651,12 +659,12 @@
        width="34.395832"
        height="15.874999"
        x="141.81696"
-       y="281.125" />
+       y="255.7251" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4106"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:80.00000119%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,106.55871,233.11199)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,106.55871,207.71195)"><flowRegion
          id="flowRegion4102"
          style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436"><rect
            id="rect4100"
@@ -666,9 +674,11 @@
            y="204.51965"
            style="line-height:80.00000119%;text-align:center;text-anchor:middle;fill:#2e3436" /></flowRegion><flowPara
          id="flowPara4104"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Manual check</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.00000119%;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#2e3436">Manual check<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+   id="flowSpan977">2</flowSpan></flowPara></flowRoot>    <g
        style="display:inline"
-       transform="matrix(-0.26458333,0,0,0.26458333,210.34373,89.565522)"
+       transform="matrix(-0.26458333,0,0,0.26458333,210.34373,64.165518)"
        id="g4112"
        inkscape:label="go-next">
       <rect
@@ -686,5 +696,27 @@
          d="m 104.5627,755 5.71875,5.71875 C 110.47732,760.91462 110.74458,761 111.0002,761 h 1 v -1 c 0,-0.25562 -0.0854,-0.52288 -0.28125,-0.71875 L 107.4377,755 l 4.28125,-4.28125 c 0.19587,-0.19587 0.28125,-0.46313 0.28125,-0.71875 v -1 h -1 c -0.25562,0 -0.52288,0.0854 -0.71875,0.28125 z"
          style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none" />
     </g>
-  </g>
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-36.78897,226.76228)"
+       style="font-style:normal;font-weight:normal;font-size:14.66666698px;line-height:160.00000238%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="flowRoot955"
+       xml:space="preserve"><flowRegion
+         style="font-size:14.66666698px;line-height:160.00000238%;text-align:start;text-anchor:start;fill:#2e3436"
+         id="flowRegion951"><rect
+           style="font-size:14.66666698px;line-height:160.00000238%;text-align:start;text-anchor:start;fill:#2e3436"
+           y="204.51965"
+           x="139"
+           height="179.53912"
+           width="653.5799"
+           id="rect949" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436"
+         id="flowPara979"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666794px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="flowSpan971">1</flowSpan> Automatic checks are performed once every 24 hours</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436"
+         id="flowPara981"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666794px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="flowSpan983">2</flowSpan> Notifications need to remind the user when updates haven't been checked for a certain period</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:160.00000238%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;text-anchor:start;fill:#2e3436"
+         id="flowPara957" /></flowRoot>  </g>
 </svg>
